@@ -1,0 +1,10 @@
+version: "1.0"
+name: "audio-description-mcp"
+description: "M2MCent Node: audio-description-mcp. Monetized via x402 on Base."
+server:
+  url: "https://audio-description-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

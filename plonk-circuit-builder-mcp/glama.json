@@ -1,0 +1,10 @@
+{
+  "name": "plonk-circuit-builder-mcp",
+  "description": "M2MCent Node: plonk-circuit-builder-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://plonk-circuit-builder-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

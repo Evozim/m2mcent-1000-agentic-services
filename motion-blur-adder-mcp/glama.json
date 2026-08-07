@@ -1,0 +1,10 @@
+{
+  "name": "motion-blur-adder-mcp",
+  "description": "M2MCent Node: motion-blur-adder-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://motion-blur-adder-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

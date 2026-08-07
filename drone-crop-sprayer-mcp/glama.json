@@ -1,0 +1,10 @@
+{
+  "name": "drone-crop-sprayer-mcp",
+  "description": "M2MCent Node: drone-crop-sprayer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://drone-crop-sprayer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "evm-opcode-fuzzer-mcp",
+  "description": "M2MCent Node: evm-opcode-fuzzer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://evm-opcode-fuzzer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "water-cooling-efficiency-auditor-mcp",
+  "description": "M2MCent Node: water-cooling-efficiency-auditor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://water-cooling-efficiency-auditor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

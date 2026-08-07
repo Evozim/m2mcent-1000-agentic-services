@@ -1,0 +1,10 @@
+version: "1.0"
+name: "grid-trading-bot-mcp"
+description: "M2MCent Node: grid-trading-bot-mcp. Monetized via x402 on Base."
+server:
+  url: "https://grid-trading-bot-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

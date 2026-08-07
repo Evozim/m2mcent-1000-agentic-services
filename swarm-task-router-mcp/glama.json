@@ -1,0 +1,10 @@
+{
+  "name": "swarm-task-router-mcp",
+  "description": "M2MCent Node: swarm-task-router-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://swarm-task-router-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

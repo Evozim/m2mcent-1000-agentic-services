@@ -1,0 +1,10 @@
+{
+  "name": "carbon-tax-compliance-mcp",
+  "description": "M2MCent Node: carbon-tax-compliance-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://carbon-tax-compliance-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

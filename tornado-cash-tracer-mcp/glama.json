@@ -1,0 +1,10 @@
+{
+  "name": "tornado-cash-tracer-mcp",
+  "description": "M2MCent Node: tornado-cash-tracer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://tornado-cash-tracer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

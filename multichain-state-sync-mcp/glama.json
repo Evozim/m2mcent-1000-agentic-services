@@ -1,0 +1,10 @@
+{
+  "name": "multichain-state-sync-mcp",
+  "description": "M2MCent Node: multichain-state-sync-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://multichain-state-sync-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

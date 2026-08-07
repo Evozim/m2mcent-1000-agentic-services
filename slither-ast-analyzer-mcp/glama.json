@@ -1,0 +1,10 @@
+{
+  "name": "slither-ast-analyzer-mcp",
+  "description": "M2MCent Node: slither-ast-analyzer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://slither-ast-analyzer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

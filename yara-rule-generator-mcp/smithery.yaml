@@ -1,0 +1,10 @@
+version: "1.0"
+name: "yara-rule-generator-mcp"
+description: "M2MCent Node: yara-rule-generator-mcp. Monetized via x402 on Base."
+server:
+  url: "https://yara-rule-generator-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

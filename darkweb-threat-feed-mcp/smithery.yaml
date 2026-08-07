@@ -1,0 +1,10 @@
+version: "1.0"
+name: "darkweb-threat-feed-mcp"
+description: "M2MCent Node: darkweb-threat-feed-mcp. Monetized via x402 on Base."
+server:
+  url: "https://darkweb-threat-feed-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

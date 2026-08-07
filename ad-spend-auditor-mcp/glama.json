@@ -1,0 +1,10 @@
+{
+  "name": "ad-spend-auditor-mcp",
+  "description": "M2MCent Node: ad-spend-auditor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://ad-spend-auditor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "material-graph-converter-mcp",
+  "description": "M2MCent Node: material-graph-converter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://material-graph-converter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

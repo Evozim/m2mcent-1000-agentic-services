@@ -1,0 +1,10 @@
+version: "1.0"
+name: "head-tracking-audio-sync-mcp"
+description: "M2MCent Node: head-tracking-audio-sync-mcp. Monetized via x402 on Base."
+server:
+  url: "https://head-tracking-audio-sync-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "smart-contract-lawyer-mcp"
+description: "M2MCent Node: smart-contract-lawyer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://smart-contract-lawyer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

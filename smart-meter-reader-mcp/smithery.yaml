@@ -1,0 +1,10 @@
+version: "1.0"
+name: "smart-meter-reader-mcp"
+description: "M2MCent Node: smart-meter-reader-mcp. Monetized via x402 on Base."
+server:
+  url: "https://smart-meter-reader-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

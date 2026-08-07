@@ -1,0 +1,10 @@
+{
+  "name": "time-lock-deadline-mcp",
+  "description": "M2MCent Node: time-lock-deadline-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://time-lock-deadline-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

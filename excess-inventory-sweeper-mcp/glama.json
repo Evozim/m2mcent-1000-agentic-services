@@ -1,0 +1,10 @@
+{
+  "name": "excess-inventory-sweeper-mcp",
+  "description": "M2MCent Node: excess-inventory-sweeper-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://excess-inventory-sweeper-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

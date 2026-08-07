@@ -1,0 +1,10 @@
+{
+  "name": "data-observability-mcp",
+  "description": "M2MCent Node: data-observability-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://data-observability-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

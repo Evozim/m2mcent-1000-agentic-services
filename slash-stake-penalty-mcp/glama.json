@@ -1,0 +1,10 @@
+{
+  "name": "slash-stake-penalty-mcp",
+  "description": "M2MCent Node: slash-stake-penalty-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://slash-stake-penalty-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

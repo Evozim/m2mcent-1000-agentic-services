@@ -1,0 +1,10 @@
+{
+  "name": "automated-xml-invoicing-mcp",
+  "description": "M2MCent Node: automated-xml-invoicing-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://automated-xml-invoicing-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

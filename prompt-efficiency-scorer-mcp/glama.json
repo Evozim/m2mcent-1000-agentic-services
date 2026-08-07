@@ -1,0 +1,10 @@
+{
+  "name": "prompt-efficiency-scorer-mcp",
+  "description": "M2MCent Node: prompt-efficiency-scorer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://prompt-efficiency-scorer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cargo-load-balancer-mcp",
+  "description": "M2MCent Node: cargo-load-balancer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cargo-load-balancer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

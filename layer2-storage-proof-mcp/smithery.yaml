@@ -1,0 +1,10 @@
+version: "1.0"
+name: "layer2-storage-proof-mcp"
+description: "M2MCent Node: layer2-storage-proof-mcp. Monetized via x402 on Base."
+server:
+  url: "https://layer2-storage-proof-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

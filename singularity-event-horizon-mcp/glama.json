@@ -1,0 +1,10 @@
+{
+  "name": "singularity-event-horizon-mcp",
+  "description": "M2MCent Node: singularity-event-horizon-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://singularity-event-horizon-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

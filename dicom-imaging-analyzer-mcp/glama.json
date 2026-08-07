@@ -1,0 +1,10 @@
+{
+  "name": "dicom-imaging-analyzer-mcp",
+  "description": "M2MCent Node: dicom-imaging-analyzer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://dicom-imaging-analyzer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

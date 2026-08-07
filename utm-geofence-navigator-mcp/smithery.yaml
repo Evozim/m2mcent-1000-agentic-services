@@ -1,0 +1,10 @@
+version: "1.0"
+name: "utm-geofence-navigator-mcp"
+description: "M2MCent Node: utm-geofence-navigator-mcp. Monetized via x402 on Base."
+server:
+  url: "https://utm-geofence-navigator-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

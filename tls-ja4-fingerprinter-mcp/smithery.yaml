@@ -1,0 +1,10 @@
+version: "1.0"
+name: "tls-ja4-fingerprinter-mcp"
+description: "M2MCent Node: tls-ja4-fingerprinter-mcp. Monetized via x402 on Base."
+server:
+  url: "https://tls-ja4-fingerprinter-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

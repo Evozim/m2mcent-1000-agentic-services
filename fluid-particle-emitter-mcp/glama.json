@@ -1,0 +1,10 @@
+{
+  "name": "fluid-particle-emitter-mcp",
+  "description": "M2MCent Node: fluid-particle-emitter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://fluid-particle-emitter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

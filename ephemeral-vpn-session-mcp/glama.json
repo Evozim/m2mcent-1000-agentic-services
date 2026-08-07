@@ -1,0 +1,10 @@
+{
+  "name": "ephemeral-vpn-session-mcp",
+  "description": "M2MCent Node: ephemeral-vpn-session-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://ephemeral-vpn-session-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

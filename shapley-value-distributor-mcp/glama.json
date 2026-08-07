@@ -1,0 +1,10 @@
+{
+  "name": "shapley-value-distributor-mcp",
+  "description": "M2MCent Node: shapley-value-distributor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://shapley-value-distributor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "sustainable-llm-leaderboard-oracle-mcp",
+  "description": "M2MCent Node: sustainable-llm-leaderboard-oracle-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://sustainable-llm-leaderboard-oracle-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

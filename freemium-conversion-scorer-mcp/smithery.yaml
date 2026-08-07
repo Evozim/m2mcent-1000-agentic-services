@@ -1,0 +1,10 @@
+version: "1.0"
+name: "freemium-conversion-scorer-mcp"
+description: "M2MCent Node: freemium-conversion-scorer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://freemium-conversion-scorer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

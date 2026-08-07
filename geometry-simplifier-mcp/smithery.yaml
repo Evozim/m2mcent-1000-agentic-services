@@ -1,0 +1,10 @@
+version: "1.0"
+name: "geometry-simplifier-mcp"
+description: "M2MCent Node: geometry-simplifier-mcp. Monetized via x402 on Base."
+server:
+  url: "https://geometry-simplifier-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

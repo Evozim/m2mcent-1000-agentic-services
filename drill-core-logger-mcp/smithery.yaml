@@ -1,0 +1,10 @@
+version: "1.0"
+name: "drill-core-logger-mcp"
+description: "M2MCent Node: drill-core-logger-mcp. Monetized via x402 on Base."
+server:
+  url: "https://drill-core-logger-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

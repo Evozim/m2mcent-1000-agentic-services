@@ -1,0 +1,10 @@
+{
+  "name": "autonomous-haul-truck-mcp",
+  "description": "M2MCent Node: autonomous-haul-truck-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://autonomous-haul-truck-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

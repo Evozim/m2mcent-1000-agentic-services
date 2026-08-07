@@ -1,0 +1,10 @@
+{
+  "name": "k-framework-semantics-mcp",
+  "description": "M2MCent Node: k-framework-semantics-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://k-framework-semantics-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

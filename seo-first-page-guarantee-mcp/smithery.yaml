@@ -1,0 +1,10 @@
+version: "1.0"
+name: "seo-first-page-guarantee-mcp"
+description: "M2MCent Node: seo-first-page-guarantee-mcp. Monetized via x402 on Base."
+server:
+  url: "https://seo-first-page-guarantee-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

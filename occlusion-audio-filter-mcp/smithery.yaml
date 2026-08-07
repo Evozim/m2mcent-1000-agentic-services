@@ -1,0 +1,10 @@
+version: "1.0"
+name: "occlusion-audio-filter-mcp"
+description: "M2MCent Node: occlusion-audio-filter-mcp. Monetized via x402 on Base."
+server:
+  url: "https://occlusion-audio-filter-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

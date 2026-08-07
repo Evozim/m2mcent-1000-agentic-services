@@ -1,0 +1,10 @@
+{
+  "name": "tuya-local-key-mcp",
+  "description": "M2MCent Node: tuya-local-key-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://tuya-local-key-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

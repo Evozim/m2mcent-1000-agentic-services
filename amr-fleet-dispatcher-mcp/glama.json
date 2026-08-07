@@ -1,0 +1,10 @@
+{
+  "name": "amr-fleet-dispatcher-mcp",
+  "description": "M2MCent Node: amr-fleet-dispatcher-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://amr-fleet-dispatcher-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "optimistic-rollup-challenger-mcp",
+  "description": "M2MCent Node: optimistic-rollup-challenger-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://optimistic-rollup-challenger-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

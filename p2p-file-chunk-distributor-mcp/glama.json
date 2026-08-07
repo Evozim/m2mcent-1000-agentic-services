@@ -1,0 +1,10 @@
+{
+  "name": "p2p-file-chunk-distributor-mcp",
+  "description": "M2MCent Node: p2p-file-chunk-distributor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://p2p-file-chunk-distributor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

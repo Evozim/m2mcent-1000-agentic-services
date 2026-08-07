@@ -1,0 +1,10 @@
+version: "1.0"
+name: "vertex-welder-mcp"
+description: "M2MCent Node: vertex-welder-mcp. Monetized via x402 on Base."
+server:
+  url: "https://vertex-welder-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "dan-jailbreak-filter-mcp",
+  "description": "M2MCent Node: dan-jailbreak-filter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://dan-jailbreak-filter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

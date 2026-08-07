@@ -1,0 +1,10 @@
+{
+  "name": "context-window-overflow-router-mcp",
+  "description": "M2MCent Node: context-window-overflow-router-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://context-window-overflow-router-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

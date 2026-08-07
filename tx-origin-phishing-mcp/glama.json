@@ -1,0 +1,10 @@
+{
+  "name": "tx-origin-phishing-mcp",
+  "description": "M2MCent Node: tx-origin-phishing-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://tx-origin-phishing-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

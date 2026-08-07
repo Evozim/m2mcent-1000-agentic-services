@@ -1,0 +1,10 @@
+{
+  "name": "draco-mesh-compressor-mcp",
+  "description": "M2MCent Node: draco-mesh-compressor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://draco-mesh-compressor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

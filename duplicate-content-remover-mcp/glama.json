@@ -1,0 +1,10 @@
+{
+  "name": "duplicate-content-remover-mcp",
+  "description": "M2MCent Node: duplicate-content-remover-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://duplicate-content-remover-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "displacement-height-map-mcp"
+description: "M2MCent Node: displacement-height-map-mcp. Monetized via x402 on Base."
+server:
+  url: "https://displacement-height-map-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

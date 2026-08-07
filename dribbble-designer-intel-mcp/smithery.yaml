@@ -1,0 +1,10 @@
+version: "1.0"
+name: "dribbble-designer-intel-mcp"
+description: "M2MCent Node: dribbble-designer-intel-mcp. Monetized via x402 on Base."
+server:
+  url: "https://dribbble-designer-intel-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

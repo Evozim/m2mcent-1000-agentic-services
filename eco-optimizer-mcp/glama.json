@@ -1,0 +1,10 @@
+{
+  "name": "eco-optimizer-mcp",
+  "description": "M2MCent Node: eco-optimizer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://eco-optimizer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

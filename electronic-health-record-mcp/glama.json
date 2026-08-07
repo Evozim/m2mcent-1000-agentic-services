@@ -1,0 +1,10 @@
+{
+  "name": "electronic-health-record-mcp",
+  "description": "M2MCent Node: electronic-health-record-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://electronic-health-record-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

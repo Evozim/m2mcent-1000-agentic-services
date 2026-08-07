@@ -1,0 +1,10 @@
+{
+  "name": "pedersen-commitment-mcp",
+  "description": "M2MCent Node: pedersen-commitment-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://pedersen-commitment-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

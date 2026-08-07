@@ -1,0 +1,10 @@
+{
+  "name": "quantum-resistant-signature-oracle-mcp",
+  "description": "M2MCent Node: quantum-resistant-signature-oracle-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://quantum-resistant-signature-oracle-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

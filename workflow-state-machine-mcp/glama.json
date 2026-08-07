@@ -1,0 +1,10 @@
+{
+  "name": "workflow-state-machine-mcp",
+  "description": "M2MCent Node: workflow-state-machine-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://workflow-state-machine-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

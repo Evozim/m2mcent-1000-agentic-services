@@ -1,0 +1,10 @@
+{
+  "name": "blinded-macaroon-signer-mcp",
+  "description": "M2MCent Node: blinded-macaroon-signer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://blinded-macaroon-signer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

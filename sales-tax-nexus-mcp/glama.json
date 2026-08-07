@@ -1,0 +1,10 @@
+{
+  "name": "sales-tax-nexus-mcp",
+  "description": "M2MCent Node: sales-tax-nexus-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://sales-tax-nexus-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

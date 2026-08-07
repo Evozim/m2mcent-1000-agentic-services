@@ -1,0 +1,10 @@
+{
+  "name": "conflict-minerals-audit-mcp",
+  "description": "M2MCent Node: conflict-minerals-audit-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://conflict-minerals-audit-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

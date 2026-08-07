@@ -1,0 +1,10 @@
+{
+  "name": "profibus-data-logger-mcp",
+  "description": "M2MCent Node: profibus-data-logger-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://profibus-data-logger-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

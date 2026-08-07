@@ -1,0 +1,10 @@
+version: "1.0"
+name: "damaged-text-inpainter-mcp"
+description: "M2MCent Node: damaged-text-inpainter-mcp. Monetized via x402 on Base."
+server:
+  url: "https://damaged-text-inpainter-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

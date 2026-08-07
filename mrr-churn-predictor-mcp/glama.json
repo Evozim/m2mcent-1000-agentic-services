@@ -1,0 +1,10 @@
+{
+  "name": "mrr-churn-predictor-mcp",
+  "description": "M2MCent Node: mrr-churn-predictor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://mrr-churn-predictor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pallet-lot-appraiser-mcp",
+  "description": "M2MCent Node: pallet-lot-appraiser-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://pallet-lot-appraiser-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

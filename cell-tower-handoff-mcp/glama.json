@@ -1,0 +1,10 @@
+{
+  "name": "cell-tower-handoff-mcp",
+  "description": "M2MCent Node: cell-tower-handoff-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cell-tower-handoff-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

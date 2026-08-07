@@ -1,0 +1,10 @@
+{
+  "name": "renewable-energy-cert-mcp",
+  "description": "M2MCent Node: renewable-energy-cert-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://renewable-energy-cert-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "rife-60fps-interpolator-mcp"
+description: "M2MCent Node: rife-60fps-interpolator-mcp. Monetized via x402 on Base."
+server:
+  url: "https://rife-60fps-interpolator-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

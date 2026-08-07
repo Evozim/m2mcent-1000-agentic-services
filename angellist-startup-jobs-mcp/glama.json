@@ -1,0 +1,10 @@
+{
+  "name": "angellist-startup-jobs-mcp",
+  "description": "M2MCent Node: angellist-startup-jobs-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://angellist-startup-jobs-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

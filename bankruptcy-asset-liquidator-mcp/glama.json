@@ -1,0 +1,10 @@
+{
+  "name": "bankruptcy-asset-liquidator-mcp",
+  "description": "M2MCent Node: bankruptcy-asset-liquidator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://bankruptcy-asset-liquidator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

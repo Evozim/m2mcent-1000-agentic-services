@@ -1,0 +1,10 @@
+{
+  "name": "airbnb-smart-lock-mcp",
+  "description": "M2MCent Node: airbnb-smart-lock-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://airbnb-smart-lock-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

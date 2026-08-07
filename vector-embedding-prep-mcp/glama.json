@@ -1,0 +1,10 @@
+{
+  "name": "vector-embedding-prep-mcp",
+  "description": "M2MCent Node: vector-embedding-prep-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://vector-embedding-prep-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

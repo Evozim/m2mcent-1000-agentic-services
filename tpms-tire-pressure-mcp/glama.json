@@ -1,0 +1,10 @@
+{
+  "name": "tpms-tire-pressure-mcp",
+  "description": "M2MCent Node: tpms-tire-pressure-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://tpms-tire-pressure-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

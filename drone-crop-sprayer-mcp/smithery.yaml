@@ -1,0 +1,10 @@
+version: "1.0"
+name: "drone-crop-sprayer-mcp"
+description: "M2MCent Node: drone-crop-sprayer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://drone-crop-sprayer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

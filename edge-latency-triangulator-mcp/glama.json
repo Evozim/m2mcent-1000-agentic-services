@@ -1,0 +1,10 @@
+{
+  "name": "edge-latency-triangulator-mcp",
+  "description": "M2MCent Node: edge-latency-triangulator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://edge-latency-triangulator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

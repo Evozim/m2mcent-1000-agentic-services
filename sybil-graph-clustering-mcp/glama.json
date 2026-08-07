@@ -1,0 +1,10 @@
+{
+  "name": "sybil-graph-clustering-mcp",
+  "description": "M2MCent Node: sybil-graph-clustering-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://sybil-graph-clustering-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

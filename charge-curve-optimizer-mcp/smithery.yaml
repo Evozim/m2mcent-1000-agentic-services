@@ -1,0 +1,10 @@
+version: "1.0"
+name: "charge-curve-optimizer-mcp"
+description: "M2MCent Node: charge-curve-optimizer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://charge-curve-optimizer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

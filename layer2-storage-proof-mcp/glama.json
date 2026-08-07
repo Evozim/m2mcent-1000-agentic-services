@@ -1,0 +1,10 @@
+{
+  "name": "layer2-storage-proof-mcp",
+  "description": "M2MCent Node: layer2-storage-proof-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://layer2-storage-proof-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

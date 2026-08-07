@@ -1,0 +1,10 @@
+version: "1.0"
+name: "barcode-qr-decoder-mcp"
+description: "M2MCent Node: barcode-qr-decoder-mcp. Monetized via x402 on Base."
+server:
+  url: "https://barcode-qr-decoder-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

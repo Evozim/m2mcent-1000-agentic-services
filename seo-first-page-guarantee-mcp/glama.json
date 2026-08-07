@@ -1,0 +1,10 @@
+{
+  "name": "seo-first-page-guarantee-mcp",
+  "description": "M2MCent Node: seo-first-page-guarantee-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://seo-first-page-guarantee-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

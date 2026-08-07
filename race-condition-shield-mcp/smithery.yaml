@@ -1,0 +1,10 @@
+version: "1.0"
+name: "race-condition-shield-mcp"
+description: "M2MCent Node: race-condition-shield-mcp. Monetized via x402 on Base."
+server:
+  url: "https://race-condition-shield-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

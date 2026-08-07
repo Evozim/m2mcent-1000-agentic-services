@@ -1,0 +1,10 @@
+{
+  "name": "tls-ja4-fingerprinter-mcp",
+  "description": "M2MCent Node: tls-ja4-fingerprinter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://tls-ja4-fingerprinter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

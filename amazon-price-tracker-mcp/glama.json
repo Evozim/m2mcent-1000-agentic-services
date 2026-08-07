@@ -1,0 +1,10 @@
+{
+  "name": "amazon-price-tracker-mcp",
+  "description": "M2MCent Node: amazon-price-tracker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://amazon-price-tracker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

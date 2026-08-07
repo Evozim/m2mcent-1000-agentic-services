@@ -1,0 +1,10 @@
+version: "1.0"
+name: "zero-shot-voice-clone-mcp"
+description: "M2MCent Node: zero-shot-voice-clone-mcp. Monetized via x402 on Base."
+server:
+  url: "https://zero-shot-voice-clone-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

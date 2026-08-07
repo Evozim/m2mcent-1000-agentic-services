@@ -1,0 +1,10 @@
+{
+  "name": "labor-trends-mcp",
+  "description": "M2MCent Node: labor-trends-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://labor-trends-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

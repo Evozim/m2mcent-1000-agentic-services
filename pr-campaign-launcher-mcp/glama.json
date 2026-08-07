@@ -1,0 +1,10 @@
+{
+  "name": "pr-campaign-launcher-mcp",
+  "description": "M2MCent Node: pr-campaign-launcher-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://pr-campaign-launcher-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

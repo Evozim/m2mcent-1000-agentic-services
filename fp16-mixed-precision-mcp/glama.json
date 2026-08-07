@@ -1,0 +1,10 @@
+{
+  "name": "fp16-mixed-precision-mcp",
+  "description": "M2MCent Node: fp16-mixed-precision-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://fp16-mixed-precision-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

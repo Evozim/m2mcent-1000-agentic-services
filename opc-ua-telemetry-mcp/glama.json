@@ -1,0 +1,10 @@
+{
+  "name": "opc-ua-telemetry-mcp",
+  "description": "M2MCent Node: opc-ua-telemetry-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://opc-ua-telemetry-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

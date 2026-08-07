@@ -1,0 +1,10 @@
+version: "1.0"
+name: "latin-papyrus-ocr-mcp"
+description: "M2MCent Node: latin-papyrus-ocr-mcp. Monetized via x402 on Base."
+server:
+  url: "https://latin-papyrus-ocr-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

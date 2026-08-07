@@ -1,0 +1,10 @@
+{
+  "name": "home-assistant-yaml-mcp",
+  "description": "M2MCent Node: home-assistant-yaml-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://home-assistant-yaml-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

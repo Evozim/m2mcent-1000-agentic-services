@@ -1,0 +1,10 @@
+{
+  "name": "white-hat-payout-mcp",
+  "description": "M2MCent Node: white-hat-payout-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://white-hat-payout-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

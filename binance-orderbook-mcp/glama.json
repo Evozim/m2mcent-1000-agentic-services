@@ -1,0 +1,10 @@
+{
+  "name": "binance-orderbook-mcp",
+  "description": "M2MCent Node: binance-orderbook-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://binance-orderbook-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

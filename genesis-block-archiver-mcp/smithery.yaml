@@ -1,0 +1,10 @@
+version: "1.0"
+name: "genesis-block-archiver-mcp"
+description: "M2MCent Node: genesis-block-archiver-mcp. Monetized via x402 on Base."
+server:
+  url: "https://genesis-block-archiver-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "cross-company-agent-dispute-court-mcp"
+description: "M2MCent Node: cross-company-agent-dispute-court-mcp. Monetized via x402 on Base."
+server:
+  url: "https://cross-company-agent-dispute-court-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

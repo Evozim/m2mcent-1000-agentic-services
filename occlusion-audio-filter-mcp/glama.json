@@ -1,0 +1,10 @@
+{
+  "name": "occlusion-audio-filter-mcp",
+  "description": "M2MCent Node: occlusion-audio-filter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://occlusion-audio-filter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

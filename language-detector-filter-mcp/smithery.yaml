@@ -1,0 +1,10 @@
+version: "1.0"
+name: "language-detector-filter-mcp"
+description: "M2MCent Node: language-detector-filter-mcp. Monetized via x402 on Base."
+server:
+  url: "https://language-detector-filter-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "pixar-usd-assembler-mcp",
+  "description": "M2MCent Node: pixar-usd-assembler-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://pixar-usd-assembler-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

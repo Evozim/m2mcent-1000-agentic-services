@@ -1,0 +1,10 @@
+version: "1.0"
+name: "token-burn-accounting-mcp"
+description: "M2MCent Node: token-burn-accounting-mcp. Monetized via x402 on Base."
+server:
+  url: "https://token-burn-accounting-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "spam-intent-classifier-mcp"
+description: "M2MCent Node: spam-intent-classifier-mcp. Monetized via x402 on Base."
+server:
+  url: "https://spam-intent-classifier-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

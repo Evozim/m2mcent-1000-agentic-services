@@ -1,0 +1,10 @@
+{
+  "name": "sdr-meeting-booker-mcp",
+  "description": "M2MCent Node: sdr-meeting-booker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://sdr-meeting-booker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

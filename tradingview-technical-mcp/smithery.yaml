@@ -1,0 +1,10 @@
+version: "1.0"
+name: "tradingview-technical-mcp"
+description: "M2MCent Node: tradingview-technical-mcp. Monetized via x402 on Base."
+server:
+  url: "https://tradingview-technical-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "api-rate-limit-enforcer-mcp",
+  "description": "M2MCent Node: api-rate-limit-enforcer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://api-rate-limit-enforcer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

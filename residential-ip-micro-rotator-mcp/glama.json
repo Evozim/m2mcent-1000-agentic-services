@@ -1,0 +1,10 @@
+{
+  "name": "residential-ip-micro-rotator-mcp",
+  "description": "M2MCent Node: residential-ip-micro-rotator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://residential-ip-micro-rotator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

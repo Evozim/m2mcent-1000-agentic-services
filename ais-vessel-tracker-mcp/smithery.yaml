@@ -1,0 +1,10 @@
+version: "1.0"
+name: "ais-vessel-tracker-mcp"
+description: "M2MCent Node: ais-vessel-tracker-mcp. Monetized via x402 on Base."
+server:
+  url: "https://ais-vessel-tracker-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

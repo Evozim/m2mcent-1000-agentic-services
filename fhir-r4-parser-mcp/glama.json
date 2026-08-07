@@ -1,0 +1,10 @@
+{
+  "name": "fhir-r4-parser-mcp",
+  "description": "M2MCent Node: fhir-r4-parser-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://fhir-r4-parser-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "private-llm-instance-provisioner-mcp",
+  "description": "M2MCent Node: private-llm-instance-provisioner-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://private-llm-instance-provisioner-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

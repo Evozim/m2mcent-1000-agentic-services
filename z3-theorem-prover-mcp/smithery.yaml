@@ -1,0 +1,10 @@
+version: "1.0"
+name: "z3-theorem-prover-mcp"
+description: "M2MCent Node: z3-theorem-prover-mcp. Monetized via x402 on Base."
+server:
+  url: "https://z3-theorem-prover-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

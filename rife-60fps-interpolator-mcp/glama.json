@@ -1,0 +1,10 @@
+{
+  "name": "rife-60fps-interpolator-mcp",
+  "description": "M2MCent Node: rife-60fps-interpolator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://rife-60fps-interpolator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

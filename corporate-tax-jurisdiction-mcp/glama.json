@@ -1,0 +1,10 @@
+{
+  "name": "corporate-tax-jurisdiction-mcp",
+  "description": "M2MCent Node: corporate-tax-jurisdiction-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://corporate-tax-jurisdiction-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

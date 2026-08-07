@@ -1,0 +1,10 @@
+version: "1.0"
+name: "planar-tracker-mocha-mcp"
+description: "M2MCent Node: planar-tracker-mocha-mcp. Monetized via x402 on Base."
+server:
+  url: "https://planar-tracker-mocha-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "webapp-uat-mcp",
+  "description": "M2MCent Node: webapp-uat-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://webapp-uat-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

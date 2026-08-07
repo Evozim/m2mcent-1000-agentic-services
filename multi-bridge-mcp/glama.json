@@ -1,0 +1,10 @@
+{
+  "name": "multi-bridge-mcp",
+  "description": "M2MCent Node: multi-bridge-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://multi-bridge-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

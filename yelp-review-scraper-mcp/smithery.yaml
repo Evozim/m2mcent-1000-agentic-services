@@ -1,0 +1,10 @@
+version: "1.0"
+name: "yelp-review-scraper-mcp"
+description: "M2MCent Node: yelp-review-scraper-mcp. Monetized via x402 on Base."
+server:
+  url: "https://yelp-review-scraper-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

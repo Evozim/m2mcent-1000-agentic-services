@@ -1,0 +1,10 @@
+{
+  "name": "model-explainability-auditor-mcp",
+  "description": "M2MCent Node: model-explainability-auditor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://model-explainability-auditor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

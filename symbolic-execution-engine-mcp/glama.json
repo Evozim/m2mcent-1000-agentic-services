@@ -1,0 +1,10 @@
+{
+  "name": "symbolic-execution-engine-mcp",
+  "description": "M2MCent Node: symbolic-execution-engine-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://symbolic-execution-engine-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

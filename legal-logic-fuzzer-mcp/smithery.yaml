@@ -1,0 +1,10 @@
+version: "1.0"
+name: "legal-logic-fuzzer-mcp"
+description: "M2MCent Node: legal-logic-fuzzer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://legal-logic-fuzzer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

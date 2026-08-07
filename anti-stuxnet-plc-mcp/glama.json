@@ -1,0 +1,10 @@
+{
+  "name": "anti-stuxnet-plc-mcp",
+  "description": "M2MCent Node: anti-stuxnet-plc-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://anti-stuxnet-plc-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

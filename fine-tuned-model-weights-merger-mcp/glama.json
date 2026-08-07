@@ -1,0 +1,10 @@
+{
+  "name": "fine-tuned-model-weights-merger-mcp",
+  "description": "M2MCent Node: fine-tuned-model-weights-merger-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://fine-tuned-model-weights-merger-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

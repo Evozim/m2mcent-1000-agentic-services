@@ -1,0 +1,10 @@
+{
+  "name": "shadow-ai-use-sentinel-mcp",
+  "description": "M2MCent Node: shadow-ai-use-sentinel-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://shadow-ai-use-sentinel-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "baidu-china-search-mcp",
+  "description": "M2MCent Node: baidu-china-search-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://baidu-china-search-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

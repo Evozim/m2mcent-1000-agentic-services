@@ -1,0 +1,10 @@
+{
+  "name": "behance-portfolio-scraper-mcp",
+  "description": "M2MCent Node: behance-portfolio-scraper-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://behance-portfolio-scraper-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

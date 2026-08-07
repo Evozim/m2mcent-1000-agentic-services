@@ -1,0 +1,10 @@
+version: "1.0"
+name: "route-weather-hazard-mcp"
+description: "M2MCent Node: route-weather-hazard-mcp. Monetized via x402 on Base."
+server:
+  url: "https://route-weather-hazard-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

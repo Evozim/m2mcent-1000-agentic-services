@@ -1,0 +1,10 @@
+{
+  "name": "time-bandit-attack-guard-mcp",
+  "description": "M2MCent Node: time-bandit-attack-guard-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://time-bandit-attack-guard-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

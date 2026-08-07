@@ -1,0 +1,10 @@
+{
+  "name": "optical-flow-estimator-mcp",
+  "description": "M2MCent Node: optical-flow-estimator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://optical-flow-estimator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

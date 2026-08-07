@@ -1,0 +1,10 @@
+version: "1.0"
+name: "escrow-time-lock-factory-mcp"
+description: "M2MCent Node: escrow-time-lock-factory-mcp. Monetized via x402 on Base."
+server:
+  url: "https://escrow-time-lock-factory-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

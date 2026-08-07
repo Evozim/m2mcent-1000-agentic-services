@@ -1,0 +1,10 @@
+version: "1.0"
+name: "network-slicing-allocator-mcp"
+description: "M2MCent Node: network-slicing-allocator-mcp. Monetized via x402 on Base."
+server:
+  url: "https://network-slicing-allocator-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

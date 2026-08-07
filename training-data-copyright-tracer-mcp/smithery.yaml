@@ -1,0 +1,10 @@
+version: "1.0"
+name: "training-data-copyright-tracer-mcp"
+description: "M2MCent Node: training-data-copyright-tracer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://training-data-copyright-tracer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

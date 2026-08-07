@@ -1,0 +1,10 @@
+version: "1.0"
+name: "tcp-packet-latency-minimizer-mcp"
+description: "M2MCent Node: tcp-packet-latency-minimizer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://tcp-packet-latency-minimizer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "sybil-resistance-score-mcp"
+description: "M2MCent Node: sybil-resistance-score-mcp. Monetized via x402 on Base."
+server:
+  url: "https://sybil-resistance-score-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

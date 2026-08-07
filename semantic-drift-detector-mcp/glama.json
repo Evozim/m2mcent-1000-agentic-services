@@ -1,0 +1,10 @@
+{
+  "name": "semantic-drift-detector-mcp",
+  "description": "M2MCent Node: semantic-drift-detector-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://semantic-drift-detector-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

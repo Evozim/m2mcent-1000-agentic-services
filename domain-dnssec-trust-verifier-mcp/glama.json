@@ -1,0 +1,10 @@
+{
+  "name": "domain-dnssec-trust-verifier-mcp",
+  "description": "M2MCent Node: domain-dnssec-trust-verifier-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://domain-dnssec-trust-verifier-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

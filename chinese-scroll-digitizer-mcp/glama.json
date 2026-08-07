@@ -1,0 +1,10 @@
+{
+  "name": "chinese-scroll-digitizer-mcp",
+  "description": "M2MCent Node: chinese-scroll-digitizer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://chinese-scroll-digitizer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

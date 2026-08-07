@@ -1,0 +1,10 @@
+version: "1.0"
+name: "obj-to-gltf-pipeline-mcp"
+description: "M2MCent Node: obj-to-gltf-pipeline-mcp. Monetized via x402 on Base."
+server:
+  url: "https://obj-to-gltf-pipeline-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

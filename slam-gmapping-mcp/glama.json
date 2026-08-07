@@ -1,0 +1,10 @@
+{
+  "name": "slam-gmapping-mcp",
+  "description": "M2MCent Node: slam-gmapping-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://slam-gmapping-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

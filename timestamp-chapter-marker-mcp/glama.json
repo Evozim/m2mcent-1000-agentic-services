@@ -1,0 +1,10 @@
+{
+  "name": "timestamp-chapter-marker-mcp",
+  "description": "M2MCent Node: timestamp-chapter-marker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://timestamp-chapter-marker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

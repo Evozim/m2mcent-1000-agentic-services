@@ -1,0 +1,10 @@
+{
+  "name": "zk-payroll-vault-mcp",
+  "description": "M2MCent Node: zk-payroll-vault-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://zk-payroll-vault-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

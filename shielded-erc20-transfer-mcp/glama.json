@@ -1,0 +1,10 @@
+{
+  "name": "shielded-erc20-transfer-mcp",
+  "description": "M2MCent Node: shielded-erc20-transfer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://shielded-erc20-transfer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

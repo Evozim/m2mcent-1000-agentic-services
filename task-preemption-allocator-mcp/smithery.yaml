@@ -1,0 +1,10 @@
+version: "1.0"
+name: "task-preemption-allocator-mcp"
+description: "M2MCent Node: task-preemption-allocator-mcp. Monetized via x402 on Base."
+server:
+  url: "https://task-preemption-allocator-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

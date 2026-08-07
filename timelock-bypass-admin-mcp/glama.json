@@ -1,0 +1,10 @@
+{
+  "name": "timelock-bypass-admin-mcp",
+  "description": "M2MCent Node: timelock-bypass-admin-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://timelock-bypass-admin-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

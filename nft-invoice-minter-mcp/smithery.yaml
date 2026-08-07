@@ -1,0 +1,10 @@
+version: "1.0"
+name: "nft-invoice-minter-mcp"
+description: "M2MCent Node: nft-invoice-minter-mcp. Monetized via x402 on Base."
+server:
+  url: "https://nft-invoice-minter-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

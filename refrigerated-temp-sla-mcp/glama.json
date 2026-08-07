@@ -1,0 +1,10 @@
+{
+  "name": "refrigerated-temp-sla-mcp",
+  "description": "M2MCent Node: refrigerated-temp-sla-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://refrigerated-temp-sla-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

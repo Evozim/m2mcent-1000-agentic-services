@@ -1,0 +1,10 @@
+{
+  "name": "flightradar24-tracker-mcp",
+  "description": "M2MCent Node: flightradar24-tracker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://flightradar24-tracker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

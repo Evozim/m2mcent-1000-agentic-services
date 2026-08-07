@@ -1,0 +1,10 @@
+{
+  "name": "clause-risk-score-evaluator-mcp",
+  "description": "M2MCent Node: clause-risk-score-evaluator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://clause-risk-score-evaluator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

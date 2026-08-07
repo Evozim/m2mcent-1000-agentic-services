@@ -1,0 +1,10 @@
+{
+  "name": "soft-body-simulator-mcp",
+  "description": "M2MCent Node: soft-body-simulator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://soft-body-simulator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

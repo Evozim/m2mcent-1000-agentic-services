@@ -1,0 +1,10 @@
+version: "1.0"
+name: "serverless-db-oracle-mcp"
+description: "M2MCent Node: serverless-db-oracle-mcp. Monetized via x402 on Base."
+server:
+  url: "https://serverless-db-oracle-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

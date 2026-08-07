@@ -1,0 +1,10 @@
+{
+  "name": "supply-chain-finance-mcp",
+  "description": "M2MCent Node: supply-chain-finance-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://supply-chain-finance-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

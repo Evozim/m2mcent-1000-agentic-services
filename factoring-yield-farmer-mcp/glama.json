@@ -1,0 +1,10 @@
+{
+  "name": "factoring-yield-farmer-mcp",
+  "description": "M2MCent Node: factoring-yield-farmer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://factoring-yield-farmer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

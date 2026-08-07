@@ -1,0 +1,10 @@
+version: "1.0"
+name: "distributed-lock-service-mcp"
+description: "M2MCent Node: distributed-lock-service-mcp. Monetized via x402 on Base."
+server:
+  url: "https://distributed-lock-service-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

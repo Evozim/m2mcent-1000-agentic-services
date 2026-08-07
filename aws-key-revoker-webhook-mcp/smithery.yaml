@@ -1,0 +1,10 @@
+version: "1.0"
+name: "aws-key-revoker-webhook-mcp"
+description: "M2MCent Node: aws-key-revoker-webhook-mcp. Monetized via x402 on Base."
+server:
+  url: "https://aws-key-revoker-webhook-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

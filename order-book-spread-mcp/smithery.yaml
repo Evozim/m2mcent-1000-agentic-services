@@ -1,0 +1,10 @@
+version: "1.0"
+name: "order-book-spread-mcp"
+description: "M2MCent Node: order-book-spread-mcp. Monetized via x402 on Base."
+server:
+  url: "https://order-book-spread-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

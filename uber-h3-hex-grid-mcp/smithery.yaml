@@ -1,0 +1,10 @@
+version: "1.0"
+name: "uber-h3-hex-grid-mcp"
+description: "M2MCent Node: uber-h3-hex-grid-mcp. Monetized via x402 on Base."
+server:
+  url: "https://uber-h3-hex-grid-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

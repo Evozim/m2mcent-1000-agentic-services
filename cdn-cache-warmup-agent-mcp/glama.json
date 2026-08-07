@@ -1,0 +1,10 @@
+{
+  "name": "cdn-cache-warmup-agent-mcp",
+  "description": "M2MCent Node: cdn-cache-warmup-agent-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cdn-cache-warmup-agent-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

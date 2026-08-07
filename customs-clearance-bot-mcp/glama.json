@@ -1,0 +1,10 @@
+{
+  "name": "customs-clearance-bot-mcp",
+  "description": "M2MCent Node: customs-clearance-bot-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://customs-clearance-bot-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

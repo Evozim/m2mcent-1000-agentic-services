@@ -1,0 +1,10 @@
+{
+  "name": "volume-discount-calculator-mcp",
+  "description": "M2MCent Node: volume-discount-calculator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://volume-discount-calculator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

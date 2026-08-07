@@ -1,0 +1,10 @@
+version: "1.0"
+name: "crypto-capital-gains-mcp"
+description: "M2MCent Node: crypto-capital-gains-mcp. Monetized via x402 on Base."
+server:
+  url: "https://crypto-capital-gains-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

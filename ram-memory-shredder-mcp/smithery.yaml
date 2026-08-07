@@ -1,0 +1,10 @@
+version: "1.0"
+name: "ram-memory-shredder-mcp"
+description: "M2MCent Node: ram-memory-shredder-mcp. Monetized via x402 on Base."
+server:
+  url: "https://ram-memory-shredder-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

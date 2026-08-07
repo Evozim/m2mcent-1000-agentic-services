@@ -1,0 +1,10 @@
+{
+  "name": "mine-tailings-monitor-mcp",
+  "description": "M2MCent Node: mine-tailings-monitor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://mine-tailings-monitor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

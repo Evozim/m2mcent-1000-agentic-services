@@ -1,0 +1,10 @@
+version: "1.0"
+name: "flashbots-bundle-sender-mcp"
+description: "M2MCent Node: flashbots-bundle-sender-mcp. Monetized via x402 on Base."
+server:
+  url: "https://flashbots-bundle-sender-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

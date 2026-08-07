@@ -1,0 +1,10 @@
+{
+  "name": "stealth-address-generator-mcp",
+  "description": "M2MCent Node: stealth-address-generator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://stealth-address-generator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

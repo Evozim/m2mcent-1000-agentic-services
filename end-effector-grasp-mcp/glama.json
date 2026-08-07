@@ -1,0 +1,10 @@
+{
+  "name": "end-effector-grasp-mcp",
+  "description": "M2MCent Node: end-effector-grasp-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://end-effector-grasp-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

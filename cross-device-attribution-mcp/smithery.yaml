@@ -1,0 +1,10 @@
+version: "1.0"
+name: "cross-device-attribution-mcp"
+description: "M2MCent Node: cross-device-attribution-mcp. Monetized via x402 on Base."
+server:
+  url: "https://cross-device-attribution-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "zillow-real-estate-mcp",
+  "description": "M2MCent Node: zillow-real-estate-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://zillow-real-estate-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

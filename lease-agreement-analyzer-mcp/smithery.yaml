@@ -1,0 +1,10 @@
+version: "1.0"
+name: "lease-agreement-analyzer-mcp"
+description: "M2MCent Node: lease-agreement-analyzer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://lease-agreement-analyzer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

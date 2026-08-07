@@ -1,0 +1,10 @@
+{
+  "name": "livestock-rfid-tracker-mcp",
+  "description": "M2MCent Node: livestock-rfid-tracker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://livestock-rfid-tracker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

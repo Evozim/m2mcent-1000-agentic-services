@@ -1,0 +1,10 @@
+{
+  "name": "influencer-roi-tracker-mcp",
+  "description": "M2MCent Node: influencer-roi-tracker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://influencer-roi-tracker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "walmart-inventory-checker-mcp"
+description: "M2MCent Node: walmart-inventory-checker-mcp. Monetized via x402 on Base."
+server:
+  url: "https://walmart-inventory-checker-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

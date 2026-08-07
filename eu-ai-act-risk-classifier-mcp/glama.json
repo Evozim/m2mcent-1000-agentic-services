@@ -1,0 +1,10 @@
+{
+  "name": "eu-ai-act-risk-classifier-mcp",
+  "description": "M2MCent Node: eu-ai-act-risk-classifier-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://eu-ai-act-risk-classifier-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "hmi-unauthorized-access-mcp"
+description: "M2MCent Node: hmi-unauthorized-access-mcp. Monetized via x402 on Base."
+server:
+  url: "https://hmi-unauthorized-access-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

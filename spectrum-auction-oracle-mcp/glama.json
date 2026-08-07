@@ -1,0 +1,10 @@
+{
+  "name": "spectrum-auction-oracle-mcp",
+  "description": "M2MCent Node: spectrum-auction-oracle-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://spectrum-auction-oracle-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

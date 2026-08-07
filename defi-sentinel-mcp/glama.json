@@ -1,0 +1,10 @@
+{
+  "name": "defi-sentinel-mcp",
+  "description": "M2MCent Node: defi-sentinel-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://defi-sentinel-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "vroid-model-importer-mcp"
+description: "M2MCent Node: vroid-model-importer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://vroid-model-importer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

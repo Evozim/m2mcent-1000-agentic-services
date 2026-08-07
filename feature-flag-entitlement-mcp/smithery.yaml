@@ -1,0 +1,10 @@
+version: "1.0"
+name: "feature-flag-entitlement-mcp"
+description: "M2MCent Node: feature-flag-entitlement-mcp. Monetized via x402 on Base."
+server:
+  url: "https://feature-flag-entitlement-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

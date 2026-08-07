@@ -1,0 +1,10 @@
+version: "1.0"
+name: "npm-package-leak-mcp"
+description: "M2MCent Node: npm-package-leak-mcp. Monetized via x402 on Base."
+server:
+  url: "https://npm-package-leak-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

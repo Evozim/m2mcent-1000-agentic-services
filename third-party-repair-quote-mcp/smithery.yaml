@@ -1,0 +1,10 @@
+version: "1.0"
+name: "third-party-repair-quote-mcp"
+description: "M2MCent Node: third-party-repair-quote-mcp. Monetized via x402 on Base."
+server:
+  url: "https://third-party-repair-quote-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

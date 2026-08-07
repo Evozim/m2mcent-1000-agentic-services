@@ -1,0 +1,10 @@
+{
+  "name": "co2-inference-calculator-mcp",
+  "description": "M2MCent Node: co2-inference-calculator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://co2-inference-calculator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

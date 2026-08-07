@@ -1,0 +1,10 @@
+{
+  "name": "network-namespace-isolate-mcp",
+  "description": "M2MCent Node: network-namespace-isolate-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://network-namespace-isolate-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

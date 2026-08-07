@@ -1,0 +1,10 @@
+{
+  "name": "international-nda-drafter-mcp",
+  "description": "M2MCent Node: international-nda-drafter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://international-nda-drafter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

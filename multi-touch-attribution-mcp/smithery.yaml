@@ -1,0 +1,10 @@
+version: "1.0"
+name: "multi-touch-attribution-mcp"
+description: "M2MCent Node: multi-touch-attribution-mcp. Monetized via x402 on Base."
+server:
+  url: "https://multi-touch-attribution-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

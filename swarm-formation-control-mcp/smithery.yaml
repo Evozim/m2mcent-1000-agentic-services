@@ -1,0 +1,10 @@
+version: "1.0"
+name: "swarm-formation-control-mcp"
+description: "M2MCent Node: swarm-formation-control-mcp. Monetized via x402 on Base."
+server:
+  url: "https://swarm-formation-control-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

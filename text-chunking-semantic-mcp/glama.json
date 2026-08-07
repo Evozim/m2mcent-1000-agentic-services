@@ -1,0 +1,10 @@
+{
+  "name": "text-chunking-semantic-mcp",
+  "description": "M2MCent Node: text-chunking-semantic-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://text-chunking-semantic-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

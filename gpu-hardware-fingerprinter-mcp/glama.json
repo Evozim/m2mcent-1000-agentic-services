@@ -1,0 +1,10 @@
+{
+  "name": "gpu-hardware-fingerprinter-mcp",
+  "description": "M2MCent Node: gpu-hardware-fingerprinter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://gpu-hardware-fingerprinter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "high-risk-exchange-mcp",
+  "description": "M2MCent Node: high-risk-exchange-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://high-risk-exchange-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

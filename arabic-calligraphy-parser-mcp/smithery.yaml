@@ -1,0 +1,10 @@
+version: "1.0"
+name: "arabic-calligraphy-parser-mcp"
+description: "M2MCent Node: arabic-calligraphy-parser-mcp. Monetized via x402 on Base."
+server:
+  url: "https://arabic-calligraphy-parser-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

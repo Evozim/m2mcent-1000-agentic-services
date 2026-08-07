@@ -1,0 +1,10 @@
+{
+  "name": "decentralized-credit-bureau-mcp",
+  "description": "M2MCent Node: decentralized-credit-bureau-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://decentralized-credit-bureau-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

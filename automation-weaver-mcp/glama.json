@@ -1,0 +1,10 @@
+{
+  "name": "automation-weaver-mcp",
+  "description": "M2MCent Node: automation-weaver-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://automation-weaver-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

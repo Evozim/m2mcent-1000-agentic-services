@@ -1,0 +1,10 @@
+{
+  "name": "yield-bearing-escrow-vault-mcp",
+  "description": "M2MCent Node: yield-bearing-escrow-vault-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://yield-bearing-escrow-vault-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

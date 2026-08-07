@@ -1,0 +1,10 @@
+{
+  "name": "task-preemption-allocator-mcp",
+  "description": "M2MCent Node: task-preemption-allocator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://task-preemption-allocator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

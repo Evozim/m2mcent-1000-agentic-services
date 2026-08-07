@@ -1,0 +1,10 @@
+version: "1.0"
+name: "anonymous-credential-issuer-mcp"
+description: "M2MCent Node: anonymous-credential-issuer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://anonymous-credential-issuer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

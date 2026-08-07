@@ -1,0 +1,10 @@
+{
+  "name": "crispr-cas9-offtarget-mcp",
+  "description": "M2MCent Node: crispr-cas9-offtarget-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://crispr-cas9-offtarget-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

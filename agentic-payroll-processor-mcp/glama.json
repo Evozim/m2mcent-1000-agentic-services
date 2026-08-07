@@ -1,0 +1,10 @@
+{
+  "name": "agentic-payroll-processor-mcp",
+  "description": "M2MCent Node: agentic-payroll-processor-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://agentic-payroll-processor-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

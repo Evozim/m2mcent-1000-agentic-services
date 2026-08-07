@@ -1,0 +1,10 @@
+version: "1.0"
+name: "dhl-shipment-tracker-mcp"
+description: "M2MCent Node: dhl-shipment-tracker-mcp. Monetized via x402 on Base."
+server:
+  url: "https://dhl-shipment-tracker-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

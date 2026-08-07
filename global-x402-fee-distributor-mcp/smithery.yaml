@@ -1,0 +1,10 @@
+version: "1.0"
+name: "global-x402-fee-distributor-mcp"
+description: "M2MCent Node: global-x402-fee-distributor-mcp. Monetized via x402 on Base."
+server:
+  url: "https://global-x402-fee-distributor-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

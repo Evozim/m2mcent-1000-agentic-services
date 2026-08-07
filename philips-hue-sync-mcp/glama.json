@@ -1,0 +1,10 @@
+{
+  "name": "philips-hue-sync-mcp",
+  "description": "M2MCent Node: philips-hue-sync-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://philips-hue-sync-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

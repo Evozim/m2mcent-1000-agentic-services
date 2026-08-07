@@ -1,0 +1,10 @@
+{
+  "name": "green-hydrogen-tracker-mcp",
+  "description": "M2MCent Node: green-hydrogen-tracker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://green-hydrogen-tracker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

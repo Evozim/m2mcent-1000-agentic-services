@@ -1,0 +1,10 @@
+{
+  "name": "accounts-receivable-ledger-mcp",
+  "description": "M2MCent Node: accounts-receivable-ledger-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://accounts-receivable-ledger-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

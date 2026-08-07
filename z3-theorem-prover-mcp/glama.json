@@ -1,0 +1,10 @@
+{
+  "name": "z3-theorem-prover-mcp",
+  "description": "M2MCent Node: z3-theorem-prover-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://z3-theorem-prover-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shein-fashion-scraper-mcp",
+  "description": "M2MCent Node: shein-fashion-scraper-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://shein-fashion-scraper-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

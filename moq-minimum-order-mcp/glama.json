@@ -1,0 +1,10 @@
+{
+  "name": "moq-minimum-order-mcp",
+  "description": "M2MCent Node: moq-minimum-order-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://moq-minimum-order-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "viseme-lipsync-generator-mcp"
+description: "M2MCent Node: viseme-lipsync-generator-mcp. Monetized via x402 on Base."
+server:
+  url: "https://viseme-lipsync-generator-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

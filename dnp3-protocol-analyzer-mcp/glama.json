@@ -1,0 +1,10 @@
+{
+  "name": "dnp3-protocol-analyzer-mcp",
+  "description": "M2MCent Node: dnp3-protocol-analyzer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://dnp3-protocol-analyzer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

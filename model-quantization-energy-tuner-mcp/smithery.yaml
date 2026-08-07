@@ -1,0 +1,10 @@
+version: "1.0"
+name: "model-quantization-energy-tuner-mcp"
+description: "M2MCent Node: model-quantization-energy-tuner-mcp. Monetized via x402 on Base."
+server:
+  url: "https://model-quantization-energy-tuner-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "best-and-final-offer-mcp"
+description: "M2MCent Node: best-and-final-offer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://best-and-final-offer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

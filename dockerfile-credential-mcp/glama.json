@@ -1,0 +1,10 @@
+{
+  "name": "dockerfile-credential-mcp",
+  "description": "M2MCent Node: dockerfile-credential-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://dockerfile-credential-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

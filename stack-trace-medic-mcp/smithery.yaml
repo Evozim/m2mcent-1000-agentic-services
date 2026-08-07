@@ -1,0 +1,10 @@
+version: "1.0"
+name: "stack-trace-medic-mcp"
+description: "M2MCent Node: stack-trace-medic-mcp. Monetized via x402 on Base."
+server:
+  url: "https://stack-trace-medic-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

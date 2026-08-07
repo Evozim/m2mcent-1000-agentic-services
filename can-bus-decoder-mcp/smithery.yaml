@@ -1,0 +1,10 @@
+version: "1.0"
+name: "can-bus-decoder-mcp"
+description: "M2MCent Node: can-bus-decoder-mcp. Monetized via x402 on Base."
+server:
+  url: "https://can-bus-decoder-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

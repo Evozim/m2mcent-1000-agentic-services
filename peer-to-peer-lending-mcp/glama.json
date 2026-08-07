@@ -1,0 +1,10 @@
+{
+  "name": "peer-to-peer-lending-mcp",
+  "description": "M2MCent Node: peer-to-peer-lending-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://peer-to-peer-lending-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

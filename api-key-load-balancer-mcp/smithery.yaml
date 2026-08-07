@@ -1,0 +1,10 @@
+version: "1.0"
+name: "api-key-load-balancer-mcp"
+description: "M2MCent Node: api-key-load-balancer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://api-key-load-balancer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

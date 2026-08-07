@@ -1,0 +1,10 @@
+version: "1.0"
+name: "bio-data-parser-mcp"
+description: "M2MCent Node: bio-data-parser-mcp. Monetized via x402 on Base."
+server:
+  url: "https://bio-data-parser-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

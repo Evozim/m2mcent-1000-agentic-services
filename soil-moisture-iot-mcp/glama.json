@@ -1,0 +1,10 @@
+{
+  "name": "soil-moisture-iot-mcp",
+  "description": "M2MCent Node: soil-moisture-iot-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://soil-moisture-iot-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

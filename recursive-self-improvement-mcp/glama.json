@@ -1,0 +1,10 @@
+{
+  "name": "recursive-self-improvement-mcp",
+  "description": "M2MCent Node: recursive-self-improvement-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://recursive-self-improvement-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

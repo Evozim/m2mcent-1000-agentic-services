@@ -1,0 +1,10 @@
+{
+  "name": "ndvi-satellite-health-mcp",
+  "description": "M2MCent Node: ndvi-satellite-health-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://ndvi-satellite-health-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

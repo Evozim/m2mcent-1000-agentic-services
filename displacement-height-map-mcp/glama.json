@@ -1,0 +1,10 @@
+{
+  "name": "displacement-height-map-mcp",
+  "description": "M2MCent Node: displacement-height-map-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://displacement-height-map-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

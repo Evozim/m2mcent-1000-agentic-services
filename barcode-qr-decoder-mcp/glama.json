@@ -1,0 +1,10 @@
+{
+  "name": "barcode-qr-decoder-mcp",
+  "description": "M2MCent Node: barcode-qr-decoder-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://barcode-qr-decoder-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

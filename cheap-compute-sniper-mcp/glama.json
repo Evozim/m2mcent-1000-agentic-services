@@ -1,0 +1,10 @@
+{
+  "name": "cheap-compute-sniper-mcp",
+  "description": "M2MCent Node: cheap-compute-sniper-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cheap-compute-sniper-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "grandmaster-api-gateway-mcp"
+description: "M2MCent Node: grandmaster-api-gateway-mcp. Monetized via x402 on Base."
+server:
+  url: "https://grandmaster-api-gateway-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "speech-to-text-whisper-mcp",
+  "description": "M2MCent Node: speech-to-text-whisper-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://speech-to-text-whisper-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cloudscale-sim-mcp",
+  "description": "M2MCent Node: cloudscale-sim-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cloudscale-sim-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

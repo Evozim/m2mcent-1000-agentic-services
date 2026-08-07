@@ -1,0 +1,10 @@
+{
+  "name": "nash-equilibrium-calculator-mcp",
+  "description": "M2MCent Node: nash-equilibrium-calculator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://nash-equilibrium-calculator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

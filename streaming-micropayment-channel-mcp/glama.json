@@ -1,0 +1,10 @@
+{
+  "name": "streaming-micropayment-channel-mcp",
+  "description": "M2MCent Node: streaming-micropayment-channel-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://streaming-micropayment-channel-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

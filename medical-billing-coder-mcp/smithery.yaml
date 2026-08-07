@@ -1,0 +1,10 @@
+version: "1.0"
+name: "medical-billing-coder-mcp"
+description: "M2MCent Node: medical-billing-coder-mcp. Monetized via x402 on Base."
+server:
+  url: "https://medical-billing-coder-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

@@ -1,0 +1,10 @@
+{
+  "name": "grant-proposal-writer-mcp",
+  "description": "M2MCent Node: grant-proposal-writer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://grant-proposal-writer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cloth-physics-solver-mcp",
+  "description": "M2MCent Node: cloth-physics-solver-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cloth-physics-solver-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

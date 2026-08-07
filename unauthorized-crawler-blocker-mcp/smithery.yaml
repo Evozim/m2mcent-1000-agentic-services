@@ -1,0 +1,10 @@
+version: "1.0"
+name: "unauthorized-crawler-blocker-mcp"
+description: "M2MCent Node: unauthorized-crawler-blocker-mcp. Monetized via x402 on Base."
+server:
+  url: "https://unauthorized-crawler-blocker-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

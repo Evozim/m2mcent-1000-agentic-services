@@ -1,0 +1,10 @@
+version: "1.0"
+name: "base-to-polygon-relayer-mcp"
+description: "M2MCent Node: base-to-polygon-relayer-mcp. Monetized via x402 on Base."
+server:
+  url: "https://base-to-polygon-relayer-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

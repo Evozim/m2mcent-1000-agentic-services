@@ -1,0 +1,10 @@
+{
+  "name": "no-fly-zone-compliance-mcp",
+  "description": "M2MCent Node: no-fly-zone-compliance-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://no-fly-zone-compliance-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "metallic-roughness-packer-mcp",
+  "description": "M2MCent Node: metallic-roughness-packer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://metallic-roughness-packer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

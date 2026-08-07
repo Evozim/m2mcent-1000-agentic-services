@@ -1,0 +1,10 @@
+version: "1.0"
+name: "flash-crash-halt-mcp"
+description: "M2MCent Node: flash-crash-halt-mcp. Monetized via x402 on Base."
+server:
+  url: "https://flash-crash-halt-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

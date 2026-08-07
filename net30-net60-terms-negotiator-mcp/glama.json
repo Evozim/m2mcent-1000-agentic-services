@@ -1,0 +1,10 @@
+{
+  "name": "net30-net60-terms-negotiator-mcp",
+  "description": "M2MCent Node: net30-net60-terms-negotiator-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://net30-net60-terms-negotiator-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

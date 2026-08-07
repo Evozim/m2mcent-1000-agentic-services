@@ -1,0 +1,10 @@
+version: "1.0"
+name: "rate-limit-swap-broker-mcp"
+description: "M2MCent Node: rate-limit-swap-broker-mcp. Monetized via x402 on Base."
+server:
+  url: "https://rate-limit-swap-broker-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

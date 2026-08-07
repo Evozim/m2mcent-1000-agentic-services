@@ -1,0 +1,10 @@
+version: "1.0"
+name: "iec61850-substation-mcp"
+description: "M2MCent Node: iec61850-substation-mcp. Monetized via x402 on Base."
+server:
+  url: "https://iec61850-substation-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

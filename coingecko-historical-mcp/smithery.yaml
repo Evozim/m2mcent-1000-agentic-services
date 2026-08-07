@@ -1,0 +1,10 @@
+version: "1.0"
+name: "coingecko-historical-mcp"
+description: "M2MCent Node: coingecko-historical-mcp. Monetized via x402 on Base."
+server:
+  url: "https://coingecko-historical-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

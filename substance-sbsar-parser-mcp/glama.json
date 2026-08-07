@@ -1,0 +1,10 @@
+{
+  "name": "substance-sbsar-parser-mcp",
+  "description": "M2MCent Node: substance-sbsar-parser-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://substance-sbsar-parser-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

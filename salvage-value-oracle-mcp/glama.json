@@ -1,0 +1,10 @@
+{
+  "name": "salvage-value-oracle-mcp",
+  "description": "M2MCent Node: salvage-value-oracle-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://salvage-value-oracle-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+version: "1.0"
+name: "ups-logistics-status-mcp"
+description: "M2MCent Node: ups-logistics-status-mcp. Monetized via x402 on Base."
+server:
+  url: "https://ups-logistics-status-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

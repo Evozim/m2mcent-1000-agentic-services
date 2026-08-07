@@ -1,0 +1,10 @@
+{
+  "name": "charge-curve-optimizer-mcp",
+  "description": "M2MCent Node: charge-curve-optimizer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://charge-curve-optimizer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

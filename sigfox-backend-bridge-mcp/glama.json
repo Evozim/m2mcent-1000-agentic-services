@@ -1,0 +1,10 @@
+{
+  "name": "sigfox-backend-bridge-mcp",
+  "description": "M2MCent Node: sigfox-backend-bridge-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://sigfox-backend-bridge-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

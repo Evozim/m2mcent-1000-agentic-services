@@ -1,0 +1,10 @@
+{
+  "name": "geothermal-yield-oracle-mcp",
+  "description": "M2MCent Node: geothermal-yield-oracle-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://geothermal-yield-oracle-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

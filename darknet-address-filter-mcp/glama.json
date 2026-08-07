@@ -1,0 +1,10 @@
+{
+  "name": "darknet-address-filter-mcp",
+  "description": "M2MCent Node: darknet-address-filter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://darknet-address-filter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

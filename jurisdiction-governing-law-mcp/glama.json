@@ -1,0 +1,10 @@
+{
+  "name": "jurisdiction-governing-law-mcp",
+  "description": "M2MCent Node: jurisdiction-governing-law-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://jurisdiction-governing-law-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

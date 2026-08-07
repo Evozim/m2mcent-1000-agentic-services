@@ -1,0 +1,10 @@
+{
+  "name": "cell-balancing-algorithm-mcp",
+  "description": "M2MCent Node: cell-balancing-algorithm-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://cell-balancing-algorithm-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

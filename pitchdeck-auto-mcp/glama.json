@@ -1,0 +1,10 @@
+{
+  "name": "pitchdeck-auto-mcp",
+  "description": "M2MCent Node: pitchdeck-auto-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://pitchdeck-auto-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "spatial-audio-3d-synthesizer-mcp",
+  "description": "M2MCent Node: spatial-audio-3d-synthesizer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://spatial-audio-3d-synthesizer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

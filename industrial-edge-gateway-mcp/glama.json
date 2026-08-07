@@ -1,0 +1,10 @@
+{
+  "name": "industrial-edge-gateway-mcp",
+  "description": "M2MCent Node: industrial-edge-gateway-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://industrial-edge-gateway-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

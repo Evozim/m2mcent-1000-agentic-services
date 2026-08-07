@@ -1,0 +1,10 @@
+{
+  "name": "indeed-resume-scraper-mcp",
+  "description": "M2MCent Node: indeed-resume-scraper-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://indeed-resume-scraper-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

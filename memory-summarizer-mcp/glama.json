@@ -1,0 +1,10 @@
+{
+  "name": "memory-summarizer-mcp",
+  "description": "M2MCent Node: memory-summarizer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://memory-summarizer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

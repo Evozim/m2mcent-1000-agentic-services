@@ -1,0 +1,10 @@
+version: "1.0"
+name: "refrigerated-temp-sla-mcp"
+description: "M2MCent Node: refrigerated-temp-sla-mcp. Monetized via x402 on Base."
+server:
+  url: "https://refrigerated-temp-sla-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

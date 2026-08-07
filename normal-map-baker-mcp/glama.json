@@ -1,0 +1,10 @@
+{
+  "name": "normal-map-baker-mcp",
+  "description": "M2MCent Node: normal-map-baker-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://normal-map-baker-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

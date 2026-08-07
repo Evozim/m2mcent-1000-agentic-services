@@ -1,0 +1,10 @@
+version: "1.0"
+name: "stolen-funds-tracker-mcp"
+description: "M2MCent Node: stolen-funds-tracker-mcp. Monetized via x402 on Base."
+server:
+  url: "https://stolen-funds-tracker-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

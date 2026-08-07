@@ -1,0 +1,10 @@
+{
+  "name": "4-20ma-analog-converter-mcp",
+  "description": "M2MCent Node: 4-20ma-analog-converter-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://4-20ma-analog-converter-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

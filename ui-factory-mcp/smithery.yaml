@@ -1,0 +1,10 @@
+version: "1.0"
+name: "ui-factory-mcp"
+description: "M2MCent Node: ui-factory-mcp. Monetized via x402 on Base."
+server:
+  url: "https://ui-factory-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

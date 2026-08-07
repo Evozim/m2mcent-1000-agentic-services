@@ -1,0 +1,10 @@
+{
+  "name": "debt-collection-bot-mcp",
+  "description": "M2MCent Node: debt-collection-bot-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://debt-collection-bot-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

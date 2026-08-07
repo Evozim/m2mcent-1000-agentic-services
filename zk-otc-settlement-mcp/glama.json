@@ -1,0 +1,10 @@
+{
+  "name": "zk-otc-settlement-mcp",
+  "description": "M2MCent Node: zk-otc-settlement-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://zk-otc-settlement-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

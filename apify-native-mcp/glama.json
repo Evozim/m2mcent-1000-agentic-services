@@ -1,0 +1,10 @@
+{
+  "name": "apify-native-mcp",
+  "description": "M2MCent Node: apify-native-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://apify-native-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

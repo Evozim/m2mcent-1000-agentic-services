@@ -1,0 +1,10 @@
+{
+  "name": "solar-inverter-modbus-mcp",
+  "description": "M2MCent Node: solar-inverter-modbus-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://solar-inverter-modbus-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

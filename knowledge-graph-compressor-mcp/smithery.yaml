@@ -1,0 +1,10 @@
+version: "1.0"
+name: "knowledge-graph-compressor-mcp"
+description: "M2MCent Node: knowledge-graph-compressor-mcp. Monetized via x402 on Base."
+server:
+  url: "https://knowledge-graph-compressor-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

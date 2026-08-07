@@ -1,0 +1,10 @@
+version: "1.0"
+name: "3d-pallet-packing-mcp"
+description: "M2MCent Node: 3d-pallet-packing-mcp. Monetized via x402 on Base."
+server:
+  url: "https://3d-pallet-packing-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

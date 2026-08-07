@@ -1,0 +1,10 @@
+version: "1.0"
+name: "cell-balancing-algorithm-mcp"
+description: "M2MCent Node: cell-balancing-algorithm-mcp. Monetized via x402 on Base."
+server:
+  url: "https://cell-balancing-algorithm-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

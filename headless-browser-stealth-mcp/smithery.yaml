@@ -1,0 +1,10 @@
+version: "1.0"
+name: "headless-browser-stealth-mcp"
+description: "M2MCent Node: headless-browser-stealth-mcp. Monetized via x402 on Base."
+server:
+  url: "https://headless-browser-stealth-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

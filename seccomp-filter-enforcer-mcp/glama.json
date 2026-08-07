@@ -1,0 +1,10 @@
+{
+  "name": "seccomp-filter-enforcer-mcp",
+  "description": "M2MCent Node: seccomp-filter-enforcer-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://seccomp-filter-enforcer-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

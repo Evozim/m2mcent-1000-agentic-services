@@ -1,0 +1,10 @@
+{
+  "name": "uncollateralized-loan-mcp",
+  "description": "M2MCent Node: uncollateralized-loan-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://uncollateralized-loan-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

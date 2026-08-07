@@ -1,0 +1,10 @@
+version: "1.0"
+name: "rma-shipping-label-mcp"
+description: "M2MCent Node: rma-shipping-label-mcp. Monetized via x402 on Base."
+server:
+  url: "https://rma-shipping-label-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

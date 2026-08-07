@@ -1,0 +1,10 @@
+version: "1.0"
+name: "bid-clarification-q-and-a-mcp"
+description: "M2MCent Node: bid-clarification-q-and-a-mcp. Monetized via x402 on Base."
+server:
+  url: "https://bid-clarification-q-and-a-mcp.m2mcent.com/api/process`"
+  protocol: "sse"
+pricing:
+  x402:
+    currency: "USDC"
+    network: "eip155:8453"

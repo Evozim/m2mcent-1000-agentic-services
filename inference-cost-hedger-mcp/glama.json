@@ -1,0 +1,10 @@
+{
+  "name": "inference-cost-hedger-mcp",
+  "description": "M2MCent Node: inference-cost-hedger-mcp. Monetized via x402 on Base.",
+  "entrypoint": "https://inference-cost-hedger-mcp.m2mcent.com/api/process`",
+  "x402": {
+    "enabled": true,
+    "network": "eip155:8453",
+    "currency": "USDC"
+  }
+}

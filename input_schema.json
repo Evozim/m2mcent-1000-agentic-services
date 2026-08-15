@@ -1,0 +1,27 @@
+{
+  "title": "M2MCent Universal Actor Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "toolName": { 
+      "title": "Tool Name",
+      "type": "string", 
+      "description": "Name of the MCP tool to execute (e.g. zero-leak-mcp, 3d-meshweaver-mcp)",
+      "editor": "textfield"
+    },
+    "payload": { 
+      "title": "JSON Payload",
+      "type": "string", 
+      "description": "Stringified JSON object with the query parameters",
+      "editor": "json"
+    },
+    "privateKey": {
+      "title": "Base Mainnet Private Key (Optional)",
+      "type": "string",
+      "description": "EVM private key to auto-settle the x402 402 Payment Required via Coinbase CDP",
+      "isSecret": true,
+      "editor": "textfield"
+    }
+  },
+  "required": ["toolName", "payload"]
+}

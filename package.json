@@ -1,0 +1,14 @@
+{
+  "name": "m2mcent-universal-actor",
+  "version": "2.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.1.14",
+    "axios": "^1.6.8",
+    "ethers": "^6.11.1",
+    "@coinbase/cdp-sdk": "^0.1.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}

@@ -91,1014 +91,230 @@ When invoking premium microservices that require computation or external API ban
 ---
 
 ## 📋 Full Directory of All 1,004 Microservices (Searchable)
+*All services below are accessible via this Apify Gateway. The standard invocation fee is **$0.05 USDC** via the x402 protocol.*
 
-| # | Tool Identifier (`toolName`) | Category / Domain | Pricing (Base Mainnet) |
-|---|---|---|---|
-| 1 | `3d-meshweaver-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 2 | `3d-pallet-packing-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 3 | `4-20ma-analog-converter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 4 | `5g-core-nfv-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 5 | `90-percent-liquidity-advance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 6 | `accounts-receivable-ledger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 7 | `acoustic-reverb-simulator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 8 | `active-seat-metering-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 9 | `actuarial-life-table-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 10 | `ad-fraud-click-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 11 | `ad-sniper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 12 | `ad-spend-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 13 | `adsb-flight-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 14 | `adversarial-prompt-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 15 | `adversarial-suffix-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 16 | `aegis-policy-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 17 | `affiliate-link-attribution-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 18 | `afforestation-satellite-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 19 | `agent-collision-preventer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 20 | `agent-collusion-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 21 | `agent-council-voting-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 22 | `agent-credit-history-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 23 | `agent-phone-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 24 | `agent-reputation-zk-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 25 | `agent-slashing-protocol-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 26 | `agent-telephony-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 27 | `agentic-credit-line-issuer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 28 | `agentic-ip-reputation-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 29 | `agentic-payroll-processor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 30 | `agentphone-ai-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 31 | `agile-sprint-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 32 | `ai-fleet-cards-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 33 | `ai-humanizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 34 | `ai-right-to-opt-out-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 35 | `ai-safety-incident-logger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 36 | `ai-watermark-provenance-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 37 | `air-freight-waybill-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 38 | `airbnb-host-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 39 | `airbnb-smart-lock-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 40 | `airport-slot-allocator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 41 | `ais-vessel-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 42 | `akamai-bot-manager-bypass-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 43 | `albedo-delighter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 44 | `algorithmic-bias-scrubber-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 45 | `alibaba-supplier-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 46 | `aliexpress-dropship-finder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 47 | `amazon-price-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 48 | `ambient-occlusion-map-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 49 | `ambisonics-b-format-encoder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 50 | `amr-fleet-dispatcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 51 | `angellist-startup-jobs-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 52 | `anomaly-detection-sentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 53 | `anonymous-credential-issuer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 54 | `anti-collusion-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 55 | `anti-sandwich-slippage-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 56 | `anti-stuxnet-plc-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 57 | `api-key-load-balancer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 58 | `api-quota-balancer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 59 | `api-rate-limit-enforcer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 60 | `apify-native-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 61 | `apollo-io-lead-gen-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 62 | `app-store-builder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 63 | `apple-vision-pro-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 64 | `ar-kit-blendshape-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 65 | `ar-plane-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 66 | `arabic-calligraphy-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 67 | `arbitration-fee-splitter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 68 | `architecture-dna-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 69 | `ashrae-compliance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 70 | `atomic-swap-coordinator-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 71 | `audio-anonymizer-voice-scrambler-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 72 | `audio-description-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 73 | `audio-watermarking-detector-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 74 | `auth-sentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 75 | `auto-telematics-policy-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 76 | `automated-amendment-negotiator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 77 | `automated-debt-collector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 78 | `automated-dpia-reporter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 79 | `automated-invoice-factoring-gate-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 80 | `automated-xml-invoicing-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 81 | `automation-weaver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 82 | `autonomous-haul-truck-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 83 | `autonomous-tractor-path-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 84 | `aws-builder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 85 | `aws-key-revoker-webhook-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 86 | `b2b-contract-renewal-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 87 | `b2b-lead-closer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 88 | `b2b-legal-contract-parser-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 89 | `backhaul-empty-return-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 90 | `backrun-arbitrage-blocker-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 91 | `bacnet-ip-discovery-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 92 | `baidu-china-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 93 | `bandwidth-micro-marketplace-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 94 | `bankruptcy-asset-liquidator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 95 | `barcode-qr-decoder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 96 | `base-to-polygon-relayer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 97 | `base64-payload-decoder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 98 | `batch-request-bundler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 99 | `battery-return-home-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 100 | `battery-swap-station-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 101 | `behance-portfolio-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 102 | `best-and-final-offer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 103 | `bestbuy-deal-alerter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 104 | `bft-swarm-vote-aggregator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 105 | `bias-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 106 | `bias-drift-monitor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 107 | `bid-clarification-q-and-a-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 108 | `bidding-strategy-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 109 | `binance-orderbook-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 110 | `binary-exploitation-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 111 | `bing-ai-results-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 112 | `bio-data-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 113 | `bio-safe-audit-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 114 | `blendshape-mapper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 115 | `blind-signature-voting-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 116 | `blinded-macaroon-signer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 117 | `bms-schedule-override-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 118 | `body-gesture-synthesizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 119 | `boids-flocking-algorithm-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 120 | `boiler-water-temp-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 121 | `bone-rig-retargeter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 122 | `booking-hotel-prices-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 123 | `botnet-behavior-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 124 | `breach-of-contract-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 125 | `brotli-prompt-compressor-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 126 | `bug-bounty-hunter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 127 | `bulk-shipping-negotiator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 128 | `bulletproofs-range-check-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 129 | `bunker-fuel-prices-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 130 | `can-bus-decoder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 131 | `captcha-bypass-attestation-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 132 | `carbon-aware-inference-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 133 | `carbon-tax-auto-withholder-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 134 | `carbon-tax-compliance-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 135 | `cargo-insurance-broker-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 136 | `cargo-load-balancer-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 137 | `catalog-engine-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 138 | `ccs-chademo-protocol-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 139 | `cdn-cache-warmup-agent-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 140 | `cell-balancing-algorithm-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 141 | `cell-tower-handoff-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 142 | `certora-rule-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 143 | `cgroup-cpu-throttler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 144 | `chain-agnostic-escrow-reader-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 145 | `chainalysis-aml-risk-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 146 | `charge-curve-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 147 | `chargeback-insurance-pool-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 148 | `cheap-compute-sniper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 149 | `chembl-affinity-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 150 | `chicago-grain-prices-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 151 | `chiller-cop-efficiency-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 152 | `chinese-scroll-digitizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 153 | `chirpstack-lorawan-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 154 | `chroot-filesystem-jail-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 155 | `claim-denial-appeal-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 156 | `clarity-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 157 | `clause-risk-score-evaluator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 158 | `clawback-prevention-sentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 159 | `cleancode-ai-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 160 | `clinical-phase-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 161 | `clinical-trial-matcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 162 | `cloth-physics-solver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 163 | `cloudflare-turnstile-bypass-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 164 | `cloudscale-sim-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 165 | `co2-inference-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 166 | `cobot-safety-zone-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 167 | `codevulnerability-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 168 | `coingecko-historical-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 169 | `coinmarketcap-prices-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 170 | `cold-chain-reefer-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 171 | `cold-vault-migrator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 172 | `collusion-detection-sentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 173 | `commodity-futures-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 174 | `computer-vision-damage-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 175 | `computer-vision-defect-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 176 | `conflict-minerals-audit-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 177 | `consensus-voter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 178 | `container-ship-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 179 | `context-deduplicator-oracle-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 180 | `context-targeting-oracle-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 181 | `context-window-optimizer-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 182 | `context-window-overflow-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 183 | `contractoracle-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 184 | `cookie-stuffing-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 185 | `cooperative-dividend-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 186 | `cooperative-swarm-incentiver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 187 | `copyrighted-music-fingerprint-matcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 188 | `coq-proof-assistant-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 189 | `coral-tpu-delegate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 190 | `corporate-kyc-registry-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 191 | `corporate-tax-bracket-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 192 | `corporate-tax-jurisdiction-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 193 | `corporate-treasury-multisig-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 194 | `cost-optimal-model-selector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 195 | `counter-offer-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 196 | `cpm-cpa-arbitrage-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 197 | `craigslist-local-deals-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 198 | `credit-risk-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 199 | `crispr-cas9-offtarget-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 200 | `crop-pest-diagnostic-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 201 | `crop-yield-insurance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 202 | `cross-chain-contract-relayer-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 203 | `cross-chain-escrow-bridge-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 204 | `cross-chain-l402-verifier-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 205 | `cross-company-agent-dispute-court-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 206 | `cross-device-attribution-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 207 | `cross-docking-coordinator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 208 | `cross-modal-embedding-aligner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 209 | `cross-shard-state-sync-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 210 | `crunchbase-funding-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 211 | `crypto-capital-gains-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 212 | `crypto-dispute-mediator-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 213 | `crypto-price-oracle-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 214 | `crypto-tax-loss-harvester-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 215 | `cuneiform-tablet-reader-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 216 | `customs-clearance-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 217 | `customs-duty-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 218 | `cyber-breach-liability-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 219 | `damaged-text-inpainter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 220 | `dan-jailbreak-filter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 221 | `dark-pool-liquidity-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 222 | `darknet-address-filter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 223 | `darkweb-breach-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 224 | `darkweb-threat-feed-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 225 | `darwin-ideation-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 226 | `data-diode-unidirectional-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 227 | `data-observability-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 228 | `data-poisoning-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 229 | `datadome-bypass-agent-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 230 | `datahealth-observer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 231 | `ddos-mitigation-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 232 | `ddos-scrubbing-proxy-node-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 233 | `deadlock-resolver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 234 | `debt-collection-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 235 | `decentralized-credit-bureau-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 236 | `deepfake-lens-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 237 | `deepfake-sentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 238 | `deepsort-object-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 239 | `deepvoice-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 240 | `default-probability-model-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 241 | `default-risk-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 242 | `defi-sentinel-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 243 | `defi-yield-tax-reporter-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 244 | `defillama-tvl-tracker-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 245 | `delegatecall-vulnerability-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 246 | `depreciation-value-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 247 | `depth-map-estimator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 248 | `devrel-amplifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 249 | `dex-arbitrage-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 250 | `dhl-shipment-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 251 | `dialogue-distiller-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 252 | `dicom-imaging-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 253 | `diesel-anti-theft-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 254 | `dilithium-signature-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 255 | `direct-air-capture-bidder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 256 | `discount-coupon-validator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 257 | `displacement-height-map-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 258 | `dispute-penalty-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 259 | `distributed-lock-service-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 260 | `dnp3-protocol-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 261 | `docdigest-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 262 | `dockerfile-credential-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 263 | `document-layout-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 264 | `dolby-atmos-metadata-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 265 | `domain-authority-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 266 | `domain-dnssec-trust-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 267 | `draco-mesh-compressor-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 268 | `drayage-port-scheduler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 269 | `dribbble-designer-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 270 | `drill-core-logger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 271 | `driver-fatigue-camera-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 272 | `drone-crop-sprayer-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 273 | `drone-delivery-router-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 274 | `drone-map-stitcher-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 275 | `drug-interaction-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 276 | `duckduckgo-privacy-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 277 | `dune-analytics-query-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 278 | `duplicate-content-remover-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 279 | `dutch-auction-surplus-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 280 | `dynamic-discounting-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 281 | `dynamic-procurement-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 282 | `ebay-auction-sniper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 283 | `eco-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 284 | `ecommerce-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 285 | `edge-inference-benchmarker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 286 | `edge-latency-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 287 | `edge-latency-triangulator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 288 | `eip5564-stealth-address-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 289 | `eip712-signature-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 290 | `eip712-typed-contract-builder-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 291 | `eld-logbook-compliance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 292 | `electronic-health-record-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 293 | `elevator-dispatch-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 294 | `embedding-model-migrator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 295 | `embedding-poisoning-scanner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 296 | `emergency-global-pause-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 297 | `empire-treasury-multisig-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 298 | `end-effector-grasp-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 299 | `energy-consumption-meter-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 300 | `energy-monitoring-plug-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 301 | `energy-syndicate-buyer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 302 | `enterprise-b2b-mediator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 303 | `entity-relationship-extractor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 304 | `env-locker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 305 | `env-variable-obfuscator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 306 | `ephemeral-docker-jail-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 307 | `ephemeral-memory-shredder-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 308 | `ephemeral-vpn-session-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 309 | `escrow-commitment-pool-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 310 | `escrow-deed-verifier-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 311 | `escrow-fund-recovery-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 312 | `escrow-refund-releaser-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 313 | `escrow-time-lock-factory-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 314 | `esd-emergency-shutdown-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 315 | `esg-certification-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 316 | `esim-iot-profile-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 317 | `etsy-trend-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 318 | `eu-ai-act-risk-classifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 319 | `ev-charge-broker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 320 | `evm-opcode-fuzzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 321 | `excess-inventory-sweeper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 322 | `extended-warranty-pricer-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 323 | `facebook-group-leads-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 324 | `facial-mocap-retargeter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 325 | `factoring-yield-farmer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 326 | `fbx-animation-extractor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 327 | `fda-approval-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 328 | `feature-flag-entitlement-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 329 | `featured-snippet-extractor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 330 | `fedex-tracking-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 331 | `fertilizer-n-p-k-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 332 | `fft-vibration-analysis-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 333 | `fhir-r4-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 334 | `fiat-onramp-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 335 | `fiber-optic-fault-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 336 | `financial-advice-disclaimer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 337 | `fine-tuned-model-weights-merger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 338 | `fine-tuning-quality-scorer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 339 | `flash-crash-halt-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 340 | `flash-escrow-settlement-gate-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 341 | `flash-loan-liquidator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 342 | `flashbots-bundle-sender-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 343 | `flashloan-attack-fuzzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 344 | `fleet-range-estimator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 345 | `flightradar24-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 346 | `fluid-particle-emitter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 347 | `foursquare-venue-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 348 | `fp16-mixed-precision-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 349 | `fraud-claim-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 350 | `freemium-conversion-scorer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 351 | `front-running-protector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 352 | `front-running-simulator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 353 | `fuel-efficiency-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 354 | `fuel-surcharge-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 355 | `fuzz-breaker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 356 | `gas-price-derivatives-oracle-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 357 | `gas-pulse-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 358 | `gastor-motherboard-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 359 | `gdpr-compliance-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 360 | `gdpr-pii-scrubber-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 361 | `genesis-block-archiver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 362 | `geometry-simplifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 363 | `geothermal-yield-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 364 | `ghost-embedding-cleaner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 365 | `ghostblock-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 366 | `git-commit-history-scanner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 367 | `github-action-secret-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 368 | `github-developer-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 369 | `github-repo-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 370 | `glassdoor-company-reviews-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 371 | `global-x402-fee-distributor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 372 | `gltf-texture-packer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 373 | `gltf-to-usdz-converter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 374 | `google-flights-matrix-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 375 | `google-maps-leads-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 376 | `google-news-aggregator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 377 | `google-search-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 378 | `gpu-capacity-auctioneer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 379 | `gpu-hardware-fingerprinter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 380 | `grandmaster-api-gateway-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 381 | `grant-proposal-writer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 382 | `green-compute-certificate-issuer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 383 | `green-hydrogen-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 384 | `green-screen-keyer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 385 | `grid-demand-response-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 386 | `grid-demand-response-pause-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 387 | `grid-trading-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 388 | `groth16-proof-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 389 | `hallucination-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 390 | `handoff-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 391 | `harmful-content-classifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 392 | `hashicorp-vault-sync-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 393 | `hazmat-compliance-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 394 | `hcaptcha-solver-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 395 | `hdr-cubemap-stitcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 396 | `head-tracking-audio-sync-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 397 | `header-bidding-wrapper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 398 | `headless-browser-stealth-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 399 | `headless-browser-stealth-patcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 400 | `heat-recycling-telemetry-node-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 401 | `helium-financial-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 402 | `helium-network-miner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 403 | `heterogeneous-compute-balancer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 404 | `hieroglyph-translator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 405 | `high-risk-exchange-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 406 | `high-ticket-dispute-court-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 407 | `hipaa-phi-sanitizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 408 | `historian-data-tamper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 409 | `historical-ligature-resolver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 410 | `historical-log-archiver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 411 | `hl7-v2-message-broker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 412 | `hmi-unauthorized-access-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 413 | `hnsw-graph-connectivity-repair-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 414 | `home-assistant-yaml-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 415 | `homomorphic-encryption-proxy-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 416 | `hrtf-binaural-renderer-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 417 | `html-to-markdown-cleaner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 418 | `humanoid-balance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 419 | `iaq-air-quality-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 420 | `icd10-mapper-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 421 | `iec61850-substation-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 422 | `ik-inverse-kinematics-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 423 | `image-metadata-exif-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 424 | `impermanent-loss-hedger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 425 | `indeed-resume-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 426 | `indirect-prompt-injection-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 427 | `industrial-edge-gateway-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 428 | `inference-cost-hedger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 429 | `influencer-roi-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 430 | `instagram-profile-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 431 | `insurance-claim-auto-filer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 432 | `int8-quantization-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 433 | `integer-overflow-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 434 | `international-nda-drafter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 435 | `interoperability-message-bus-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 436 | `interstellar-node-registry-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 437 | `ioc-malware-hash-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 438 | `ip-infringement-scanner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 439 | `irrigation-schedule-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 440 | `irs-compliance-check-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 441 | `irs-form-1099-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 442 | `iso27001-compliance-escrow-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 443 | `jetson-cuda-accelerator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 444 | `jit-liquidity-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 445 | `joint-venture-treasury-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 446 | `json-payload-minifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 447 | `jsonl-dataset-exporter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 448 | `jurisdiction-governing-law-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 449 | `jwt-token-expiration-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 450 | `k-framework-semantics-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 451 | `kinematic-character-controller-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 452 | `knowledge-graph-compressor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 453 | `kyber-key-encapsulation-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 454 | `kyc-identity-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 455 | `labor-trends-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 456 | `language-detector-filter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 457 | `latency-penalty-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 458 | `latin-papyrus-ocr-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 459 | `lattice-based-crypto-oracle-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 460 | `layer2-storage-proof-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 461 | `lease-agreement-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 462 | `legacy-migrator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 463 | `legal-contract-validator-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 464 | `legal-logic-fuzzer-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 465 | `legal-validator-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 466 | `lemon-law-compliance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 467 | `leo-satellite-uplink-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 468 | `lexguard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 469 | `lidar-360-collision-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 470 | `lidar-las-laz-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 471 | `lidar-odometry-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 472 | `lifetime-value-revshare-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 473 | `linear-broker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 474 | `linkedin-lead-gen-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 475 | `linkedin-profile-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 476 | `liquidity-pause-trigger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 477 | `liquidity-pool-balancer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 478 | `lithium-copper-prices-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 479 | `lithium-degradation-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 480 | `live2d-animator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 481 | `livestock-rfid-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 482 | `llm-benchmark-evaluator-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 483 | `llm-provider-outage-fallback-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 484 | `llm-response-streaming-compressor-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 485 | `lod-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 486 | `logisticflow-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 487 | `logoscout-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 488 | `logsentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 489 | `long-term-memory-indexer-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 490 | `ltl-consolidation-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 491 | `lyft-fare-estimator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 492 | `m2m-vat-calculator-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 493 | `m2mcent-supreme-court-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 494 | `machine-downtime-predictor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 495 | `malicious-payload-honeypot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 496 | `marinetraffic-vessel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 497 | `master-swarm-orchestrator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 498 | `matchmove-3d-camera-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 499 | `material-graph-converter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 500 | `matter-over-thread-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 501 | `mavlink-px4-telemetry-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 502 | `mc-data-monitor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 503 | `medical-billing-coder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 504 | `memory-limit-watchdog-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 505 | `memory-summarizer-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 506 | `mesh-collision-hull-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 507 | `meshtastic-915mhz-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 508 | `messari-crypto-intel-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 509 | `metallic-roughness-packer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 510 | `metasploit-payload-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 511 | `mev-boost-relay-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 512 | `micro-royalty-distribution-node-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 513 | `microgrid-island-mode-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 514 | `milestone-refund-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 515 | `mine-tailings-monitor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 516 | `mitre-attck-mapper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 517 | `mixer-deposit-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 518 | `modbus-rtu-tcp-parser-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 519 | `model-checking-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 520 | `model-collapse-preventer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 521 | `model-explainability-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 522 | `model-fallback-negotiator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 523 | `model-hallucination-probability-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 524 | `model-quantization-energy-tuner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 525 | `model-weights-hash-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 526 | `molecular-patent-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 527 | `moq-minimum-order-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 528 | `motion-blur-adder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 529 | `moveit-trajectory-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 530 | `mqtt-v5-broker-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 531 | `mrr-churn-predictor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 532 | `multi-agent-deadlock-breaker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 533 | `multi-agent-memory-garbage-collector-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 534 | `multi-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 535 | `multi-level-mlm-divider-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 536 | `multi-sig-agent-authorizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 537 | `multi-sig-tiebreaker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 538 | `multi-token-fee-converter-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 539 | `multi-touch-attribution-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 540 | `multichain-state-sync-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 541 | `multimodal-ocr-handwriting-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 542 | `multimodal-prompt-injection-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 543 | `multisig-emergency-vote-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 544 | `nash-equilibrium-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 545 | `nash-equilibrium-solver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 546 | `navmesh-pathfinder-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 547 | `nb-iot-cellular-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 548 | `ndvi-satellite-health-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 549 | `nerf-to-mesh-exporter-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 550 | `net-zero-pathway-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 551 | `net30-net60-terms-negotiator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 552 | `network-health-panopticon-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 553 | `network-namespace-isolate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 554 | `network-slicing-allocator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 555 | `neural-architecture-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 556 | `neural-graph-mapper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 557 | `nft-invoice-minter-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 558 | `no-fly-zone-compliance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 559 | `node-1000-immutable-beacon-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 560 | `normal-map-baker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 561 | `normal-roughness-baker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 562 | `notary-digital-signer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 563 | `npm-package-leak-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 564 | `nsfw-frame-censor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 565 | `nuclear-reactor-telemetry-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 566 | `nullifier-hash-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 567 | `nvd-cvss-v4-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 568 | `obj-to-gltf-pipeline-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 569 | `occlusion-audio-filter-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 570 | `occupancy-lighting-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 571 | `ofac-sanctions-screener-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 572 | `offchain-zk-state-channel-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 573 | `oil-pipeline-leak-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 574 | `omniverse-scene-exporter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 575 | `onchain-formal-proof-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 576 | `onchain-reputation-oracle-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 577 | `onnx-graph-pruner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 578 | `opc-ua-telemetry-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 579 | `openrtb-3-bidder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 580 | `opensea-nft-floor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 581 | `openvino-npu-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 582 | `optical-flow-estimator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 583 | `optimistic-rollup-challenger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 584 | `oracle-data-feed-sla-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 585 | `oracle-jury-summoner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 586 | `oracle-manipulation-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 587 | `order-book-spread-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 588 | `order-flow-auction-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 589 | `ore-purity-assay-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 590 | `organic-text-engine-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 591 | `p2p-file-chunk-distributor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 592 | `packet-forwarder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 593 | `paleography-classifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 594 | `pallet-lot-appraiser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 595 | `parametric-weather-insurance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 596 | `pareto-optimal-negotiator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 597 | `past-performance-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 598 | `patent-prior-art-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 599 | `payload-decoder-ttn-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 600 | `payload-drop-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 601 | `payroll-withholding-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 602 | `pdf-ocr-extractor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 603 | `pedersen-commitment-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 604 | `peer-to-peer-lending-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 605 | `peg-depeg-alerter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 606 | `pep-database-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 607 | `perimeterx-solver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 608 | `pgf-payment-channel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 609 | `pharmacokinetics-model-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 610 | `philips-hue-sync-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 611 | `photogrammetry-mesh-builder-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 612 | `pid-loop-tuner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 613 | `pii-anonymizer-rgpd-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 614 | `pii-data-exfiltration-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 615 | `pinterest-board-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 616 | `pitchdeck-auto-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 617 | `pixar-usd-assembler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 618 | `planar-tracker-mocha-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 619 | `platooning-convoy-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 620 | `plonk-circuit-builder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 621 | `ply-splat-compressor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 622 | `podcast-audio-transcriber-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 623 | `point-cloud-denoiser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 624 | `poisson-surface-reconstruction-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 625 | `policy-coverage-oracle-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 626 | `polyglot-debugger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 627 | `polygon-reduction-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 628 | `port-congestion-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 629 | `pose-estimation-openpose-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 630 | `post-quantum-tls-tunnel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 631 | `pr-campaign-launcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 632 | `premium-risk-scorer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 633 | `presence-mmwave-radar-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 634 | `price-parity-auditor-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 635 | `prisoner-dilemma-simulator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 636 | `privacy-preserving-auth-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 637 | `privacymask-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 638 | `private-llm-instance-provisioner-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 639 | `private-mempool-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 640 | `profibus-data-logger-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 641 | `programmatic-dsp-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 642 | `prompt-cache-hit-maximizer-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 643 | `prompt-efficiency-scorer-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 644 | `prompt-leakage-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 645 | `prompt-refiner-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 646 | `prompt-routing-arbitrageur-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 647 | `proof-of-work-captcha-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 648 | `prosody-pitch-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 649 | `protein-folding-alpha-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 650 | `protocol-upgrade-proposer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 651 | `proxy-collision-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 652 | `ptrace-system-call-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 653 | `pue-datacenter-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 654 | `python-ast-sandbox-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 655 | `qos-bandwidth-shaper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 656 | `quantum-entropy-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 657 | `quantum-random-number-gen-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 658 | `quantum-resistant-signature-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 659 | `quantum-safe-llm-session-encryptor-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 660 | `quantum-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 661 | `query-forge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 662 | `quickbooks-api-sync-agent-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 663 | `quiz-factory-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 664 | `quorum-sensing-broker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 665 | `quota-overage-biller-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 666 | `race-condition-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 667 | `rag-vector-cleaner-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 668 | `ragdoll-joint-limits-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 669 | `ram-heap-leak-sanitizer-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 670 | `ram-memory-shredder-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 671 | `ram-state-freezer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 672 | `ran-optimization-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 673 | `ransomware-negotiation-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 674 | `rapier-wasm-physics-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 675 | `rare-earth-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 676 | `rare-edge-case-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 677 | `rate-limit-manager-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 678 | `rate-limit-swap-broker-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 679 | `raw-material-index-pricer-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 680 | `raycast-hit-tester-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 681 | `react-video-automator-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 682 | `readability-score-eval-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 683 | `real-estate-title-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 684 | `real-time-subtitles-translator-node-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 685 | `recallmax-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 686 | `recallmax-neural-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 687 | `recaptcha-v3-solver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 688 | `receipt-invoice-parser-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 689 | `recursive-self-improvement-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 690 | `reddit-keyword-monitor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 691 | `reddit-trend-hunter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 692 | `reefer-temp-monitor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 693 | `reentrancy-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 694 | `refrigerated-temp-sla-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 695 | `refurbished-grade-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 696 | `regenerative-braking-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 697 | `reinsurance-contract-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 698 | `render-stream-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 699 | `renewable-energy-cert-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 700 | `renewable-energy-credits-trader-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 701 | `replacement-inventory-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 702 | `repo-to-rag-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 703 | `reputation-decay-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 704 | `request-rate-throttler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 705 | `residential-ip-micro-rotator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 706 | `residential-proxy-rotator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 707 | `resource-allocation-game-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 708 | `reverse-logistics-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 709 | `rfp-compliance-matrix-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 710 | `rfq-quote-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 711 | `rgbd-sensor-calibrator-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 712 | `rife-60fps-interpolator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 713 | `rma-shipping-label-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 714 | `room-impulse-response-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 715 | `ros2-dds-qos-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 716 | `rotoscope-mask-generator-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 717 | `route-weather-hazard-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 718 | `rssi-triangulation-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 719 | `rule-porter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 720 | `rules-gen-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 721 | `sales-tax-nexus-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 722 | `salescloser-ai-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 723 | `salvage-value-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 724 | `sar-report-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 725 | `sat-cfdi-invoicing-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 726 | `satori-aligner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 727 | `sbom-cyclonedx-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 728 | `scene-change-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 729 | `science-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 730 | `scope-3-emissions-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 731 | `scrap-metal-recycling-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 732 | `sd-wan-route-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 733 | `sdr-meeting-booker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 734 | `seamless-tiling-ai-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 735 | `sec-edgar-form4-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 736 | `seccomp-filter-enforcer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 737 | `second-price-auction-host-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 738 | `second-price-auctioneer-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 739 | `secure-enclave-attestation-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 740 | `seismic-blast-planner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 741 | `semantic-drift-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 742 | `semantic-hash-indexer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 743 | `semantic-redundancy-pruner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 744 | `sentiment-trail-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 745 | `seo-first-page-guarantee-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 746 | `seo-ghost-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 747 | `seo-keyword-ranker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 748 | `serp-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 749 | `serverless-db-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 750 | `shadow-ai-use-sentinel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 751 | `shapley-value-distributor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 752 | `shein-fashion-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 753 | `shielded-erc20-transfer-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 754 | `shodan-open-port-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 755 | `shopify-catalog-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 756 | `side-channel-attack-shield-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 757 | `sigfox-backend-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 758 | `sign-language-translator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 759 | `singularity-event-horizon-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 760 | `skyscanner-price-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 761 | `sla-downtime-refund-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 762 | `slack-message-sanitizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 763 | `slam-gmapping-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 764 | `slash-stake-penalty-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 765 | `slide-factory-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 766 | `slippage-tolerance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 767 | `slither-ast-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 768 | `smart-contract-auditor-pro-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 769 | `smart-contract-expense-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 770 | `smart-contract-freezer-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 771 | `smart-contract-lawyer-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 772 | `smart-contract-upgrade-auditor-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 773 | `smart-meter-reader-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 774 | `smelter-emissions-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 775 | `smiles-structure-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 776 | `smt-solver-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 777 | `snapchat-geo-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 778 | `soc-soh-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 779 | `soc2-audit-trail-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 780 | `social-sentiment-crawler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 781 | `soft-body-simulator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 782 | `software-license-compliance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 783 | `soil-moisture-iot-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 784 | `sol-forge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 785 | `solar-inverter-modbus-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 786 | `solar-irradiance-predictor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 787 | `solidity-slither-wrapper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 788 | `sonoff-tasmota-flash-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 789 | `spam-intent-classifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 790 | `spatial-audio-3d-synthesizer-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 791 | `spatial-audio-panner-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 792 | `spatial-metadata-injector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 793 | `spatial-occlusion-mapper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 794 | `spectrum-auction-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 795 | `speech-emotion-forensic-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 796 | `speech-to-text-whisper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 797 | `spot-freight-auction-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 798 | `spot-market-sweeper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 799 | `srt-vtt-subtitle-gen-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 800 | `sso-auth-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 801 | `sso-saml-provisioner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 802 | `ssp-yield-optimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 803 | `stack-trace-medic-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 804 | `state-machine-liveness-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 805 | `state-trie-pruner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 806 | `stealth-address-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 807 | `stem-separator-demucs-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 808 | `stolen-funds-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 809 | `streaming-micropayment-channel-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 810 | `stripe-secret-rotator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 811 | `styleforge-ai-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 812 | `styleseed-tokenizer-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 813 | `subagent-health-monitor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 814 | `substance-sbsar-parser-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 815 | `subzero-kv-compressor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 816 | `super-resolution-4k-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 817 | `supplier-sla-penalty-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 818 | `supply-chain-finance-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 819 | `sustainable-llm-leaderboard-oracle-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 820 | `swarm-coordinator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 821 | `swarm-formation-control-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 822 | `swarm-task-router-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 823 | `sybil-graph-clustering-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 824 | `sybil-resistance-score-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 825 | `sybil-resistance-zk-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 826 | `symbolic-execution-engine-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 827 | `synthetic-data-entropy-eval-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 828 | `synthetic-data-purity-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 829 | `synthetic-video-deepfake-scanner-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 830 | `synthetic-voice-curator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 831 | `system-prompt-protector-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 832 | `talent-sourcer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 833 | `target-gene-discovery-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 834 | `target-product-reviewer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 835 | `task-orchestrator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 836 | `task-preemption-allocator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 837 | `tax-loss-harvesting-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 838 | `tco-5-year-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 839 | `tcp-packet-latency-minimizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 840 | `technical-spec-matcher-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 841 | `tee-attestation-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 842 | `tei-xml-exporter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 843 | `telegram-channel-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 844 | `telemedicine-triage-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 845 | `tensorrt-model-compiler-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 846 | `text-chunking-semantic-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 847 | `texture-channel-mixer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 848 | `tflite-micro-exporter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 849 | `the-gem-smith-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 850 | `thermal-runaway-predictor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 851 | `thermal-throttle-predictor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 852 | `third-party-repair-quote-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 853 | `threat-model-game-solver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 854 | `threejs-weaver-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 855 | `tiered-commission-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 856 | `tiered-pricing-unlocker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 857 | `tiktok-audio-extractor-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 858 | `tiktok-shorts-cropper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 859 | `tiktok-video-cleaner-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 860 | `time-bandit-attack-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 861 | `time-lock-deadline-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 862 | `timelock-bypass-admin-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 863 | `timestamp-chapter-marker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 864 | `tls-fingerprint-randomizer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 865 | `tls-ja4-fingerprinter-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 866 | `token-burn-accounting-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 867 | `token-burn-predictor-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 868 | `token-dictionary-encoder-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 869 | `token-diet-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 870 | `token-futures-contract-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 871 | `token-latency-hedging-router-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 872 | `token-smuggling-detector-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 873 | `token-spot-price-oracle-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 874 | `tokenburn-optimizer-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 875 | `tokenomic-pulse-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 876 | `toll-weigh-station-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 877 | `tool-guardian-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 878 | `topology-rebuilder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 879 | `tornado-cash-tracer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 880 | `tos-slayer-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 881 | `toxic-content-classifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 882 | `toxicology-ld50-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 883 | `tpms-tire-pressure-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 884 | `trade-credit-insurance-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 885 | `trademark-infringement-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 886 | `tradingview-technical-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 887 | `trailer-door-seal-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 888 | `training-data-copyright-tracer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 889 | `training-set-deduplicator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 890 | `transfer-pricing-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 891 | `tripadvisor-restaurant-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 892 | `trust-vision-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 893 | `tts-emotion-controller-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 894 | `tuya-local-key-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 895 | `tvl-drain-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 896 | `twitch-streamer-stats-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 897 | `twitter-sentiment-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 898 | `tx-origin-phishing-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 899 | `uber-h3-hex-grid-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 900 | `uber-surge-pricing-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 901 | `ui-factory-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 902 | `unauthorized-crawler-blocker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 903 | `uncle-bandit-detector-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 904 | `uncollateralized-loan-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 905 | `unicode-obfuscation-guard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 906 | `uninitialized-storage-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 907 | `uniswap-pool-stats-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 908 | `universal-translator-hub-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 909 | `ups-logistics-status-mcp` | 📦 Logistics, Supply Chain & Hardware | Free Discovery / $0.05 x402 |
-| 910 | `upwork-freelancer-stats-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 911 | `urdf-robot-parser-mcp` | 🏭 IoT, Robotics & Industrial SCADA | Free Discovery / $0.05 x402 |
-| 912 | `usdc-payout-distributor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 913 | `user-agent-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 914 | `usps-delivery-status-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 915 | `utm-geofence-navigator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 916 | `uv-unwrapping-agent-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 917 | `ux-auditor-pro-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 918 | `uxui-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 919 | `v2g-grid-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 920 | `vat-moss-eu-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 921 | `vault-invariant-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 922 | `vaultguard-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 923 | `vav-box-damper-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 924 | `vector-cache-dehydrator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 925 | `vector-database-backup-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 926 | `vector-dimension-compressor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 927 | `vector-embedding-prep-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 928 | `vector-index-defragmenter-mcp` | 🧠 LLM Optimization & Knowledge RAG | Free Discovery / $0.05 x402 |
-| 929 | `vellum-background-remover-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 930 | `vendor-financial-health-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 931 | `vendor-lockin-evaluator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 932 | `vendor-lockin-preventer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 933 | `venture-capital-pitch-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 934 | `verifiable-random-function-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 935 | `verighost-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 936 | `verra-carbon-credit-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 937 | `verra-micro-credit-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 938 | `vertex-welder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 939 | `video-factory-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 940 | `video-frame-extractor-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 941 | `video-highlight-extractor-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 942 | `video-stabilizer-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 943 | `video-summarizer-llm-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 944 | `viewability-pixel-tracker-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 945 | `viseme-lipsync-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 946 | `visual-qa-frame-analyzer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 947 | `voice-cloning-biometric-liveness-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 948 | `voice-intel-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 949 | `volume-discount-calculator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 950 | `volumetric-video-encoder-mcp` | 🎨 3D, Audio & Spatial Multimodal | Free Discovery / $0.05 x402 |
-| 951 | `vr-soundscape-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 952 | `vroid-model-importer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 953 | `vtol-transition-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 954 | `vwap-twap-execution-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 955 | `wallet-hygiene-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 956 | `walmart-inventory-checker-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 957 | `washpulse-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 958 | `wasm-isolated-runner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 959 | `water-cooling-efficiency-auditor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 960 | `water-treatment-scada-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 961 | `weather-yield-model-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 962 | `web-scraper-pro-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 963 | `web3-sentiment-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 964 | `web3-wallet-kyt-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 965 | `webapp-uat-audit-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 966 | `webapp-uat-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 967 | `webrtc-avatar-streamer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 968 | `weighted-scoring-oracle-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 969 | `white-hat-payout-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 970 | `wholesale-clearance-bot-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 971 | `wholesale-group-buy-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 972 | `wind-turbine-forecast-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 973 | `workers-comp-evaluator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 974 | `workflow-state-machine-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 975 | `x-data-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 976 | `yahoo-finance-news-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 977 | `yandex-russia-search-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 978 | `yara-rule-generator-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 979 | `yellowpages-directory-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 980 | `yelp-review-scraper-mcp` | 🔍 Web Scraping, OSINT & Growth | Free Discovery / $0.05 x402 |
-| 981 | `yield-bearing-escrow-vault-mcp` | ⚡ Web3, DeFi & Cryptography | Free Discovery / $0.05 x402 |
-| 982 | `youtube-comment-miner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 983 | `youtube-transcript-extractor-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 984 | `youtube-transcript-json-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 985 | `yul-gasmaster-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 986 | `z-wave-network-heal-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 987 | `z3-theorem-prover-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 988 | `zero-day-exploit-scanner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 989 | `zero-knowledge-contract-validator-mcp` | ⚖️ B2B Legal, Tax & Compliance | Free Discovery / $0.05 x402 |
-| 990 | `zero-knowledge-kyc-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 991 | `zero-knowledge-kyc-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 992 | `zero-knowledge-model-execution-proof-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 993 | `zero-leak-mcp` | 🛡️ Cybersecurity & DevSecOps | Free Discovery / $0.05 x402 |
-| 994 | `zero-shot-voice-clone-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 995 | `zero-trust-network-gate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 996 | `zeroknowledge-vault-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 997 | `zigbee2mqtt-bridge-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 998 | `zillow-real-estate-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 999 | `zk-agent-identity-prover-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 1000 | `zk-otc-settlement-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 1001 | `zk-payroll-vault-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 1002 | `zk-snark-payload-verifier-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 1003 | `zod-schema-enforcer-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 1004 | `zombie-saas-cleaner-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
-| 1005 | `zoominfo-contact-finder-mcp` | Autonomous Agent Utility | Free Discovery / $0.05 x402 |
+### 🎨 3D, Audio & Spatial Multimodal
+- ``3d-meshweaver-mcp``, ``3d-pallet-packing-mcp``, ``audio-anonymizer-voice-scrambler-mcp``, ``audio-description-mcp``, ``audio-watermarking-detector-mcp``, 
+- ``draco-mesh-compressor-mcp``, ``head-tracking-audio-sync-mcp``, ``hrtf-binaural-renderer-mcp``, ``image-metadata-exif-mcp``, ``matchmove-3d-camera-mcp``, 
+- ``mesh-collision-hull-mcp``, ``meshtastic-915mhz-mcp``, ``navmesh-pathfinder-mcp``, ``nerf-to-mesh-exporter-mcp``, ``occlusion-audio-filter-mcp``, 
+- ``photogrammetry-mesh-builder-mcp``, ``podcast-audio-transcriber-mcp``, ``react-video-automator-mcp``, ``render-stream-mcp``, ``spatial-audio-3d-synthesizer-mcp``, 
+- ``spatial-audio-panner-mcp``, ``synthetic-video-deepfake-scanner-mcp``, ``tiktok-audio-extractor-mcp``, ``tiktok-video-cleaner-mcp``, ``video-factory-mcp``, 
+- ``video-frame-extractor-mcp``, ``video-highlight-extractor-mcp``, ``video-stabilizer-mcp``, ``video-summarizer-llm-mcp``, ``volumetric-video-encoder-mcp``
+
+### Autonomous Agent Utility
+- ``4-20ma-analog-converter-mcp``, ``5g-core-nfv-mcp``, ``90-percent-liquidity-advance-mcp``, ``accounts-receivable-ledger-mcp``, ``acoustic-reverb-simulator-mcp``, 
+- ``active-seat-metering-mcp``, ``actuarial-life-table-mcp``, ``ad-fraud-click-detector-mcp``, ``ad-sniper-mcp``, ``ad-spend-auditor-mcp``, 
+- ``adversarial-suffix-mcp``, ``aegis-policy-mcp``, ``affiliate-link-attribution-mcp``, ``afforestation-satellite-mcp``, ``agent-collision-preventer-mcp``, 
+- ``agent-collusion-detector-mcp``, ``agent-council-voting-mcp``, ``agent-credit-history-mcp``, ``agent-phone-mcp``, ``agent-slashing-protocol-mcp``, 
+- ``agent-telephony-mcp``, ``agentic-credit-line-issuer-mcp``, ``agentic-payroll-processor-mcp``, ``agentphone-ai-mcp``, ``agile-sprint-mcp``, 
+- ``ai-fleet-cards-mcp``, ``ai-humanizer-mcp``, ``ai-right-to-opt-out-gate-mcp``, ``ai-safety-incident-logger-mcp``, ``ai-watermark-provenance-verifier-mcp``, 
+- ``airbnb-host-analyzer-mcp``, ``airbnb-smart-lock-mcp``, ``airport-slot-allocator-mcp``, ``akamai-bot-manager-bypass-mcp``, ``albedo-delighter-mcp``, 
+- ``algorithmic-bias-scrubber-mcp``, ``aliexpress-dropship-finder-mcp``, ``ambient-occlusion-map-mcp``, ``ambisonics-b-format-encoder-mcp``, ``amr-fleet-dispatcher-mcp``, 
+- ``angellist-startup-jobs-mcp``, ``anomaly-detection-sentinel-mcp``, ``anonymous-credential-issuer-mcp``, ``anti-collusion-detector-mcp``, ``anti-sandwich-slippage-mcp``, 
+- ``anti-stuxnet-plc-mcp``, ``api-key-load-balancer-mcp``, ``api-quota-balancer-mcp``, ``api-rate-limit-enforcer-mcp``, ``apify-native-mcp``, 
+- ``apollo-io-lead-gen-mcp``, ``app-store-builder-mcp``, ``apple-vision-pro-optimizer-mcp``, ``ar-kit-blendshape-mcp``, ``ar-plane-detector-mcp``, 
+- ``arabic-calligraphy-parser-mcp``, ``arbitration-fee-splitter-mcp``, ``architecture-dna-mcp``, ``ashrae-compliance-mcp``, ``auth-sentinel-mcp``, 
+- ``auto-telematics-policy-mcp``, ``automated-amendment-negotiator-mcp``, ``automated-debt-collector-mcp``, ``automated-dpia-reporter-mcp``, ``automated-xml-invoicing-mcp``, 
+- ``automation-weaver-mcp``, ``autonomous-haul-truck-mcp``, ``autonomous-tractor-path-mcp``, ``aws-builder-mcp``, ``aws-key-revoker-webhook-mcp``, 
+- ``b2b-lead-closer-mcp``, ``backhaul-empty-return-mcp``, ``bacnet-ip-discovery-mcp``, ``bandwidth-micro-marketplace-mcp``, ``bankruptcy-asset-liquidator-mcp``, 
+- ``barcode-qr-decoder-mcp``, ``base-to-polygon-relayer-mcp``, ``base64-payload-decoder-mcp``, ``batch-request-bundler-mcp``, ``battery-return-home-mcp``, 
+- ``best-and-final-offer-mcp``, ``bestbuy-deal-alerter-mcp``, ``bft-swarm-vote-aggregator-mcp``, ``bias-auditor-mcp``, ``bias-drift-monitor-mcp``, 
+- ``bid-clarification-q-and-a-mcp``, ``bidding-strategy-optimizer-mcp``, ``binance-orderbook-mcp``, ``bing-ai-results-mcp``, ``bio-data-parser-mcp``, 
+- ``bio-safe-audit-mcp``, ``blendshape-mapper-mcp``, ``blind-signature-voting-gate-mcp``, ``blinded-macaroon-signer-mcp``, ``bms-schedule-override-mcp``, 
+- ``body-gesture-synthesizer-mcp``, ``boids-flocking-algorithm-mcp``, ``boiler-water-temp-mcp``, ``bone-rig-retargeter-mcp``, ``botnet-behavior-analyzer-mcp``, 
+- ``bug-bounty-hunter-mcp``, ``bulk-shipping-negotiator-mcp``, ``bulletproofs-range-check-mcp``, ``can-bus-decoder-mcp``, ``captcha-bypass-attestation-gate-mcp``, 
+- ``catalog-engine-mcp``, ``ccs-chademo-protocol-mcp``, ``cdn-cache-warmup-agent-mcp``, ``cell-balancing-algorithm-mcp``, ``cell-tower-handoff-mcp``, 
+- ``certora-rule-generator-mcp``, ``cgroup-cpu-throttler-mcp``, ``charge-curve-optimizer-mcp``, ``chargeback-insurance-pool-mcp``, ``cheap-compute-sniper-mcp``, 
+- ``chembl-affinity-oracle-mcp``, ``chiller-cop-efficiency-mcp``, ``chinese-scroll-digitizer-mcp``, ``chirpstack-lorawan-mcp``, ``chroot-filesystem-jail-mcp``, 
+- ``claim-denial-appeal-mcp``, ``clarity-gate-mcp``, ``clause-risk-score-evaluator-mcp``, ``clawback-prevention-sentinel-mcp``, ``cleancode-ai-mcp``, 
+- ``clinical-phase-analyzer-mcp``, ``clinical-trial-matcher-mcp``, ``cloth-physics-solver-mcp``, ``cloudflare-turnstile-bypass-mcp``, ``cloudscale-sim-mcp``, 
+- ``co2-inference-calculator-mcp``, ``cobot-safety-zone-mcp``, ``coingecko-historical-mcp``, ``cold-vault-migrator-mcp``, ``collusion-detection-sentinel-mcp``, 
+- ``commodity-futures-oracle-mcp``, ``computer-vision-damage-mcp``, ``computer-vision-defect-mcp``, ``conflict-minerals-audit-mcp``, ``consensus-voter-mcp``, 
+- ``cookie-stuffing-detector-mcp``, ``cooperative-dividend-mcp``, ``cooperative-swarm-incentiver-mcp``, ``copyrighted-music-fingerprint-matcher-mcp``, ``coq-proof-assistant-mcp``, 
+- ``coral-tpu-delegate-mcp``, ``corporate-kyc-registry-mcp``, ``corporate-treasury-multisig-mcp``, ``cost-optimal-model-selector-mcp``, ``counter-offer-bot-mcp``, 
+- ``craigslist-local-deals-mcp``, ``credit-risk-mcp``, ``crispr-cas9-offtarget-mcp``, ``crop-pest-diagnostic-mcp``, ``crop-yield-insurance-mcp``, 
+- ``cross-company-agent-dispute-court-mcp``, ``cross-device-attribution-mcp``, ``cross-docking-coordinator-mcp``, ``cross-modal-embedding-aligner-mcp``, ``cross-shard-state-sync-mcp``, 
+- ``crunchbase-funding-mcp``, ``cuneiform-tablet-reader-mcp``, ``customs-clearance-bot-mcp``, ``customs-duty-calculator-mcp``, ``cyber-breach-liability-mcp``, 
+- ``damaged-text-inpainter-mcp``, ``dan-jailbreak-filter-mcp``, ``dark-pool-liquidity-mcp``, ``darknet-address-filter-mcp``, ``darkweb-breach-mcp``, 
+- ``darkweb-threat-feed-mcp``, ``darwin-ideation-mcp``, ``data-diode-unidirectional-mcp``, ``data-observability-mcp``, ``data-poisoning-detector-mcp``, 
+- ``datadome-bypass-agent-mcp``, ``datahealth-observer-mcp``, ``ddos-scrubbing-proxy-node-mcp``, ``deadlock-resolver-mcp``, ``debt-collection-bot-mcp``, 
+- ``decentralized-credit-bureau-mcp``, ``deepfake-lens-mcp``, ``deepfake-sentinel-mcp``, ``default-probability-model-mcp``, ``default-risk-oracle-mcp``, 
+- ``depreciation-value-calculator-mcp``, ``depth-map-estimator-mcp``, ``devrel-amplifier-mcp``, ``dialogue-distiller-mcp``, ``dicom-imaging-analyzer-mcp``, 
+- ``diesel-anti-theft-mcp``, ``dilithium-signature-verifier-mcp``, ``direct-air-capture-bidder-mcp``, ``discount-coupon-validator-mcp``, ``displacement-height-map-mcp``, 
+- ``dispute-penalty-calculator-mcp``, ``distributed-lock-service-mcp``, ``dnp3-protocol-analyzer-mcp``, ``docdigest-mcp``, ``dockerfile-credential-mcp``, 
+- ``document-layout-analyzer-mcp``, ``dolby-atmos-metadata-mcp``, ``domain-authority-checker-mcp``, ``domain-dnssec-trust-verifier-mcp``, ``drayage-port-scheduler-mcp``, 
+- ``drill-core-logger-mcp``, ``driver-fatigue-camera-mcp``, ``drug-interaction-checker-mcp``, ``dune-analytics-query-mcp``, ``duplicate-content-remover-mcp``, 
+- ``dutch-auction-surplus-mcp``, ``dynamic-discounting-mcp``, ``dynamic-procurement-oracle-mcp``, ``ebay-auction-sniper-mcp``, ``eco-optimizer-mcp``, 
+- ``edge-inference-benchmarker-mcp``, ``edge-latency-triangulator-mcp``, ``eip5564-stealth-address-mcp``, ``eip712-signature-bridge-mcp``, ``eld-logbook-compliance-mcp``, 
+- ``electronic-health-record-mcp``, ``elevator-dispatch-mcp``, ``embedding-model-migrator-mcp``, ``embedding-poisoning-scanner-mcp``, ``emergency-global-pause-mcp``, 
+- ``empire-treasury-multisig-mcp``, ``end-effector-grasp-mcp``, ``energy-consumption-meter-oracle-mcp``, ``energy-monitoring-plug-mcp``, ``energy-syndicate-buyer-mcp``, 
+- ``enterprise-b2b-mediator-mcp``, ``entity-relationship-extractor-mcp``, ``env-locker-mcp``, ``env-variable-obfuscator-mcp``, ``ephemeral-docker-jail-mcp``, 
+- ``ephemeral-vpn-session-mcp``, ``esd-emergency-shutdown-mcp``, ``esg-certification-auditor-mcp``, ``etsy-trend-analyzer-mcp``, ``eu-ai-act-risk-classifier-mcp``, 
+- ``ev-charge-broker-mcp``, ``evm-opcode-fuzzer-mcp``, ``excess-inventory-sweeper-mcp``, ``facial-mocap-retargeter-mcp``, ``factoring-yield-farmer-mcp``, 
+- ``fbx-animation-extractor-mcp``, ``feature-flag-entitlement-mcp``, ``featured-snippet-extractor-mcp``, ``fedex-tracking-oracle-mcp``, ``fertilizer-n-p-k-oracle-mcp``, 
+- ``fft-vibration-analysis-mcp``, ``fhir-r4-parser-mcp``, ``fiat-onramp-mcp``, ``fiber-optic-fault-mcp``, ``financial-advice-disclaimer-mcp``, 
+- ``fine-tuned-model-weights-merger-mcp``, ``fine-tuning-quality-scorer-mcp``, ``flash-crash-halt-mcp``, ``flash-loan-liquidator-mcp``, ``flashbots-bundle-sender-mcp``, 
+- ``flashloan-attack-fuzzer-mcp``, ``fleet-range-estimator-mcp``, ``fluid-particle-emitter-mcp``, ``fp16-mixed-precision-mcp``, ``fraud-claim-detector-mcp``, 
+- ``freemium-conversion-scorer-mcp``, ``front-running-protector-mcp``, ``front-running-simulator-mcp``, ``fuel-surcharge-oracle-mcp``, ``fuzz-breaker-mcp``, 
+- ``gas-pulse-mcp``, ``gastor-motherboard-mcp``, ``gdpr-compliance-auditor-mcp``, ``gdpr-pii-scrubber-mcp``, ``genesis-block-archiver-mcp``, 
+- ``geometry-simplifier-mcp``, ``geothermal-yield-oracle-mcp``, ``ghost-embedding-cleaner-mcp``, ``ghostblock-mcp``, ``git-commit-history-scanner-mcp``, 
+- ``github-action-secret-mcp``, ``glassdoor-company-reviews-mcp``, ``global-x402-fee-distributor-mcp``, ``gltf-texture-packer-mcp``, ``gltf-to-usdz-converter-mcp``, 
+- ``google-flights-matrix-mcp``, ``google-news-aggregator-mcp``, ``gpu-capacity-auctioneer-mcp``, ``gpu-hardware-fingerprinter-mcp``, ``grandmaster-api-gateway-mcp``, 
+- ``grant-proposal-writer-mcp``, ``green-compute-certificate-issuer-mcp``, ``green-screen-keyer-mcp``, ``grid-demand-response-mcp``, ``grid-demand-response-pause-gate-mcp``, 
+- ``grid-trading-bot-mcp``, ``groth16-proof-verifier-mcp``, ``hallucination-detector-mcp``, ``harmful-content-classifier-mcp``, ``hashicorp-vault-sync-mcp``, 
+- ``hazmat-compliance-checker-mcp``, ``hcaptcha-solver-oracle-mcp``, ``hdr-cubemap-stitcher-mcp``, ``header-bidding-wrapper-mcp``, ``headless-browser-stealth-mcp``, 
+- ``headless-browser-stealth-patcher-mcp``, ``helium-financial-mcp``, ``helium-network-miner-mcp``, ``heterogeneous-compute-balancer-mcp``, ``hieroglyph-translator-mcp``, 
+- ``high-risk-exchange-mcp``, ``high-ticket-dispute-court-mcp``, ``hipaa-phi-sanitizer-mcp``, ``historian-data-tamper-mcp``, ``historical-ligature-resolver-mcp``, 
+- ``historical-log-archiver-mcp``, ``hl7-v2-message-broker-mcp``, ``hmi-unauthorized-access-mcp``, ``hnsw-graph-connectivity-repair-mcp``, ``home-assistant-yaml-mcp``, 
+- ``homomorphic-encryption-proxy-mcp``, ``html-to-markdown-cleaner-mcp``, ``humanoid-balance-mcp``, ``iaq-air-quality-mcp``, ``icd10-mapper-oracle-mcp``, 
+- ``iec61850-substation-mcp``, ``ik-inverse-kinematics-mcp``, ``impermanent-loss-hedger-mcp``, ``industrial-edge-gateway-mcp``, ``inference-cost-hedger-mcp``, 
+- ``insurance-claim-auto-filer-mcp``, ``int8-quantization-mcp``, ``international-nda-drafter-mcp``, ``interoperability-message-bus-mcp``, ``interstellar-node-registry-mcp``, 
+- ``ioc-malware-hash-mcp``, ``ip-infringement-scanner-mcp``, ``irrigation-schedule-mcp``, ``irs-compliance-check-oracle-mcp``, ``irs-form-1099-generator-mcp``, 
+- ``jetson-cuda-accelerator-mcp``, ``joint-venture-treasury-mcp``, ``json-payload-minifier-mcp``, ``jsonl-dataset-exporter-mcp``, ``jurisdiction-governing-law-mcp``, 
+- ``k-framework-semantics-mcp``, ``kinematic-character-controller-mcp``, ``knowledge-graph-compressor-mcp``, ``kyber-key-encapsulation-mcp``, ``kyc-identity-verifier-mcp``, 
+- ``labor-trends-mcp``, ``language-detector-filter-mcp``, ``latency-penalty-calculator-mcp``, ``latin-papyrus-ocr-mcp``, ``lease-agreement-analyzer-mcp``, 
+- ``legacy-migrator-mcp``, ``lemon-law-compliance-mcp``, ``leo-satellite-uplink-mcp``, ``lidar-360-collision-mcp``, ``lidar-las-laz-parser-mcp``, 
+- ``lidar-odometry-mcp``, ``lifetime-value-revshare-mcp``, ``linear-broker-mcp``, ``linkedin-lead-gen-mcp``, ``liquidity-pause-trigger-mcp``, 
+- ``liquidity-pool-balancer-mcp``, ``lithium-degradation-mcp``, ``live2d-animator-mcp``, ``lod-generator-mcp``, ``logisticflow-mcp``, 
+- ``logoscout-mcp``, ``logsentinel-mcp``, ``lyft-fare-estimator-mcp``, ``m2m-vat-calculator-oracle-mcp``, ``m2mcent-supreme-court-mcp``, 
+- ``machine-downtime-predictor-mcp``, ``malicious-payload-honeypot-mcp``, ``marinetraffic-vessel-mcp``, ``master-swarm-orchestrator-mcp``, ``material-graph-converter-mcp``, 
+- ``matter-over-thread-mcp``, ``mc-data-monitor-mcp``, ``medical-billing-coder-mcp``, ``metallic-roughness-packer-mcp``, ``metasploit-payload-analyzer-mcp``, 
+- ``mev-boost-relay-mcp``, ``micro-royalty-distribution-node-mcp``, ``microgrid-island-mode-mcp``, ``milestone-refund-calculator-mcp``, ``mine-tailings-monitor-mcp``, 
+- ``mitre-attck-mapper-mcp``, ``mixer-deposit-detector-mcp``, ``model-checking-verifier-mcp``, ``model-collapse-preventer-mcp``, ``model-explainability-auditor-mcp``, 
+- ``model-fallback-negotiator-mcp``, ``model-hallucination-probability-oracle-mcp``, ``model-quantization-energy-tuner-mcp``, ``model-weights-hash-auditor-mcp``, ``moq-minimum-order-mcp``, 
+- ``motion-blur-adder-mcp``, ``moveit-trajectory-mcp``, ``mqtt-v5-broker-bridge-mcp``, ``mrr-churn-predictor-mcp``, ``multi-agent-deadlock-breaker-mcp``, 
+- ``multi-bridge-mcp``, ``multi-level-mlm-divider-mcp``, ``multi-sig-agent-authorizer-mcp``, ``multi-sig-tiebreaker-mcp``, ``multi-touch-attribution-mcp``, 
+- ``multimodal-ocr-handwriting-parser-mcp``, ``multisig-emergency-vote-mcp``, ``nash-equilibrium-calculator-mcp``, ``nash-equilibrium-solver-mcp``, ``ndvi-satellite-health-mcp``, 
+- ``net-zero-pathway-oracle-mcp``, ``net30-net60-terms-negotiator-mcp``, ``network-health-panopticon-mcp``, ``network-namespace-isolate-mcp``, ``network-slicing-allocator-mcp``, 
+- ``neural-graph-mapper-mcp``, ``no-fly-zone-compliance-mcp``, ``node-1000-immutable-beacon-mcp``, ``normal-map-baker-mcp``, ``normal-roughness-baker-mcp``, 
+- ``notary-digital-signer-mcp``, ``nsfw-frame-censor-mcp``, ``nullifier-hash-generator-mcp``, ``nvd-cvss-v4-oracle-mcp``, ``obj-to-gltf-pipeline-mcp``, 
+- ``occupancy-lighting-mcp``, ``ofac-sanctions-screener-mcp``, ``omniverse-scene-exporter-mcp``, ``onnx-graph-pruner-mcp``, ``openrtb-3-bidder-mcp``, 
+- ``opensea-nft-floor-mcp``, ``openvino-npu-optimizer-mcp``, ``optical-flow-estimator-mcp``, ``optimistic-rollup-challenger-mcp``, ``oracle-data-feed-sla-verifier-mcp``, 
+- ``oracle-jury-summoner-mcp``, ``order-book-spread-mcp``, ``order-flow-auction-mcp``, ``ore-purity-assay-mcp``, ``organic-text-engine-mcp``, 
+- ``p2p-file-chunk-distributor-mcp``, ``packet-forwarder-mcp``, ``paleography-classifier-mcp``, ``pallet-lot-appraiser-mcp``, ``parametric-weather-insurance-mcp``, 
+- ``pareto-optimal-negotiator-mcp``, ``past-performance-auditor-mcp``, ``payload-decoder-ttn-mcp``, ``payload-drop-calculator-mcp``, ``payroll-withholding-mcp``, 
+- ``pdf-ocr-extractor-mcp``, ``pedersen-commitment-mcp``, ``peer-to-peer-lending-mcp``, ``peg-depeg-alerter-mcp``, ``pep-database-oracle-mcp``, 
+- ``perimeterx-solver-mcp``, ``pgf-payment-channel-mcp``, ``pharmacokinetics-model-mcp``, ``philips-hue-sync-mcp``, ``pid-loop-tuner-mcp``, 
+- ``pii-anonymizer-rgpd-mcp``, ``pii-data-exfiltration-mcp``, ``pitchdeck-auto-mcp``, ``pixar-usd-assembler-mcp``, ``platooning-convoy-mcp``, 
+- ``plonk-circuit-builder-mcp``, ``ply-splat-compressor-mcp``, ``point-cloud-denoiser-mcp``, ``poisson-surface-reconstruction-mcp``, ``polyglot-debugger-mcp``, 
+- ``polygon-reduction-optimizer-mcp``, ``port-congestion-oracle-mcp``, ``pose-estimation-openpose-mcp``, ``post-quantum-tls-tunnel-mcp``, ``pr-campaign-launcher-mcp``, 
+- ``premium-risk-scorer-mcp``, ``presence-mmwave-radar-mcp``, ``prisoner-dilemma-simulator-mcp``, ``privacy-preserving-auth-mcp``, ``privacymask-mcp``, 
+- ``profibus-data-logger-mcp``, ``programmatic-dsp-bridge-mcp``, ``proof-of-work-captcha-mcp``, ``prosody-pitch-analyzer-mcp``, ``protein-folding-alpha-mcp``, 
+- ``protocol-upgrade-proposer-mcp``, ``proxy-collision-checker-mcp``, ``pue-datacenter-optimizer-mcp``, ``python-ast-sandbox-mcp``, ``qos-bandwidth-shaper-mcp``, 
+- ``quantum-entropy-generator-mcp``, ``quantum-random-number-gen-mcp``, ``quantum-resistant-signature-oracle-mcp``, ``query-forge-mcp``, ``quickbooks-api-sync-agent-mcp``, 
+- ``quiz-factory-mcp``, ``quorum-sensing-broker-mcp``, ``ram-state-freezer-mcp``, ``ran-optimization-mcp``, ``ransomware-negotiation-bot-mcp``, 
+- ``rapier-wasm-physics-mcp``, ``rare-edge-case-generator-mcp``, ``rate-limit-manager-mcp``, ``raycast-hit-tester-mcp``, ``readability-score-eval-mcp``, 
+- ``real-time-subtitles-translator-node-mcp``, ``recaptcha-v3-solver-mcp``, ``recursive-self-improvement-mcp``, ``reddit-keyword-monitor-mcp``, ``reddit-trend-hunter-mcp``, 
+- ``reefer-temp-monitor-mcp``, ``reentrancy-detector-mcp``, ``refrigerated-temp-sla-mcp``, ``refurbished-grade-mcp``, ``regenerative-braking-mcp``, 
+- ``renewable-energy-cert-mcp``, ``renewable-energy-credits-trader-mcp``, ``replacement-inventory-checker-mcp``, ``reputation-decay-calculator-mcp``, ``request-rate-throttler-mcp``, 
+- ``residential-ip-micro-rotator-mcp``, ``residential-proxy-rotator-mcp``, ``resource-allocation-game-mcp``, ``rfp-compliance-matrix-mcp``, ``rfq-quote-generator-mcp``, 
+- ``rife-60fps-interpolator-mcp``, ``rma-shipping-label-mcp``, ``room-impulse-response-mcp``, ``ros2-dds-qos-mcp``, ``route-weather-hazard-mcp``, 
+- ``rssi-triangulation-mcp``, ``rule-porter-mcp``, ``rules-gen-mcp``, ``salescloser-ai-mcp``, ``salvage-value-oracle-mcp``, 
+- ``sar-report-generator-mcp``, ``sat-cfdi-invoicing-mcp``, ``satori-aligner-mcp``, ``sbom-cyclonedx-auditor-mcp``, ``scene-change-detector-mcp``, 
+- ``science-oracle-mcp``, ``scope-3-emissions-mcp``, ``scrap-metal-recycling-mcp``, ``sd-wan-route-mcp``, ``sdr-meeting-booker-mcp``, 
+- ``seamless-tiling-ai-mcp``, ``sec-edgar-form4-mcp``, ``seccomp-filter-enforcer-mcp``, ``secure-enclave-attestation-mcp``, ``seismic-blast-planner-mcp``, 
+- ``semantic-drift-detector-mcp``, ``semantic-hash-indexer-mcp``, ``semantic-redundancy-pruner-mcp``, ``sentiment-trail-mcp``, ``seo-first-page-guarantee-mcp``, 
+- ``seo-ghost-mcp``, ``seo-keyword-ranker-mcp``, ``serp-analyzer-mcp``, ``serverless-db-oracle-mcp``, ``shadow-ai-use-sentinel-mcp``, 
+- ``shapley-value-distributor-mcp``, ``sigfox-backend-bridge-mcp``, ``sign-language-translator-mcp``, ``singularity-event-horizon-mcp``, ``sla-downtime-refund-mcp``, 
+- ``slack-message-sanitizer-mcp``, ``slam-gmapping-mcp``, ``slash-stake-penalty-mcp``, ``slide-factory-mcp``, ``slippage-tolerance-mcp``, 
+- ``slither-ast-analyzer-mcp``, ``smart-meter-reader-mcp``, ``smelter-emissions-mcp``, ``smiles-structure-parser-mcp``, ``smt-solver-oracle-mcp``, 
+- ``soc-soh-calculator-mcp``, ``soc2-audit-trail-generator-mcp``, ``social-sentiment-crawler-mcp``, ``soft-body-simulator-mcp``, ``software-license-compliance-mcp``, 
+- ``sol-forge-mcp``, ``solar-irradiance-predictor-mcp``, ``solidity-slither-wrapper-mcp``, ``sonoff-tasmota-flash-mcp``, ``spam-intent-classifier-mcp``, 
+- ``spatial-metadata-injector-mcp``, ``spatial-occlusion-mapper-mcp``, ``spectrum-auction-oracle-mcp``, ``speech-emotion-forensic-analyzer-mcp``, ``speech-to-text-whisper-mcp``, 
+- ``spot-market-sweeper-mcp``, ``srt-vtt-subtitle-gen-mcp``, ``sso-auth-bridge-mcp``, ``sso-saml-provisioner-mcp``, ``ssp-yield-optimizer-mcp``, 
+- ``stack-trace-medic-mcp``, ``state-machine-liveness-mcp``, ``state-trie-pruner-mcp``, ``stealth-address-generator-mcp``, ``stem-separator-demucs-mcp``, 
+- ``streaming-micropayment-channel-mcp``, ``stripe-secret-rotator-mcp``, ``styleforge-ai-mcp``, ``subagent-health-monitor-mcp``, ``substance-sbsar-parser-mcp``, 
+- ``subzero-kv-compressor-mcp``, ``super-resolution-4k-mcp``, ``supplier-sla-penalty-mcp``, ``swarm-coordinator-mcp``, ``swarm-formation-control-mcp``, 
+- ``sybil-graph-clustering-mcp``, ``sybil-resistance-score-mcp``, ``sybil-resistance-zk-gate-mcp``, ``symbolic-execution-engine-mcp``, ``synthetic-data-entropy-eval-mcp``, 
+- ``synthetic-data-purity-checker-mcp``, ``synthetic-voice-curator-mcp``, ``talent-sourcer-mcp``, ``target-gene-discovery-mcp``, ``target-product-reviewer-mcp``, 
+- ``task-orchestrator-mcp``, ``task-preemption-allocator-mcp``, ``tco-5-year-calculator-mcp``, ``tcp-packet-latency-minimizer-mcp``, ``technical-spec-matcher-mcp``, 
+- ``tee-attestation-verifier-mcp``, ``tei-xml-exporter-mcp``, ``telemedicine-triage-bot-mcp``, ``tensorrt-model-compiler-mcp``, ``text-chunking-semantic-mcp``, 
+- ``texture-channel-mixer-mcp``, ``tflite-micro-exporter-mcp``, ``the-gem-smith-mcp``, ``thermal-runaway-predictor-mcp``, ``thermal-throttle-predictor-mcp``, 
+- ``third-party-repair-quote-mcp``, ``threat-model-game-solver-mcp``, ``threejs-weaver-mcp``, ``tiered-commission-oracle-mcp``, ``tiered-pricing-unlocker-mcp``, 
+- ``tiktok-shorts-cropper-mcp``, ``time-lock-deadline-mcp``, ``timelock-bypass-admin-mcp``, ``timestamp-chapter-marker-mcp``, ``tls-fingerprint-randomizer-mcp``, 
+- ``tls-ja4-fingerprinter-mcp``, ``toll-weigh-station-mcp``, ``topology-rebuilder-mcp``, ``tornado-cash-tracer-mcp``, ``toxic-content-classifier-mcp``, 
+- ``toxicology-ld50-mcp``, ``tpms-tire-pressure-mcp``, ``trade-credit-insurance-mcp``, ``trademark-infringement-mcp``, ``tradingview-technical-mcp``, 
+- ``trailer-door-seal-mcp``, ``training-data-copyright-tracer-mcp``, ``training-set-deduplicator-mcp``, ``transfer-pricing-oracle-mcp``, ``tripadvisor-restaurant-mcp``, 
+- ``trust-vision-mcp``, ``tts-emotion-controller-mcp``, ``tuya-local-key-mcp``, ``tvl-drain-detector-mcp``, ``twitch-streamer-stats-mcp``, 
+- ``twitter-sentiment-analyzer-mcp``, ``tx-origin-phishing-mcp``, ``uber-h3-hex-grid-mcp``, ``uber-surge-pricing-mcp``, ``ui-factory-mcp``, 
+- ``unauthorized-crawler-blocker-mcp``, ``uncle-bandit-detector-mcp``, ``uncollateralized-loan-mcp``, ``universal-translator-hub-mcp``, ``upwork-freelancer-stats-mcp``, 
+- ``usdc-payout-distributor-mcp``, ``user-agent-generator-mcp``, ``usps-delivery-status-mcp``, ``utm-geofence-navigator-mcp``, ``uv-unwrapping-agent-mcp``, 
+- ``ux-auditor-pro-mcp``, ``uxui-auditor-mcp``, ``v2g-grid-oracle-mcp``, ``vat-moss-eu-calculator-mcp``, ``vault-invariant-checker-mcp``, 
+- ``vav-box-damper-mcp``, ``vector-cache-dehydrator-mcp``, ``vector-database-backup-oracle-mcp``, ``vector-dimension-compressor-mcp``, ``vector-embedding-prep-mcp``, 
+- ``vellum-background-remover-mcp``, ``vendor-financial-health-mcp``, ``vendor-lockin-evaluator-mcp``, ``vendor-lockin-preventer-mcp``, ``venture-capital-pitch-mcp``, 
+- ``verifiable-random-function-oracle-mcp``, ``verighost-mcp``, ``verra-carbon-credit-mcp``, ``verra-micro-credit-mcp``, ``vertex-welder-mcp``, 
+- ``viseme-lipsync-generator-mcp``, ``visual-qa-frame-analyzer-mcp``, ``voice-cloning-biometric-liveness-mcp``, ``volume-discount-calculator-mcp``, ``vr-soundscape-generator-mcp``, 
+- ``vroid-model-importer-mcp``, ``vtol-transition-mcp``, ``vwap-twap-execution-mcp``, ``walmart-inventory-checker-mcp``, ``washpulse-mcp``, 
+- ``wasm-isolated-runner-mcp``, ``water-cooling-efficiency-auditor-mcp``, ``water-treatment-scada-mcp``, ``weather-yield-model-mcp``, ``web3-sentiment-mcp``, 
+- ``webapp-uat-audit-mcp``, ``webapp-uat-mcp``, ``webrtc-avatar-streamer-mcp``, ``weighted-scoring-oracle-mcp``, ``white-hat-payout-mcp``, 
+- ``wholesale-clearance-bot-mcp``, ``wholesale-group-buy-mcp``, ``wind-turbine-forecast-mcp``, ``workers-comp-evaluator-mcp``, ``workflow-state-machine-mcp``, 
+- ``x-data-mcp``, ``yahoo-finance-news-mcp``, ``yara-rule-generator-mcp``, ``yellowpages-directory-mcp``, ``youtube-comment-miner-mcp``, 
+- ``youtube-transcript-extractor-mcp``, ``youtube-transcript-json-mcp``, ``yul-gasmaster-mcp``, ``z-wave-network-heal-mcp``, ``z3-theorem-prover-mcp``, 
+- ``zero-day-exploit-scanner-mcp``, ``zero-knowledge-kyc-bridge-mcp``, ``zero-knowledge-kyc-mcp``, ``zero-knowledge-model-execution-proof-mcp``, ``zero-shot-voice-clone-mcp``, 
+- ``zero-trust-network-gate-mcp``, ``zeroknowledge-vault-mcp``, ``zigbee2mqtt-bridge-mcp``, ``zillow-real-estate-mcp``, ``zk-agent-identity-prover-mcp``, 
+- ``zk-otc-settlement-mcp``, ``zk-payroll-vault-mcp``, ``zk-snark-payload-verifier-mcp``, ``zod-schema-enforcer-mcp``, ``zombie-saas-cleaner-mcp``, 
+- ``zoominfo-contact-finder-mcp``
+
+### 🔍 Web Scraping, OSINT & Growth
+- ``adsb-flight-tracker-mcp``, ``ais-vessel-tracker-mcp``, ``alibaba-supplier-intel-mcp``, ``amazon-price-tracker-mcp``, ``baidu-china-search-mcp``, 
+- ``behance-portfolio-scraper-mcp``, ``booking-hotel-prices-mcp``, ``bunker-fuel-prices-mcp``, ``chicago-grain-prices-mcp``, ``coinmarketcap-prices-mcp``, 
+- ``deepsort-object-tracker-mcp``, ``dhl-shipment-tracker-mcp``, ``dribbble-designer-intel-mcp``, ``duckduckgo-privacy-search-mcp``, ``ecommerce-tracker-mcp``, 
+- ``extended-warranty-pricer-mcp``, ``facebook-group-leads-mcp``, ``fda-approval-tracker-mcp``, ``flightradar24-tracker-mcp``, ``foursquare-venue-intel-mcp``, 
+- ``gas-price-derivatives-oracle-mcp``, ``github-developer-intel-mcp``, ``github-repo-intel-mcp``, ``google-maps-leads-mcp``, ``google-search-scraper-mcp``, 
+- ``green-hydrogen-tracker-mcp``, ``handoff-tracker-mcp``, ``indeed-resume-scraper-mcp``, ``influencer-roi-tracker-mcp``, ``instagram-profile-scraper-mcp``, 
+- ``linkedin-profile-scraper-mcp``, ``lithium-copper-prices-mcp``, ``livestock-rfid-tracker-mcp``, ``molecular-patent-search-mcp``, ``neural-architecture-search-mcp``, 
+- ``patent-prior-art-search-mcp``, ``pinterest-board-scraper-mcp``, ``planar-tracker-mocha-mcp``, ``price-parity-auditor-mcp``, ``rare-earth-tracker-mcp``, 
+- ``raw-material-index-pricer-mcp``, ``real-estate-title-search-mcp``, ``second-price-auction-host-mcp``, ``second-price-auctioneer-mcp``, ``shein-fashion-scraper-mcp``, 
+- ``shodan-open-port-intel-mcp``, ``shopify-catalog-scraper-mcp``, ``skyscanner-price-tracker-mcp``, ``smart-contract-expense-tracker-mcp``, ``snapchat-geo-intel-mcp``, 
+- ``stolen-funds-tracker-mcp``, ``telegram-channel-scraper-mcp``, ``viewability-pixel-tracker-mcp``, ``voice-intel-mcp``, ``web-scraper-pro-mcp``, 
+- ``yandex-russia-search-mcp``, ``yelp-review-scraper-mcp``
+
+### 🛡️ Cybersecurity & DevSecOps
+- ``adversarial-prompt-shield-mcp``, ``agent-reputation-zk-shield-mcp``, ``agentic-ip-reputation-guard-mcp``, ``binary-exploitation-shield-mcp``, ``codevulnerability-mcp``, 
+- ``ddos-mitigation-shield-mcp``, ``deepvoice-guard-mcp``, ``delegatecall-vulnerability-mcp``, ``edge-latency-guard-mcp``, ``integer-overflow-guard-mcp``, 
+- ``jit-liquidity-shield-mcp``, ``lexguard-mcp``, ``multimodal-prompt-injection-guard-mcp``, ``npm-package-leak-mcp``, ``oil-pipeline-leak-mcp``, 
+- ``oracle-manipulation-guard-mcp``, ``prompt-leakage-shield-mcp``, ``ptrace-system-call-guard-mcp``, ``quantum-shield-mcp``, ``race-condition-shield-mcp``, 
+- ``ram-heap-leak-sanitizer-mcp``, ``shielded-erc20-transfer-mcp``, ``side-channel-attack-shield-mcp``, ``time-bandit-attack-guard-mcp``, ``tool-guardian-mcp``, 
+- ``unicode-obfuscation-guard-mcp``, ``vaultguard-mcp``, ``zero-leak-mcp``
+
+### 📦 Logistics, Supply Chain & Hardware
+- ``air-freight-waybill-mcp``, ``carbon-aware-inference-router-mcp``, ``cargo-insurance-broker-mcp``, ``cargo-load-balancer-mcp``, ``container-ship-router-mcp``, 
+- ``context-window-overflow-router-mcp``, ``dex-arbitrage-router-mcp``, ``fuel-efficiency-router-mcp``, ``ltl-consolidation-router-mcp``, ``private-mempool-router-mcp``, 
+- ``reverse-logistics-router-mcp``, ``spot-freight-auction-mcp``, ``swarm-task-router-mcp``, ``ups-logistics-status-mcp``
+
+### ⚡ Web3, DeFi & Cryptography
+- ``atomic-swap-coordinator-mcp``, ``battery-swap-station-mcp``, ``chain-agnostic-escrow-reader-mcp``, ``chainalysis-aml-risk-mcp``, ``cold-chain-reefer-mcp``, 
+- ``cross-chain-contract-relayer-mcp``, ``cross-chain-escrow-bridge-mcp``, ``cross-chain-l402-verifier-mcp``, ``crypto-capital-gains-mcp``, ``crypto-dispute-mediator-mcp``, 
+- ``crypto-price-oracle-mcp``, ``crypto-tax-loss-harvester-mcp``, ``defi-sentinel-mcp``, ``defi-yield-tax-reporter-mcp``, ``defillama-tvl-tracker-mcp``, 
+- ``escrow-commitment-pool-mcp``, ``escrow-deed-verifier-mcp``, ``escrow-fund-recovery-mcp``, ``escrow-refund-releaser-mcp``, ``escrow-time-lock-factory-mcp``, 
+- ``flash-escrow-settlement-gate-mcp``, ``iso27001-compliance-escrow-mcp``, ``jwt-token-expiration-mcp``, ``lattice-based-crypto-oracle-mcp``, ``messari-crypto-intel-mcp``, 
+- ``multi-token-fee-converter-mcp``, ``multichain-state-sync-mcp``, ``offchain-zk-state-channel-mcp``, ``onchain-formal-proof-mcp``, ``onchain-reputation-oracle-mcp``, 
+- ``quantum-safe-llm-session-encryptor-mcp``, ``rate-limit-swap-broker-mcp``, ``styleseed-tokenizer-mcp``, ``supply-chain-finance-mcp``, ``token-burn-accounting-mcp``, 
+- ``token-burn-predictor-mcp``, ``token-dictionary-encoder-mcp``, ``token-diet-mcp``, ``token-futures-contract-mcp``, ``token-latency-hedging-router-mcp``, 
+- ``token-smuggling-detector-mcp``, ``token-spot-price-oracle-mcp``, ``tokenburn-optimizer-mcp``, ``tokenomic-pulse-mcp``, ``uniswap-pool-stats-mcp``, 
+- ``wallet-hygiene-mcp``, ``web3-wallet-kyt-mcp``, ``yield-bearing-escrow-vault-mcp``
+
+### ⚖️ B2B Legal, Tax & Compliance
+- ``automated-invoice-factoring-gate-mcp``, ``b2b-contract-renewal-mcp``, ``b2b-legal-contract-parser-mcp``, ``breach-of-contract-mcp``, ``carbon-tax-auto-withholder-mcp``, 
+- ``carbon-tax-compliance-mcp``, ``contractoracle-mcp``, ``corporate-tax-bracket-mcp``, ``corporate-tax-jurisdiction-mcp``, ``eip712-typed-contract-builder-mcp``, 
+- ``legal-contract-validator-mcp``, ``legal-logic-fuzzer-mcp``, ``legal-validator-mcp``, ``nft-invoice-minter-mcp``, ``receipt-invoice-parser-mcp``, 
+- ``reinsurance-contract-mcp``, ``rotoscope-mask-generator-mcp``, ``sales-tax-nexus-mcp``, ``smart-contract-auditor-pro-mcp``, ``smart-contract-freezer-mcp``, 
+- ``smart-contract-lawyer-mcp``, ``smart-contract-upgrade-auditor-mcp``, ``tax-loss-harvesting-mcp``, ``tos-slayer-mcp``, ``zero-knowledge-contract-validator-mcp``
+
+### 🧠 LLM Optimization & Knowledge RAG
+- ``backrun-arbitrage-blocker-mcp``, ``brotli-prompt-compressor-mcp``, ``context-deduplicator-oracle-mcp``, ``context-targeting-oracle-mcp``, ``context-window-optimizer-mcp``, 
+- ``cpm-cpa-arbitrage-mcp``, ``ephemeral-memory-shredder-mcp``, ``indirect-prompt-injection-mcp``, ``layer2-storage-proof-mcp``, ``llm-benchmark-evaluator-mcp``, 
+- ``llm-provider-outage-fallback-mcp``, ``llm-response-streaming-compressor-mcp``, ``long-term-memory-indexer-mcp``, ``memory-limit-watchdog-mcp``, ``memory-summarizer-mcp``, 
+- ``multi-agent-memory-garbage-collector-mcp``, ``policy-coverage-oracle-mcp``, ``private-llm-instance-provisioner-mcp``, ``prompt-cache-hit-maximizer-mcp``, ``prompt-efficiency-scorer-mcp``, 
+- ``prompt-refiner-mcp``, ``prompt-routing-arbitrageur-mcp``, ``quota-overage-biller-mcp``, ``rag-vector-cleaner-mcp``, ``ragdoll-joint-limits-mcp``, 
+- ``ram-memory-shredder-mcp``, ``recallmax-mcp``, ``recallmax-neural-mcp``, ``repo-to-rag-mcp``, ``sustainable-llm-leaderboard-oracle-mcp``, 
+- ``system-prompt-protector-mcp``, ``uninitialized-storage-mcp``, ``vector-index-defragmenter-mcp``
+
+### 🏭 IoT, Robotics & Industrial SCADA
+- ``drone-crop-sprayer-mcp``, ``drone-delivery-router-mcp``, ``drone-map-stitcher-mcp``, ``esim-iot-profile-mcp``, ``heat-recycling-telemetry-node-mcp``, 
+- ``mavlink-px4-telemetry-mcp``, ``modbus-rtu-tcp-parser-mcp``, ``nb-iot-cellular-mcp``, ``nuclear-reactor-telemetry-mcp``, ``opc-ua-telemetry-mcp``, 
+- ``rgbd-sensor-calibrator-mcp``, ``soil-moisture-iot-mcp``, ``solar-inverter-modbus-mcp``, ``urdf-robot-parser-mcp``
+
 
 
 ---

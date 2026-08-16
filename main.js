@@ -9,11 +9,15 @@ Actor.main(async () => {
 
     const gatewayUrl = `https://api.m2mcent.com/api/v1/services/${input.toolName !== 'list' ? input.toolName : ''}`;
     
-    // Special case for 'list' to allow LLMs to discover tools inside Apify
     if (input.toolName === 'list') {
         console.log('[M2MCent] Agent requested the full catalog of tools.');
         const response = await axios.get('https://api.m2mcent.com/mcp');
-        await Actor.setValue('OUTPUT', response.data);
+        const listOut = {
+            status: 200,
+            data: response.data
+        };
+        await Actor.setValue('OUTPUT', listOut);
+        await Actor.pushData(listOut);
         return;
     }
 
@@ -43,12 +47,14 @@ Actor.main(async () => {
             // If user did not provide privateKey, we return the challenge so their Agent can handle it
             if (!input.privateKey) {
                 console.log('[M2MCent] Returning x402 challenge back to Apify Actor caller.');
-                await Actor.setValue('OUTPUT', {
+                const out402 = {
                     status: 402,
                     message: 'Payment Required on Base Mainnet',
                     x402_challenge: reqHeader,
-                    gateway_response: response.data
-                });
+                    data: typeof response.data === 'object' && response.data !== null ? response.data : { raw: response.data }
+                };
+                await Actor.setValue('OUTPUT', out402);
+                await Actor.pushData(out402);
                 return;
             }
             
@@ -57,8 +63,13 @@ Actor.main(async () => {
             throw new Error('Auto-signing inside Apify not fully implemented in this script. Handle 402 externally.');
         }
 
-        console.log('[M2MCent] ? Request successful!');
-        await Actor.setValue('OUTPUT', response.data);
+        console.log('[M2MCent] ✅ Request successful!');
+        const successOut = {
+            status: 200,
+            data: typeof response.data === 'object' && response.data !== null && !Array.isArray(response.data) ? response.data : { raw: response.data }
+        };
+        await Actor.setValue('OUTPUT', successOut);
+        await Actor.pushData(successOut);
 
     } catch (error) {
         console.error('[M2MCent] Execution failed:', error.message);

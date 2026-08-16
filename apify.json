@@ -3,5 +3,8 @@
   "title": "M2MCent: 1,004 AI Agent Microservices (x402)",
   "type": "actor",
   "version": "2.0.0",
-  "buildTag": "latest"
+  "buildTag": "latest",
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  }
 }

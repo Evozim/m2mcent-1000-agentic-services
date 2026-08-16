@@ -6,13 +6,17 @@
     "toolName": { 
       "title": "Tool Name",
       "type": "string", 
-      "description": "Name of the MCP tool to execute (e.g. zero-leak-mcp, 3d-meshweaver-mcp)",
+      "description": "Name of the MCP tool to execute (e.g. zero-leak-mcp, 3d-meshweaver-mcp, or 'list')",
+      "default": "list",
+      "prefill": "list",
       "editor": "textfield"
     },
     "payload": { 
       "title": "JSON Payload",
       "type": "object", 
-      "description": "JSON object with the query parameters",
+      "description": "JSON object with query parameters (optional when toolName is list)",
+      "default": {},
+      "prefill": {},
       "editor": "json"
     },
     "privateKey": {

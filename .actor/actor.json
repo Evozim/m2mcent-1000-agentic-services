@@ -4,8 +4,8 @@
   "title": "M2MCent: 1,004 AI Agent Microservices",
   "version": "2.0.0",
   "buildTag": "latest",
-  "input": "./input_schema.json",
+  "input": "../input_schema.json",
   "storages": {
-    "dataset": "./dataset_schema.json"
+    "dataset": "../dataset_schema.json"
   }
 }

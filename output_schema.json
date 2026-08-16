@@ -1,0 +1,13 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "M2MCent Agentic Services Output",
+    "description": "Output schema defining access templates for the M2MCent AI Agent tools and x402 payment challenges.",
+    "properties": {
+        "results": {
+            "type": "string",
+            "title": "Microservice Output Items",
+            "description": "The default dataset items containing the execution results or x402 payment challenge.",
+            "template": "{{links.apiDefaultDatasetUrl}}/items"
+        }
+    }
+}

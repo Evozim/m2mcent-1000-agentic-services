@@ -16,7 +16,6 @@ Actor.main(async () => {
             status: 200,
             data: response.data
         };
-        await Actor.setValue('OUTPUT', listOut);
         await Actor.pushData(listOut);
         return;
     }
@@ -32,7 +31,7 @@ Actor.main(async () => {
         throw new Error('Payload must be a valid JSON string');
     }
 
-    console.log(\[M2MCent] Routing request to: \\);
+    console.log(`[M2MCent] Routing request to: ${gatewayUrl}`);
 
     try {
         const response = await axios.post(gatewayUrl, payloadObj, {
@@ -41,7 +40,7 @@ Actor.main(async () => {
         });
 
         if (response.status === 402) {
-            console.log('\n[M2MCent] ?? 402 Payment Required received.');
+            console.log('\n[M2MCent] 💰 402 Payment Required received.');
             const reqHeader = response.headers['payment-required'] || response.headers['Payment-Required'];
             
             // If user did not provide privateKey, we return the challenge so their Agent can handle it
@@ -53,7 +52,6 @@ Actor.main(async () => {
                     x402_challenge: reqHeader,
                     data: typeof response.data === 'object' && response.data !== null ? response.data : { raw: response.data }
                 };
-                await Actor.setValue('OUTPUT', out402);
                 await Actor.pushData(out402);
                 return;
             }
@@ -68,12 +66,11 @@ Actor.main(async () => {
             status: 200,
             data: typeof response.data === 'object' && response.data !== null && !Array.isArray(response.data) ? response.data : { raw: response.data }
         };
-        await Actor.setValue('OUTPUT', successOut);
         await Actor.pushData(successOut);
 
     } catch (error) {
         console.error('[M2MCent] Execution failed:', error.message);
-        await Actor.setStatusMessage(\Failed: \\);
+        await Actor.setStatusMessage(`Failed: ${error.message}`);
         throw error;
     }
 });

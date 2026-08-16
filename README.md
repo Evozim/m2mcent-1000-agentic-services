@@ -114,6 +114,7 @@ print(client.dataset(result_run["defaultDatasetId"]).list_items().items)
 
 ## 📚 Documentation & Full Node Catalog
 - **Master Directory (All 1,004 Tools)**: [View Complete Catalog of 1,004 Nodes (CATALOG_1000_NODES.md)](./CATALOG_1000_NODES.md)
+- **Technical Code Encyclopedia (1,004 Nodes)**: [View Master Code & Architecture Encyclopedia (M2MCENT_1000_NODES_CODE_ENCYCLOPEDIA.md)](./M2MCENT_1000_NODES_CODE_ENCYCLOPEDIA.md)
 - **Master Repository**: [GitHub - Evozim/m2mcent](https://github.com/Evozim/m2mcent)
 - **Official Portal**: [m2mcent.com](https://m2mcent.com)
 - **MCP Registry**: Search `M2MCent` on Smithery.ai

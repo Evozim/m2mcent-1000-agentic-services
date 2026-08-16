@@ -23,5 +23,5 @@
       "editor": "textfield"
     }
   },
-  "required": ["toolName", "payload"]
+  "required": ["toolName"]
 }

@@ -3,11 +3,24 @@ const axios = require('axios');
 
 Actor.main(async () => {
     const input = await Actor.getInput();
-    if (!input || !input.toolName || !input.payload) {
-        throw new Error('toolName and payload are required');
+    if (!input || !input.toolName) {
+        throw new Error('toolName is required');
     }
 
-    const gatewayUrl = \https://api.m2mcent.com/api/v1/services/\\;
+    const gatewayUrl = `https://api.m2mcent.com/api/v1/services/${input.toolName !== 'list' ? input.toolName : ''}`;
+    
+    // Special case for 'list' to allow LLMs to discover tools inside Apify
+    if (input.toolName === 'list') {
+        console.log('[M2MCent] Agent requested the full catalog of tools.');
+        const response = await axios.get('https://api.m2mcent.com/mcp');
+        await Actor.setValue('OUTPUT', response.data);
+        return;
+    }
+
+    if (!input.payload) {
+        throw new Error('payload is required for executing a tool');
+    }
+
     let payloadObj = {};
     try {
         payloadObj = typeof input.payload === 'string' ? JSON.parse(input.payload) : input.payload;

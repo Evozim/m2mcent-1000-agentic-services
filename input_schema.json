@@ -11,8 +11,8 @@
     },
     "payload": { 
       "title": "JSON Payload",
-      "type": "string", 
-      "description": "Stringified JSON object with the query parameters",
+      "type": "object", 
+      "description": "JSON object with the query parameters",
       "editor": "json"
     },
     "privateKey": {

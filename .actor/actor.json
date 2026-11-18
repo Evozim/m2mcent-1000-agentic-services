@@ -1,8 +1,8 @@
 {
   "actorSpecification": 1,
-  "name": "m2mcent-universal-agent",
-  "title": "M2MCent: 1,004 AI Agent Microservices",
-  "version": "2.0.0",
+  "name": "m2mcent-1000-agentic-services",
+  "title": "M2MCent: 1,062 AI Agent Microservices",
+  "version": "2.1",
   "buildTag": "latest",
   "input": "../input_schema.json",
   "output": "../output_schema.json",

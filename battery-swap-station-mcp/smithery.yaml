@@ -2,7 +2,7 @@ version: "1.0"
 name: "battery-swap-station-mcp"
 description: "M2MCent Node: battery-swap-station-mcp. Monetized via x402 on Base."
 server:
-  url: "https://battery-swap-station-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/battery-swap-station-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

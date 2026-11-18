@@ -2,7 +2,7 @@ version: "1.0"
 name: "navmesh-pathfinder-mcp"
 description: "M2MCent Node: navmesh-pathfinder-mcp. Monetized via x402 on Base."
 server:
-  url: "https://navmesh-pathfinder-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/navmesh-pathfinder-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

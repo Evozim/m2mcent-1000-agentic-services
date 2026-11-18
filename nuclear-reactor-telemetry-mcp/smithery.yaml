@@ -2,7 +2,7 @@ version: "1.0"
 name: "nuclear-reactor-telemetry-mcp"
 description: "M2MCent Node: nuclear-reactor-telemetry-mcp. Monetized via x402 on Base."
 server:
-  url: "https://nuclear-reactor-telemetry-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/nuclear-reactor-telemetry-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

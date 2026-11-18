@@ -2,7 +2,7 @@ version: "1.0"
 name: "payload-drop-calculator-mcp"
 description: "M2MCent Node: payload-drop-calculator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://payload-drop-calculator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/payload-drop-calculator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

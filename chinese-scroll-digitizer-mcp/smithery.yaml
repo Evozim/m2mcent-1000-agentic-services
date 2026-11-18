@@ -2,7 +2,7 @@ version: "1.0"
 name: "chinese-scroll-digitizer-mcp"
 description: "M2MCent Node: chinese-scroll-digitizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://chinese-scroll-digitizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/chinese-scroll-digitizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

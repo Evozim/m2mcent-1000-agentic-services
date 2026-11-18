@@ -2,7 +2,7 @@ version: "1.0"
 name: "spot-market-sweeper-mcp"
 description: "M2MCent Node: spot-market-sweeper-mcp. Monetized via x402 on Base."
 server:
-  url: "https://spot-market-sweeper-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/spot-market-sweeper-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

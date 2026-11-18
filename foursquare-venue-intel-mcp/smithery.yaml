@@ -2,7 +2,7 @@ version: "1.0"
 name: "foursquare-venue-intel-mcp"
 description: "M2MCent Node: foursquare-venue-intel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://foursquare-venue-intel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/foursquare-venue-intel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

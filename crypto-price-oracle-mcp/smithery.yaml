@@ -2,7 +2,7 @@ version: "1.0"
 name: "crypto-price-oracle-mcp"
 description: "M2MCent Node: crypto-price-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://crypto-price-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/crypto-price-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

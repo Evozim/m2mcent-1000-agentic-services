@@ -2,7 +2,7 @@ version: "1.0"
 name: "stealth-address-generator-mcp"
 description: "M2MCent Node: stealth-address-generator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://stealth-address-generator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/stealth-address-generator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "optical-flow-estimator-mcp"
 description: "M2MCent Node: optical-flow-estimator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://optical-flow-estimator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/optical-flow-estimator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

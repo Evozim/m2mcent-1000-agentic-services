@@ -2,7 +2,7 @@ version: "1.0"
 name: "solidity-slither-wrapper-mcp"
 description: "M2MCent Node: solidity-slither-wrapper-mcp. Monetized via x402 on Base."
 server:
-  url: "https://solidity-slither-wrapper-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/solidity-slither-wrapper-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "esg-certification-auditor-mcp"
 description: "M2MCent Node: esg-certification-auditor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://esg-certification-auditor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/esg-certification-auditor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

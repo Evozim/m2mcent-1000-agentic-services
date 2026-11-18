@@ -2,7 +2,7 @@ version: "1.0"
 name: "model-hallucination-probability-oracle-mcp"
 description: "M2MCent Node: model-hallucination-probability-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://model-hallucination-probability-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/model-hallucination-probability-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

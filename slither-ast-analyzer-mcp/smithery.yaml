@@ -2,7 +2,7 @@ version: "1.0"
 name: "slither-ast-analyzer-mcp"
 description: "M2MCent Node: slither-ast-analyzer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://slither-ast-analyzer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/slither-ast-analyzer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

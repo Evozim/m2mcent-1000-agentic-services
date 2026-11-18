@@ -2,7 +2,7 @@ version: "1.0"
 name: "ragdoll-joint-limits-mcp"
 description: "M2MCent Node: ragdoll-joint-limits-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ragdoll-joint-limits-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ragdoll-joint-limits-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "rule-porter-mcp"
 description: "M2MCent Node: rule-porter-mcp. Monetized via x402 on Base."
 server:
-  url: "https://rule-porter-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/rule-porter-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

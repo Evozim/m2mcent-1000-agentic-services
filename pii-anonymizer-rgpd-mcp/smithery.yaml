@@ -2,7 +2,7 @@ version: "1.0"
 name: "pii-anonymizer-rgpd-mcp"
 description: "M2MCent Node: pii-anonymizer-rgpd-mcp. Monetized via x402 on Base."
 server:
-  url: "https://pii-anonymizer-rgpd-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/pii-anonymizer-rgpd-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

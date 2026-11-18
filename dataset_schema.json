@@ -1,10 +1,43 @@
 {
     "actorSpecification": 1,
     "title": "M2MCent Agentic Services Output",
+    "fields": {
+        "type": "object",
+        "properties": {
+            "status": {
+                "type": "integer",
+                "title": "HTTP Status",
+                "description": "HTTP response status code returned by the microservice or gateway."
+            },
+            "message": {
+                "type": "string",
+                "title": "Status Message",
+                "description": "Descriptive status or error message."
+            },
+            "x402_challenge": {
+                "type": "string",
+                "title": "x402 Payment Challenge",
+                "description": "Base Mainnet x402 payment challenge string when payment is required."
+            },
+            "data": {
+                "type": "object",
+                "title": "Service Response Data",
+                "description": "Output payload or catalog metadata returned by the service."
+            }
+        }
+    },
     "views": {
         "Overview": {
             "title": "Overview",
             "description": "Output of the M2MCent Actor",
+            "transformation": {
+                "fields": [
+                    "status",
+                    "message",
+                    "x402_challenge",
+                    "data"
+                ]
+            },
             "display": {
                 "component": "table",
                 "properties": {
@@ -29,3 +62,4 @@
         }
     }
 }
+

@@ -2,7 +2,7 @@ version: "1.0"
 name: "sol-forge-mcp"
 description: "M2MCent Node: sol-forge-mcp. Monetized via x402 on Base."
 server:
-  url: "https://sol-forge-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/sol-forge-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

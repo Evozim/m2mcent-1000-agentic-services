@@ -2,7 +2,7 @@ version: "1.0"
 name: "styleseed-tokenizer-mcp"
 description: "M2MCent Node: styleseed-tokenizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://styleseed-tokenizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/styleseed-tokenizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "offchain-zk-state-channel-mcp"
 description: "M2MCent Node: offchain-zk-state-channel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://offchain-zk-state-channel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/offchain-zk-state-channel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

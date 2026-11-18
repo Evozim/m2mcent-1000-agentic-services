@@ -2,7 +2,7 @@ version: "1.0"
 name: "visual-qa-frame-analyzer-mcp"
 description: "M2MCent Node: visual-qa-frame-analyzer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://visual-qa-frame-analyzer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/visual-qa-frame-analyzer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "dark-pool-liquidity-mcp"
 description: "M2MCent Node: dark-pool-liquidity-mcp. Monetized via x402 on Base."
 server:
-  url: "https://dark-pool-liquidity-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/dark-pool-liquidity-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

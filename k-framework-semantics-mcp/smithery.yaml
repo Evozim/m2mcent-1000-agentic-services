@@ -2,7 +2,7 @@ version: "1.0"
 name: "k-framework-semantics-mcp"
 description: "M2MCent Node: k-framework-semantics-mcp. Monetized via x402 on Base."
 server:
-  url: "https://k-framework-semantics-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/k-framework-semantics-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

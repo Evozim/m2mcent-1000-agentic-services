@@ -2,7 +2,7 @@ version: "1.0"
 name: "home-assistant-yaml-mcp"
 description: "M2MCent Node: home-assistant-yaml-mcp. Monetized via x402 on Base."
 server:
-  url: "https://home-assistant-yaml-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/home-assistant-yaml-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

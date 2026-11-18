@@ -2,7 +2,7 @@ version: "1.0"
 name: "bft-swarm-vote-aggregator-mcp"
 description: "M2MCent Node: bft-swarm-vote-aggregator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://bft-swarm-vote-aggregator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/bft-swarm-vote-aggregator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

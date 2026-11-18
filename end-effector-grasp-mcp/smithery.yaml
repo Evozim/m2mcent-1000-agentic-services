@@ -2,7 +2,7 @@ version: "1.0"
 name: "end-effector-grasp-mcp"
 description: "M2MCent Node: end-effector-grasp-mcp. Monetized via x402 on Base."
 server:
-  url: "https://end-effector-grasp-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/end-effector-grasp-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

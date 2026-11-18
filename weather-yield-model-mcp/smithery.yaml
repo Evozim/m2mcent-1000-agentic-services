@@ -2,7 +2,7 @@ version: "1.0"
 name: "weather-yield-model-mcp"
 description: "M2MCent Node: weather-yield-model-mcp. Monetized via x402 on Base."
 server:
-  url: "https://weather-yield-model-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/weather-yield-model-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

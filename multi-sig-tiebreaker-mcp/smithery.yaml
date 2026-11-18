@@ -2,7 +2,7 @@ version: "1.0"
 name: "multi-sig-tiebreaker-mcp"
 description: "M2MCent Node: multi-sig-tiebreaker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://multi-sig-tiebreaker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/multi-sig-tiebreaker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "fp16-mixed-precision-mcp"
 description: "M2MCent Node: fp16-mixed-precision-mcp. Monetized via x402 on Base."
 server:
-  url: "https://fp16-mixed-precision-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/fp16-mixed-precision-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

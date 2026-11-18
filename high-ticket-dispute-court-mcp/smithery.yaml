@@ -2,7 +2,7 @@ version: "1.0"
 name: "high-ticket-dispute-court-mcp"
 description: "M2MCent Node: high-ticket-dispute-court-mcp. Monetized via x402 on Base."
 server:
-  url: "https://high-ticket-dispute-court-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/high-ticket-dispute-court-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

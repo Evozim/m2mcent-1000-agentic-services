@@ -19,10 +19,10 @@
       "prefill": {},
       "editor": "json"
     },
-    "privateKey": {
-      "title": "Base Mainnet Private Key (Optional)",
+    "paymentSignature": {
+      "title": "AgentCash / Web3 Payment Signature (Optional)",
       "type": "string",
-      "description": "EVM private key to auto-settle the x402 402 Payment Required via Coinbase CDP",
+      "description": "EIP-3009 Signature or AgentCash token to pass the 402 Paywall",
       "isSecret": true,
       "editor": "textfield"
     }

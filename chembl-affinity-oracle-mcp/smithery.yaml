@@ -2,7 +2,7 @@ version: "1.0"
 name: "chembl-affinity-oracle-mcp"
 description: "M2MCent Node: chembl-affinity-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://chembl-affinity-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/chembl-affinity-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

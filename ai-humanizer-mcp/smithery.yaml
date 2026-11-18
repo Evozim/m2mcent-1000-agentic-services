@@ -2,7 +2,7 @@ version: "1.0"
 name: "ai-humanizer-mcp"
 description: "M2MCent Node: ai-humanizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ai-humanizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ai-humanizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

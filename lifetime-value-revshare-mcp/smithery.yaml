@@ -2,7 +2,7 @@ version: "1.0"
 name: "lifetime-value-revshare-mcp"
 description: "M2MCent Node: lifetime-value-revshare-mcp. Monetized via x402 on Base."
 server:
-  url: "https://lifetime-value-revshare-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/lifetime-value-revshare-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

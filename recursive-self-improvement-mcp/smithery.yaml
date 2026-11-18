@@ -2,7 +2,7 @@ version: "1.0"
 name: "recursive-self-improvement-mcp"
 description: "M2MCent Node: recursive-self-improvement-mcp. Monetized via x402 on Base."
 server:
-  url: "https://recursive-self-improvement-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/recursive-self-improvement-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

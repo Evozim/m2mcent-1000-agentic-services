@@ -2,7 +2,7 @@ version: "1.0"
 name: "chainalysis-aml-risk-mcp"
 description: "M2MCent Node: chainalysis-aml-risk-mcp. Monetized via x402 on Base."
 server:
-  url: "https://chainalysis-aml-risk-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/chainalysis-aml-risk-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

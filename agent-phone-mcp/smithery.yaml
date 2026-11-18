@@ -2,7 +2,7 @@ version: "1.0"
 name: "agent-phone-mcp"
 description: "M2MCent Node: agent-phone-mcp. Monetized via x402 on Base."
 server:
-  url: "https://agent-phone-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/agent-phone-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

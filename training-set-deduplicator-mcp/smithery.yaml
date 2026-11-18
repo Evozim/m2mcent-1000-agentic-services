@@ -2,7 +2,7 @@ version: "1.0"
 name: "training-set-deduplicator-mcp"
 description: "M2MCent Node: training-set-deduplicator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://training-set-deduplicator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/training-set-deduplicator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

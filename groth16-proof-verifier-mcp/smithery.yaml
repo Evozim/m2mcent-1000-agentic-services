@@ -2,7 +2,7 @@ version: "1.0"
 name: "groth16-proof-verifier-mcp"
 description: "M2MCent Node: groth16-proof-verifier-mcp. Monetized via x402 on Base."
 server:
-  url: "https://groth16-proof-verifier-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/groth16-proof-verifier-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "entity-relationship-extractor-mcp"
 description: "M2MCent Node: entity-relationship-extractor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://entity-relationship-extractor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/entity-relationship-extractor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

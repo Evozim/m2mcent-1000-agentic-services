@@ -2,7 +2,7 @@ version: "1.0"
 name: "energy-syndicate-buyer-mcp"
 description: "M2MCent Node: energy-syndicate-buyer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://energy-syndicate-buyer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/energy-syndicate-buyer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

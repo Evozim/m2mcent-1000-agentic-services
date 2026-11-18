@@ -2,7 +2,7 @@ version: "1.0"
 name: "m2m-vat-calculator-oracle-mcp"
 description: "M2MCent Node: m2m-vat-calculator-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://m2m-vat-calculator-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/m2m-vat-calculator-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "claim-denial-appeal-mcp"
 description: "M2MCent Node: claim-denial-appeal-mcp. Monetized via x402 on Base."
 server:
-  url: "https://claim-denial-appeal-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/claim-denial-appeal-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "backrun-arbitrage-blocker-mcp"
 description: "M2MCent Node: backrun-arbitrage-blocker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://backrun-arbitrage-blocker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/backrun-arbitrage-blocker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

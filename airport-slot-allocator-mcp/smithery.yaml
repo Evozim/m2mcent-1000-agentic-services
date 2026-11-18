@@ -2,7 +2,7 @@ version: "1.0"
 name: "airport-slot-allocator-mcp"
 description: "M2MCent Node: airport-slot-allocator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://airport-slot-allocator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/airport-slot-allocator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

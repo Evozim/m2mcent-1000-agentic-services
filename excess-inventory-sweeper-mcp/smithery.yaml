@@ -2,7 +2,7 @@ version: "1.0"
 name: "excess-inventory-sweeper-mcp"
 description: "M2MCent Node: excess-inventory-sweeper-mcp. Monetized via x402 on Base."
 server:
-  url: "https://excess-inventory-sweeper-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/excess-inventory-sweeper-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

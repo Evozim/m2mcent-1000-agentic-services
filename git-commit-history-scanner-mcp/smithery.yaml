@@ -2,7 +2,7 @@ version: "1.0"
 name: "git-commit-history-scanner-mcp"
 description: "M2MCent Node: git-commit-history-scanner-mcp. Monetized via x402 on Base."
 server:
-  url: "https://git-commit-history-scanner-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/git-commit-history-scanner-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

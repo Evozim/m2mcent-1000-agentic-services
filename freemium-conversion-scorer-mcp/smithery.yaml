@@ -2,7 +2,7 @@ version: "1.0"
 name: "freemium-conversion-scorer-mcp"
 description: "M2MCent Node: freemium-conversion-scorer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://freemium-conversion-scorer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/freemium-conversion-scorer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

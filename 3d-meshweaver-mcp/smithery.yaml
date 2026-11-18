@@ -2,7 +2,7 @@ version: "1.0"
 name: "3d-meshweaver-mcp"
 description: "M2MCent Node: 3d-meshweaver-mcp. Monetized via x402 on Base."
 server:
-  url: "https://3d-meshweaver-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/3d-meshweaver-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

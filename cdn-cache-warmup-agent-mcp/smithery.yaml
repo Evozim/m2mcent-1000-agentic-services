@@ -2,7 +2,7 @@ version: "1.0"
 name: "cdn-cache-warmup-agent-mcp"
 description: "M2MCent Node: cdn-cache-warmup-agent-mcp. Monetized via x402 on Base."
 server:
-  url: "https://cdn-cache-warmup-agent-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/cdn-cache-warmup-agent-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

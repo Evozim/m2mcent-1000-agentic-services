@@ -2,7 +2,7 @@ version: "1.0"
 name: "token-dictionary-encoder-mcp"
 description: "M2MCent Node: token-dictionary-encoder-mcp. Monetized via x402 on Base."
 server:
-  url: "https://token-dictionary-encoder-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/token-dictionary-encoder-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "bias-drift-monitor-mcp"
 description: "M2MCent Node: bias-drift-monitor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://bias-drift-monitor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/bias-drift-monitor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

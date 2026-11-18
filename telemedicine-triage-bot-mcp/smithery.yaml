@@ -2,7 +2,7 @@ version: "1.0"
 name: "telemedicine-triage-bot-mcp"
 description: "M2MCent Node: telemedicine-triage-bot-mcp. Monetized via x402 on Base."
 server:
-  url: "https://telemedicine-triage-bot-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/telemedicine-triage-bot-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

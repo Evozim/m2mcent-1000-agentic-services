@@ -2,7 +2,7 @@ version: "1.0"
 name: "integer-overflow-guard-mcp"
 description: "M2MCent Node: integer-overflow-guard-mcp. Monetized via x402 on Base."
 server:
-  url: "https://integer-overflow-guard-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/integer-overflow-guard-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

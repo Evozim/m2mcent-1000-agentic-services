@@ -2,7 +2,7 @@ version: "1.0"
 name: "recallmax-mcp"
 description: "M2MCent Node: recallmax-mcp. Monetized via x402 on Base."
 server:
-  url: "https://recallmax-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/recallmax-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

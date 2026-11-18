@@ -2,7 +2,7 @@ version: "1.0"
 name: "normal-map-baker-mcp"
 description: "M2MCent Node: normal-map-baker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://normal-map-baker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/normal-map-baker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

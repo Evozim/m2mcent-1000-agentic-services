@@ -2,7 +2,7 @@ version: "1.0"
 name: "rag-vector-cleaner-mcp"
 description: "M2MCent Node: rag-vector-cleaner-mcp. Monetized via x402 on Base."
 server:
-  url: "https://rag-vector-cleaner-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/rag-vector-cleaner-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

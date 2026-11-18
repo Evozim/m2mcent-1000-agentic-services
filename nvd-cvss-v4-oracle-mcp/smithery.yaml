@@ -2,7 +2,7 @@ version: "1.0"
 name: "nvd-cvss-v4-oracle-mcp"
 description: "M2MCent Node: nvd-cvss-v4-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://nvd-cvss-v4-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/nvd-cvss-v4-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

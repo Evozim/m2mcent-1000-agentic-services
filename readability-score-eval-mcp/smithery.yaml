@@ -2,7 +2,7 @@ version: "1.0"
 name: "readability-score-eval-mcp"
 description: "M2MCent Node: readability-score-eval-mcp. Monetized via x402 on Base."
 server:
-  url: "https://readability-score-eval-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/readability-score-eval-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

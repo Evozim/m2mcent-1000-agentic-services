@@ -2,7 +2,7 @@ version: "1.0"
 name: "indirect-prompt-injection-mcp"
 description: "M2MCent Node: indirect-prompt-injection-mcp. Monetized via x402 on Base."
 server:
-  url: "https://indirect-prompt-injection-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/indirect-prompt-injection-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "coq-proof-assistant-mcp"
 description: "M2MCent Node: coq-proof-assistant-mcp. Monetized via x402 on Base."
 server:
-  url: "https://coq-proof-assistant-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/coq-proof-assistant-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

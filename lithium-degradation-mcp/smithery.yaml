@@ -2,7 +2,7 @@ version: "1.0"
 name: "lithium-degradation-mcp"
 description: "M2MCent Node: lithium-degradation-mcp. Monetized via x402 on Base."
 server:
-  url: "https://lithium-degradation-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/lithium-degradation-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

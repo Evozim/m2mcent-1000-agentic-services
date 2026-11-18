@@ -2,7 +2,7 @@ version: "1.0"
 name: "hallucination-detector-mcp"
 description: "M2MCent Node: hallucination-detector-mcp. Monetized via x402 on Base."
 server:
-  url: "https://hallucination-detector-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/hallucination-detector-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

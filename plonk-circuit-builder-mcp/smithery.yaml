@@ -2,7 +2,7 @@ version: "1.0"
 name: "plonk-circuit-builder-mcp"
 description: "M2MCent Node: plonk-circuit-builder-mcp. Monetized via x402 on Base."
 server:
-  url: "https://plonk-circuit-builder-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/plonk-circuit-builder-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

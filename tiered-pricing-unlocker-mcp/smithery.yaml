@@ -2,7 +2,7 @@ version: "1.0"
 name: "tiered-pricing-unlocker-mcp"
 description: "M2MCent Node: tiered-pricing-unlocker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://tiered-pricing-unlocker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/tiered-pricing-unlocker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

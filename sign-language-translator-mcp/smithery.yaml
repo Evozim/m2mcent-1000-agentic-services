@@ -2,7 +2,7 @@ version: "1.0"
 name: "sign-language-translator-mcp"
 description: "M2MCent Node: sign-language-translator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://sign-language-translator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/sign-language-translator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

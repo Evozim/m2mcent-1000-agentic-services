@@ -2,7 +2,7 @@ version: "1.0"
 name: "baidu-china-search-mcp"
 description: "M2MCent Node: baidu-china-search-mcp. Monetized via x402 on Base."
 server:
-  url: "https://baidu-china-search-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/baidu-china-search-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

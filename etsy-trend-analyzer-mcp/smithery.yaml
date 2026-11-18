@@ -2,7 +2,7 @@ version: "1.0"
 name: "etsy-trend-analyzer-mcp"
 description: "M2MCent Node: etsy-trend-analyzer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://etsy-trend-analyzer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/etsy-trend-analyzer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

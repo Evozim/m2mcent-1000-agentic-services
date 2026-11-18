@@ -2,7 +2,7 @@ version: "1.0"
 name: "green-compute-certificate-issuer-mcp"
 description: "M2MCent Node: green-compute-certificate-issuer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://green-compute-certificate-issuer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/green-compute-certificate-issuer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

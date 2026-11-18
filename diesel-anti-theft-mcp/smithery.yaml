@@ -2,7 +2,7 @@ version: "1.0"
 name: "diesel-anti-theft-mcp"
 description: "M2MCent Node: diesel-anti-theft-mcp. Monetized via x402 on Base."
 server:
-  url: "https://diesel-anti-theft-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/diesel-anti-theft-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

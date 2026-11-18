@@ -2,7 +2,7 @@ version: "1.0"
 name: "voice-cloning-biometric-liveness-mcp"
 description: "M2MCent Node: voice-cloning-biometric-liveness-mcp. Monetized via x402 on Base."
 server:
-  url: "https://voice-cloning-biometric-liveness-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/voice-cloning-biometric-liveness-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

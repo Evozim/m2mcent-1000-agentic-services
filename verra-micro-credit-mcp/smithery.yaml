@@ -2,7 +2,7 @@ version: "1.0"
 name: "verra-micro-credit-mcp"
 description: "M2MCent Node: verra-micro-credit-mcp. Monetized via x402 on Base."
 server:
-  url: "https://verra-micro-credit-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/verra-micro-credit-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

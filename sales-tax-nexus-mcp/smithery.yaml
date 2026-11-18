@@ -2,7 +2,7 @@ version: "1.0"
 name: "sales-tax-nexus-mcp"
 description: "M2MCent Node: sales-tax-nexus-mcp. Monetized via x402 on Base."
 server:
-  url: "https://sales-tax-nexus-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/sales-tax-nexus-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

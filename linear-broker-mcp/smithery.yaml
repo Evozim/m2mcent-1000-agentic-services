@@ -2,7 +2,7 @@ version: "1.0"
 name: "linear-broker-mcp"
 description: "M2MCent Node: linear-broker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://linear-broker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/linear-broker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

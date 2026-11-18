@@ -2,7 +2,7 @@ version: "1.0"
 name: "quickbooks-api-sync-agent-mcp"
 description: "M2MCent Node: quickbooks-api-sync-agent-mcp. Monetized via x402 on Base."
 server:
-  url: "https://quickbooks-api-sync-agent-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/quickbooks-api-sync-agent-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "target-product-reviewer-mcp"
 description: "M2MCent Node: target-product-reviewer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://target-product-reviewer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/target-product-reviewer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

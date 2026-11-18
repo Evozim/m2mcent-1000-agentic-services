@@ -2,7 +2,7 @@ version: "1.0"
 name: "web-scraper-pro-mcp"
 description: "M2MCent Node: web-scraper-pro-mcp. Monetized via x402 on Base."
 server:
-  url: "https://web-scraper-pro-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/web-scraper-pro-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

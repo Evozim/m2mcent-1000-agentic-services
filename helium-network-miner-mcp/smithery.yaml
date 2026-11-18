@@ -2,7 +2,7 @@ version: "1.0"
 name: "helium-network-miner-mcp"
 description: "M2MCent Node: helium-network-miner-mcp. Monetized via x402 on Base."
 server:
-  url: "https://helium-network-miner-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/helium-network-miner-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

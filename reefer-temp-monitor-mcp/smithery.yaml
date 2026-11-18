@@ -2,7 +2,7 @@ version: "1.0"
 name: "reefer-temp-monitor-mcp"
 description: "M2MCent Node: reefer-temp-monitor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://reefer-temp-monitor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/reefer-temp-monitor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

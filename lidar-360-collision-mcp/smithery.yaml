@@ -2,7 +2,7 @@ version: "1.0"
 name: "lidar-360-collision-mcp"
 description: "M2MCent Node: lidar-360-collision-mcp. Monetized via x402 on Base."
 server:
-  url: "https://lidar-360-collision-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/lidar-360-collision-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

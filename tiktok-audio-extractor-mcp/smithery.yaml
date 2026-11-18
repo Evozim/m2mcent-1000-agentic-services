@@ -2,7 +2,7 @@ version: "1.0"
 name: "tiktok-audio-extractor-mcp"
 description: "M2MCent Node: tiktok-audio-extractor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://tiktok-audio-extractor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/tiktok-audio-extractor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

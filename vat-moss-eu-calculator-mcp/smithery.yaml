@@ -2,7 +2,7 @@ version: "1.0"
 name: "vat-moss-eu-calculator-mcp"
 description: "M2MCent Node: vat-moss-eu-calculator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://vat-moss-eu-calculator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/vat-moss-eu-calculator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

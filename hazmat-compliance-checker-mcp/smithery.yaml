@@ -2,7 +2,7 @@ version: "1.0"
 name: "hazmat-compliance-checker-mcp"
 description: "M2MCent Node: hazmat-compliance-checker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://hazmat-compliance-checker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/hazmat-compliance-checker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

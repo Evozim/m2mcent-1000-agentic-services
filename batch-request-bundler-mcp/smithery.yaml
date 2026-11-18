@@ -2,7 +2,7 @@ version: "1.0"
 name: "batch-request-bundler-mcp"
 description: "M2MCent Node: batch-request-bundler-mcp. Monetized via x402 on Base."
 server:
-  url: "https://batch-request-bundler-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/batch-request-bundler-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "logsentinel-mcp"
 description: "M2MCent Node: logsentinel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://logsentinel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/logsentinel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

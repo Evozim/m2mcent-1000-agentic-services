@@ -2,7 +2,7 @@ version: "1.0"
 name: "sar-report-generator-mcp"
 description: "M2MCent Node: sar-report-generator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://sar-report-generator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/sar-report-generator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

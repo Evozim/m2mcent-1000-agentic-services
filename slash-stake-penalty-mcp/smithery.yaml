@@ -2,7 +2,7 @@ version: "1.0"
 name: "slash-stake-penalty-mcp"
 description: "M2MCent Node: slash-stake-penalty-mcp. Monetized via x402 on Base."
 server:
-  url: "https://slash-stake-penalty-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/slash-stake-penalty-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

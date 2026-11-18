@@ -2,7 +2,7 @@ version: "1.0"
 name: "ssp-yield-optimizer-mcp"
 description: "M2MCent Node: ssp-yield-optimizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ssp-yield-optimizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ssp-yield-optimizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

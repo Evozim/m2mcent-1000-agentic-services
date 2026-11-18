@@ -2,7 +2,7 @@ version: "1.0"
 name: "google-search-scraper-mcp"
 description: "M2MCent Node: google-search-scraper-mcp. Monetized via x402 on Base."
 server:
-  url: "https://google-search-scraper-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/google-search-scraper-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

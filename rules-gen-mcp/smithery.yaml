@@ -2,7 +2,7 @@ version: "1.0"
 name: "rules-gen-mcp"
 description: "M2MCent Node: rules-gen-mcp. Monetized via x402 on Base."
 server:
-  url: "https://rules-gen-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/rules-gen-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "token-burn-predictor-mcp"
 description: "M2MCent Node: token-burn-predictor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://token-burn-predictor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/token-burn-predictor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

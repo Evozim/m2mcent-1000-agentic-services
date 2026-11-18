@@ -2,7 +2,7 @@ version: "1.0"
 name: "quiz-factory-mcp"
 description: "M2MCent Node: quiz-factory-mcp. Monetized via x402 on Base."
 server:
-  url: "https://quiz-factory-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/quiz-factory-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

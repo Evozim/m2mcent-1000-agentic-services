@@ -2,7 +2,7 @@ version: "1.0"
 name: "upwork-freelancer-stats-mcp"
 description: "M2MCent Node: upwork-freelancer-stats-mcp. Monetized via x402 on Base."
 server:
-  url: "https://upwork-freelancer-stats-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/upwork-freelancer-stats-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

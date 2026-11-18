@@ -2,7 +2,7 @@ version: "1.0"
 name: "env-locker-mcp"
 description: "M2MCent Node: env-locker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://env-locker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/env-locker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

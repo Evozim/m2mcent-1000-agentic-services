@@ -2,7 +2,7 @@ version: "1.0"
 name: "emergency-global-pause-mcp"
 description: "M2MCent Node: emergency-global-pause-mcp. Monetized via x402 on Base."
 server:
-  url: "https://emergency-global-pause-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/emergency-global-pause-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

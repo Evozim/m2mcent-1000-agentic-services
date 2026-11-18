@@ -2,7 +2,7 @@ version: "1.0"
 name: "platooning-convoy-mcp"
 description: "M2MCent Node: platooning-convoy-mcp. Monetized via x402 on Base."
 server:
-  url: "https://platooning-convoy-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/platooning-convoy-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "python-ast-sandbox-mcp"
 description: "M2MCent Node: python-ast-sandbox-mcp. Monetized via x402 on Base."
 server:
-  url: "https://python-ast-sandbox-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/python-ast-sandbox-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

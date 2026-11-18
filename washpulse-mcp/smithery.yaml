@@ -2,7 +2,7 @@ version: "1.0"
 name: "washpulse-mcp"
 description: "M2MCent Node: washpulse-mcp. Monetized via x402 on Base."
 server:
-  url: "https://washpulse-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/washpulse-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

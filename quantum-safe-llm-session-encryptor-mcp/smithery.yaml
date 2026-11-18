@@ -2,7 +2,7 @@ version: "1.0"
 name: "quantum-safe-llm-session-encryptor-mcp"
 description: "M2MCent Node: quantum-safe-llm-session-encryptor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://quantum-safe-llm-session-encryptor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/quantum-safe-llm-session-encryptor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

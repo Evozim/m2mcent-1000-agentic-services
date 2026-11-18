@@ -2,7 +2,7 @@ version: "1.0"
 name: "messari-crypto-intel-mcp"
 description: "M2MCent Node: messari-crypto-intel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://messari-crypto-intel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/messari-crypto-intel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

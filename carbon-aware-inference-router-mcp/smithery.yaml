@@ -2,7 +2,7 @@ version: "1.0"
 name: "carbon-aware-inference-router-mcp"
 description: "M2MCent Node: carbon-aware-inference-router-mcp. Monetized via x402 on Base."
 server:
-  url: "https://carbon-aware-inference-router-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/carbon-aware-inference-router-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

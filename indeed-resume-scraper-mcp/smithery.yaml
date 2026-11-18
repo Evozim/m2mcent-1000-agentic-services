@@ -2,7 +2,7 @@ version: "1.0"
 name: "indeed-resume-scraper-mcp"
 description: "M2MCent Node: indeed-resume-scraper-mcp. Monetized via x402 on Base."
 server:
-  url: "https://indeed-resume-scraper-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/indeed-resume-scraper-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

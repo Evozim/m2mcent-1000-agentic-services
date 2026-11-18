@@ -2,7 +2,7 @@ version: "1.0"
 name: "jurisdiction-governing-law-mcp"
 description: "M2MCent Node: jurisdiction-governing-law-mcp. Monetized via x402 on Base."
 server:
-  url: "https://jurisdiction-governing-law-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/jurisdiction-governing-law-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

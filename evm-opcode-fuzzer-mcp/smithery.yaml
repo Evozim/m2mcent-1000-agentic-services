@@ -2,7 +2,7 @@ version: "1.0"
 name: "evm-opcode-fuzzer-mcp"
 description: "M2MCent Node: evm-opcode-fuzzer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://evm-opcode-fuzzer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/evm-opcode-fuzzer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

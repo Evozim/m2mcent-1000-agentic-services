@@ -2,7 +2,7 @@ version: "1.0"
 name: "tee-attestation-verifier-mcp"
 description: "M2MCent Node: tee-attestation-verifier-mcp. Monetized via x402 on Base."
 server:
-  url: "https://tee-attestation-verifier-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/tee-attestation-verifier-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

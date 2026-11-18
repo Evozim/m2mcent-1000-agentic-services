@@ -2,7 +2,7 @@ version: "1.0"
 name: "enterprise-b2b-mediator-mcp"
 description: "M2MCent Node: enterprise-b2b-mediator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://enterprise-b2b-mediator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/enterprise-b2b-mediator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "corporate-tax-bracket-mcp"
 description: "M2MCent Node: corporate-tax-bracket-mcp. Monetized via x402 on Base."
 server:
-  url: "https://corporate-tax-bracket-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/corporate-tax-bracket-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

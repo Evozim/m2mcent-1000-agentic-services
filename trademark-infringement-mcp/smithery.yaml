@@ -2,7 +2,7 @@ version: "1.0"
 name: "trademark-infringement-mcp"
 description: "M2MCent Node: trademark-infringement-mcp. Monetized via x402 on Base."
 server:
-  url: "https://trademark-infringement-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/trademark-infringement-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "context-window-optimizer-mcp"
 description: "M2MCent Node: context-window-optimizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://context-window-optimizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/context-window-optimizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

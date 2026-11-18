@@ -2,7 +2,7 @@ version: "1.0"
 name: "anomaly-detection-sentinel-mcp"
 description: "M2MCent Node: anomaly-detection-sentinel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://anomaly-detection-sentinel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/anomaly-detection-sentinel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

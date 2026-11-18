@@ -2,7 +2,7 @@ version: "1.0"
 name: "dan-jailbreak-filter-mcp"
 description: "M2MCent Node: dan-jailbreak-filter-mcp. Monetized via x402 on Base."
 server:
-  url: "https://dan-jailbreak-filter-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/dan-jailbreak-filter-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

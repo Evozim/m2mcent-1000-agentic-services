@@ -2,7 +2,7 @@ version: "1.0"
 name: "llm-provider-outage-fallback-mcp"
 description: "M2MCent Node: llm-provider-outage-fallback-mcp. Monetized via x402 on Base."
 server:
-  url: "https://llm-provider-outage-fallback-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/llm-provider-outage-fallback-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

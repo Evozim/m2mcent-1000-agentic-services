@@ -2,7 +2,7 @@ version: "1.0"
 name: "5g-core-nfv-mcp"
 description: "M2MCent Node: 5g-core-nfv-mcp. Monetized via x402 on Base."
 server:
-  url: "https://5g-core-nfv-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/5g-core-nfv-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "tool-guardian-mcp"
 description: "M2MCent Node: tool-guardian-mcp. Monetized via x402 on Base."
 server:
-  url: "https://tool-guardian-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/tool-guardian-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

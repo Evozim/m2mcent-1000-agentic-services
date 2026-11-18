@@ -2,7 +2,7 @@ version: "1.0"
 name: "soc2-audit-trail-generator-mcp"
 description: "M2MCent Node: soc2-audit-trail-generator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://soc2-audit-trail-generator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/soc2-audit-trail-generator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

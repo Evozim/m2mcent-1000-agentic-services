@@ -2,7 +2,7 @@ version: "1.0"
 name: "pallet-lot-appraiser-mcp"
 description: "M2MCent Node: pallet-lot-appraiser-mcp. Monetized via x402 on Base."
 server:
-  url: "https://pallet-lot-appraiser-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/pallet-lot-appraiser-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

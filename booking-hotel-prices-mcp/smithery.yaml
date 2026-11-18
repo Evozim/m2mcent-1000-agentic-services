@@ -2,7 +2,7 @@ version: "1.0"
 name: "booking-hotel-prices-mcp"
 description: "M2MCent Node: booking-hotel-prices-mcp. Monetized via x402 on Base."
 server:
-  url: "https://booking-hotel-prices-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/booking-hotel-prices-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

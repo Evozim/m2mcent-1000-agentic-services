@@ -2,7 +2,7 @@ version: "1.0"
 name: "apify-native-mcp"
 description: "M2MCent Node: apify-native-mcp. Monetized via x402 on Base."
 server:
-  url: "https://apify-native-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/apify-native-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

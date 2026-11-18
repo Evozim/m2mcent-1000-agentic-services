@@ -2,7 +2,7 @@ version: "1.0"
 name: "synthetic-voice-curator-mcp"
 description: "M2MCent Node: synthetic-voice-curator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://synthetic-voice-curator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/synthetic-voice-curator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

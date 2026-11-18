@@ -2,7 +2,7 @@ version: "1.0"
 name: "thermal-throttle-predictor-mcp"
 description: "M2MCent Node: thermal-throttle-predictor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://thermal-throttle-predictor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/thermal-throttle-predictor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

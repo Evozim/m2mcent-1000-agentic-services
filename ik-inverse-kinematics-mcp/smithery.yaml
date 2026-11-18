@@ -2,7 +2,7 @@ version: "1.0"
 name: "ik-inverse-kinematics-mcp"
 description: "M2MCent Node: ik-inverse-kinematics-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ik-inverse-kinematics-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ik-inverse-kinematics-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

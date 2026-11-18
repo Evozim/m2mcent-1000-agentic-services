@@ -2,7 +2,7 @@ version: "1.0"
 name: "zk-payroll-vault-mcp"
 description: "M2MCent Node: zk-payroll-vault-mcp. Monetized via x402 on Base."
 server:
-  url: "https://zk-payroll-vault-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/zk-payroll-vault-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "sustainable-llm-leaderboard-oracle-mcp"
 description: "M2MCent Node: sustainable-llm-leaderboard-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://sustainable-llm-leaderboard-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/sustainable-llm-leaderboard-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

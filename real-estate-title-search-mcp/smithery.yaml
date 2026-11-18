@@ -2,7 +2,7 @@ version: "1.0"
 name: "real-estate-title-search-mcp"
 description: "M2MCent Node: real-estate-title-search-mcp. Monetized via x402 on Base."
 server:
-  url: "https://real-estate-title-search-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/real-estate-title-search-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

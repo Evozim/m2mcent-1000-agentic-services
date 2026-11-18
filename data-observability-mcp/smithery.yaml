@@ -2,7 +2,7 @@ version: "1.0"
 name: "data-observability-mcp"
 description: "M2MCent Node: data-observability-mcp. Monetized via x402 on Base."
 server:
-  url: "https://data-observability-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/data-observability-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

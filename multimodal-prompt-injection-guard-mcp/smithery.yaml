@@ -2,7 +2,7 @@ version: "1.0"
 name: "multimodal-prompt-injection-guard-mcp"
 description: "M2MCent Node: multimodal-prompt-injection-guard-mcp. Monetized via x402 on Base."
 server:
-  url: "https://multimodal-prompt-injection-guard-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/multimodal-prompt-injection-guard-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "user-agent-generator-mcp"
 description: "M2MCent Node: user-agent-generator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://user-agent-generator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/user-agent-generator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

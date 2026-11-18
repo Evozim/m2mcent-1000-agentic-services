@@ -2,7 +2,7 @@ version: "1.0"
 name: "jwt-token-expiration-mcp"
 description: "M2MCent Node: jwt-token-expiration-mcp. Monetized via x402 on Base."
 server:
-  url: "https://jwt-token-expiration-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/jwt-token-expiration-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

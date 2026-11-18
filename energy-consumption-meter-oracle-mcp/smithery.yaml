@@ -2,7 +2,7 @@ version: "1.0"
 name: "energy-consumption-meter-oracle-mcp"
 description: "M2MCent Node: energy-consumption-meter-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://energy-consumption-meter-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/energy-consumption-meter-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

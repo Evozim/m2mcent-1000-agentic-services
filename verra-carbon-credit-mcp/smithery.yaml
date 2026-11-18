@@ -2,7 +2,7 @@ version: "1.0"
 name: "verra-carbon-credit-mcp"
 description: "M2MCent Node: verra-carbon-credit-mcp. Monetized via x402 on Base."
 server:
-  url: "https://verra-carbon-credit-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/verra-carbon-credit-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

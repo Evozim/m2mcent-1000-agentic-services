@@ -2,7 +2,7 @@ version: "1.0"
 name: "quantum-shield-mcp"
 description: "M2MCent Node: quantum-shield-mcp. Monetized via x402 on Base."
 server:
-  url: "https://quantum-shield-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/quantum-shield-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

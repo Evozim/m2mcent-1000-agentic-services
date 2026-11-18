@@ -2,7 +2,7 @@ version: "1.0"
 name: "elevator-dispatch-mcp"
 description: "M2MCent Node: elevator-dispatch-mcp. Monetized via x402 on Base."
 server:
-  url: "https://elevator-dispatch-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/elevator-dispatch-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "airbnb-smart-lock-mcp"
 description: "M2MCent Node: airbnb-smart-lock-mcp. Monetized via x402 on Base."
 server:
-  url: "https://airbnb-smart-lock-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/airbnb-smart-lock-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

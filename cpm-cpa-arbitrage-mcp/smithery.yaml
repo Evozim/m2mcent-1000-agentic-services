@@ -2,7 +2,7 @@ version: "1.0"
 name: "cpm-cpa-arbitrage-mcp"
 description: "M2MCent Node: cpm-cpa-arbitrage-mcp. Monetized via x402 on Base."
 server:
-  url: "https://cpm-cpa-arbitrage-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/cpm-cpa-arbitrage-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

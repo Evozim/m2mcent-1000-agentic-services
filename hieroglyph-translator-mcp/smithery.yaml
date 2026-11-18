@@ -2,7 +2,7 @@ version: "1.0"
 name: "hieroglyph-translator-mcp"
 description: "M2MCent Node: hieroglyph-translator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://hieroglyph-translator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/hieroglyph-translator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

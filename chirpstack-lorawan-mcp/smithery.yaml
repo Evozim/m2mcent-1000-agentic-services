@@ -2,7 +2,7 @@ version: "1.0"
 name: "chirpstack-lorawan-mcp"
 description: "M2MCent Node: chirpstack-lorawan-mcp. Monetized via x402 on Base."
 server:
-  url: "https://chirpstack-lorawan-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/chirpstack-lorawan-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

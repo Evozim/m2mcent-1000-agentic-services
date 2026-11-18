@@ -2,7 +2,7 @@ version: "1.0"
 name: "youtube-transcript-extractor-mcp"
 description: "M2MCent Node: youtube-transcript-extractor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://youtube-transcript-extractor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/youtube-transcript-extractor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

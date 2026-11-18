@@ -2,7 +2,7 @@ version: "1.0"
 name: "stripe-secret-rotator-mcp"
 description: "M2MCent Node: stripe-secret-rotator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://stripe-secret-rotator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/stripe-secret-rotator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

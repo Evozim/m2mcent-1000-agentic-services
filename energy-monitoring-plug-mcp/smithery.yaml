@@ -2,7 +2,7 @@ version: "1.0"
 name: "energy-monitoring-plug-mcp"
 description: "M2MCent Node: energy-monitoring-plug-mcp. Monetized via x402 on Base."
 server:
-  url: "https://energy-monitoring-plug-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/energy-monitoring-plug-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

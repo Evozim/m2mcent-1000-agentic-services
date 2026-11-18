@@ -2,7 +2,7 @@ version: "1.0"
 name: "joint-venture-treasury-mcp"
 description: "M2MCent Node: joint-venture-treasury-mcp. Monetized via x402 on Base."
 server:
-  url: "https://joint-venture-treasury-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/joint-venture-treasury-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

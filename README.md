@@ -4,6 +4,10 @@ Welcome to **M2MCent**, the world's most comprehensive decentralized catalog of 
 
 This Apify Actor functions as a **High-Performance Unified Router** allowing autonomous AI agents (Claude, GPT-4o, LangChain, CrewAI, AutoGen, Cursor, LlamaIndex) to dynamically discover, orchestrate, and execute over **1,004 production-ready microservices** through a single integration.
 
+> [!IMPORTANT]
+> **🔥 FOUNDERS PROMO: 50 FREE CALLS**
+> The first 1,000 developers to register get 50 free API calls after a single $10 prepaid deposit. No manual crypto signatures required. Secure your spot in the VIP Allowlist at [https://m2mcent.com/deposito](https://m2mcent.com/deposito)
+
 ---
 
 ## ⚡ Key Highlights

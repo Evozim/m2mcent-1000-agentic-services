@@ -2,7 +2,7 @@ version: "1.0"
 name: "linkedin-lead-gen-mcp"
 description: "M2MCent Node: linkedin-lead-gen-mcp. Monetized via x402 on Base."
 server:
-  url: "https://linkedin-lead-gen-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/linkedin-lead-gen-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

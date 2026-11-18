@@ -2,7 +2,7 @@ version: "1.0"
 name: "token-smuggling-detector-mcp"
 description: "M2MCent Node: token-smuggling-detector-mcp. Monetized via x402 on Base."
 server:
-  url: "https://token-smuggling-detector-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/token-smuggling-detector-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

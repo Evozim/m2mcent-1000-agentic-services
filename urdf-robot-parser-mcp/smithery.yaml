@@ -2,7 +2,7 @@ version: "1.0"
 name: "urdf-robot-parser-mcp"
 description: "M2MCent Node: urdf-robot-parser-mcp. Monetized via x402 on Base."
 server:
-  url: "https://urdf-robot-parser-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/urdf-robot-parser-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

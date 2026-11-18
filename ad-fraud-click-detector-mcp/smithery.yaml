@@ -2,7 +2,7 @@ version: "1.0"
 name: "ad-fraud-click-detector-mcp"
 description: "M2MCent Node: ad-fraud-click-detector-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ad-fraud-click-detector-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ad-fraud-click-detector-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

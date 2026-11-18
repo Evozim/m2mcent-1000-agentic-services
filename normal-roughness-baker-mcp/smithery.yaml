@@ -2,7 +2,7 @@ version: "1.0"
 name: "normal-roughness-baker-mcp"
 description: "M2MCent Node: normal-roughness-baker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://normal-roughness-baker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/normal-roughness-baker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

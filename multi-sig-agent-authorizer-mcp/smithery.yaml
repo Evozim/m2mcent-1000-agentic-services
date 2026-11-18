@@ -2,7 +2,7 @@ version: "1.0"
 name: "multi-sig-agent-authorizer-mcp"
 description: "M2MCent Node: multi-sig-agent-authorizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://multi-sig-agent-authorizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/multi-sig-agent-authorizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

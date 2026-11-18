@@ -2,7 +2,7 @@ version: "1.0"
 name: "ndvi-satellite-health-mcp"
 description: "M2MCent Node: ndvi-satellite-health-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ndvi-satellite-health-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ndvi-satellite-health-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

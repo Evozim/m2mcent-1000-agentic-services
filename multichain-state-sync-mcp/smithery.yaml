@@ -2,7 +2,7 @@ version: "1.0"
 name: "multichain-state-sync-mcp"
 description: "M2MCent Node: multichain-state-sync-mcp. Monetized via x402 on Base."
 server:
-  url: "https://multichain-state-sync-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/multichain-state-sync-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

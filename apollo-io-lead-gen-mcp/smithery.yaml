@@ -2,7 +2,7 @@ version: "1.0"
 name: "apollo-io-lead-gen-mcp"
 description: "M2MCent Node: apollo-io-lead-gen-mcp. Monetized via x402 on Base."
 server:
-  url: "https://apollo-io-lead-gen-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/apollo-io-lead-gen-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

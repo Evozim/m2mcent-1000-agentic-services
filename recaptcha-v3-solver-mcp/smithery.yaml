@@ -2,7 +2,7 @@ version: "1.0"
 name: "recaptcha-v3-solver-mcp"
 description: "M2MCent Node: recaptcha-v3-solver-mcp. Monetized via x402 on Base."
 server:
-  url: "https://recaptcha-v3-solver-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/recaptcha-v3-solver-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "chain-agnostic-escrow-reader-mcp"
 description: "M2MCent Node: chain-agnostic-escrow-reader-mcp. Monetized via x402 on Base."
 server:
-  url: "https://chain-agnostic-escrow-reader-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/chain-agnostic-escrow-reader-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

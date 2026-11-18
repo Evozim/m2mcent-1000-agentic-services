@@ -2,7 +2,7 @@ version: "1.0"
 name: "profibus-data-logger-mcp"
 description: "M2MCent Node: profibus-data-logger-mcp. Monetized via x402 on Base."
 server:
-  url: "https://profibus-data-logger-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/profibus-data-logger-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

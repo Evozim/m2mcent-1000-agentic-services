@@ -2,7 +2,7 @@ version: "1.0"
 name: "influencer-roi-tracker-mcp"
 description: "M2MCent Node: influencer-roi-tracker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://influencer-roi-tracker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/influencer-roi-tracker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

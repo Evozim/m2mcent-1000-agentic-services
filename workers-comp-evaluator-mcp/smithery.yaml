@@ -2,7 +2,7 @@ version: "1.0"
 name: "workers-comp-evaluator-mcp"
 description: "M2MCent Node: workers-comp-evaluator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://workers-comp-evaluator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/workers-comp-evaluator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

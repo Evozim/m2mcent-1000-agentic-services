@@ -2,7 +2,7 @@ version: "1.0"
 name: "snapchat-geo-intel-mcp"
 description: "M2MCent Node: snapchat-geo-intel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://snapchat-geo-intel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/snapchat-geo-intel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

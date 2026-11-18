@@ -2,7 +2,7 @@ version: "1.0"
 name: "green-hydrogen-tracker-mcp"
 description: "M2MCent Node: green-hydrogen-tracker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://green-hydrogen-tracker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/green-hydrogen-tracker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

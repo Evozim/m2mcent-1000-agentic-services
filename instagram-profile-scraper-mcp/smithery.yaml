@@ -2,7 +2,7 @@ version: "1.0"
 name: "instagram-profile-scraper-mcp"
 description: "M2MCent Node: instagram-profile-scraper-mcp. Monetized via x402 on Base."
 server:
-  url: "https://instagram-profile-scraper-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/instagram-profile-scraper-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

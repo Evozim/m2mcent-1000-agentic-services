@@ -2,7 +2,7 @@ version: "1.0"
 name: "time-lock-deadline-mcp"
 description: "M2MCent Node: time-lock-deadline-mcp. Monetized via x402 on Base."
 server:
-  url: "https://time-lock-deadline-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/time-lock-deadline-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

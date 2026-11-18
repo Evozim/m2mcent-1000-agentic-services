@@ -2,7 +2,7 @@ version: "1.0"
 name: "onnx-graph-pruner-mcp"
 description: "M2MCent Node: onnx-graph-pruner-mcp. Monetized via x402 on Base."
 server:
-  url: "https://onnx-graph-pruner-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/onnx-graph-pruner-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

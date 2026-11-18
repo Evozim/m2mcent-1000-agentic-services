@@ -2,7 +2,7 @@ version: "1.0"
 name: "prompt-cache-hit-maximizer-mcp"
 description: "M2MCent Node: prompt-cache-hit-maximizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://prompt-cache-hit-maximizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/prompt-cache-hit-maximizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "long-term-memory-indexer-mcp"
 description: "M2MCent Node: long-term-memory-indexer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://long-term-memory-indexer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/long-term-memory-indexer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

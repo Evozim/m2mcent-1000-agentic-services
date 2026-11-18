@@ -2,7 +2,7 @@ version: "1.0"
 name: "rate-limit-manager-mcp"
 description: "M2MCent Node: rate-limit-manager-mcp. Monetized via x402 on Base."
 server:
-  url: "https://rate-limit-manager-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/rate-limit-manager-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

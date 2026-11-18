@@ -2,7 +2,7 @@ version: "1.0"
 name: "b2b-contract-renewal-mcp"
 description: "M2MCent Node: b2b-contract-renewal-mcp. Monetized via x402 on Base."
 server:
-  url: "https://b2b-contract-renewal-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/b2b-contract-renewal-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "irrigation-schedule-mcp"
 description: "M2MCent Node: irrigation-schedule-mcp. Monetized via x402 on Base."
 server:
-  url: "https://irrigation-schedule-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/irrigation-schedule-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

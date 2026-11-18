@@ -2,7 +2,7 @@ version: "1.0"
 name: "customs-clearance-bot-mcp"
 description: "M2MCent Node: customs-clearance-bot-mcp. Monetized via x402 on Base."
 server:
-  url: "https://customs-clearance-bot-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/customs-clearance-bot-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

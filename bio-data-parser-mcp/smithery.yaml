@@ -2,7 +2,7 @@ version: "1.0"
 name: "bio-data-parser-mcp"
 description: "M2MCent Node: bio-data-parser-mcp. Monetized via x402 on Base."
 server:
-  url: "https://bio-data-parser-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/bio-data-parser-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

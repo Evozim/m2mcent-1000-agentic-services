@@ -2,7 +2,7 @@ version: "1.0"
 name: "fhir-r4-parser-mcp"
 description: "M2MCent Node: fhir-r4-parser-mcp. Monetized via x402 on Base."
 server:
-  url: "https://fhir-r4-parser-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/fhir-r4-parser-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

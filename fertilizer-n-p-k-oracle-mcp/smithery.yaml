@@ -2,7 +2,7 @@ version: "1.0"
 name: "fertilizer-n-p-k-oracle-mcp"
 description: "M2MCent Node: fertilizer-n-p-k-oracle-mcp. Monetized via x402 on Base."
 server:
-  url: "https://fertilizer-n-p-k-oracle-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/fertilizer-n-p-k-oracle-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

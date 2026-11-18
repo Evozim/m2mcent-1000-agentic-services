@@ -2,7 +2,7 @@ version: "1.0"
 name: "esim-iot-profile-mcp"
 description: "M2MCent Node: esim-iot-profile-mcp. Monetized via x402 on Base."
 server:
-  url: "https://esim-iot-profile-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/esim-iot-profile-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

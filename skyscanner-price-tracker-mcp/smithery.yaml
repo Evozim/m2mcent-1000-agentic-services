@@ -2,7 +2,7 @@ version: "1.0"
 name: "skyscanner-price-tracker-mcp"
 description: "M2MCent Node: skyscanner-price-tracker-mcp. Monetized via x402 on Base."
 server:
-  url: "https://skyscanner-price-tracker-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/skyscanner-price-tracker-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

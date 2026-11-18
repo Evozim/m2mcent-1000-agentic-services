@@ -2,7 +2,7 @@ version: "1.0"
 name: "iaq-air-quality-mcp"
 description: "M2MCent Node: iaq-air-quality-mcp. Monetized via x402 on Base."
 server:
-  url: "https://iaq-air-quality-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/iaq-air-quality-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

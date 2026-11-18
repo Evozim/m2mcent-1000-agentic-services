@@ -2,7 +2,7 @@ version: "1.0"
 name: "tpms-tire-pressure-mcp"
 description: "M2MCent Node: tpms-tire-pressure-mcp. Monetized via x402 on Base."
 server:
-  url: "https://tpms-tire-pressure-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/tpms-tire-pressure-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

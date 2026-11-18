@@ -2,7 +2,7 @@ version: "1.0"
 name: "swarm-task-router-mcp"
 description: "M2MCent Node: swarm-task-router-mcp. Monetized via x402 on Base."
 server:
-  url: "https://swarm-task-router-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/swarm-task-router-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

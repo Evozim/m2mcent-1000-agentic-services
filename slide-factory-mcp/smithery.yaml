@@ -2,7 +2,7 @@ version: "1.0"
 name: "slide-factory-mcp"
 description: "M2MCent Node: slide-factory-mcp. Monetized via x402 on Base."
 server:
-  url: "https://slide-factory-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/slide-factory-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "leo-satellite-uplink-mcp"
 description: "M2MCent Node: leo-satellite-uplink-mcp. Monetized via x402 on Base."
 server:
-  url: "https://leo-satellite-uplink-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/leo-satellite-uplink-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

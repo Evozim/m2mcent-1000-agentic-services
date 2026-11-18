@@ -2,7 +2,7 @@ version: "1.0"
 name: "fiat-onramp-mcp"
 description: "M2MCent Node: fiat-onramp-mcp. Monetized via x402 on Base."
 server:
-  url: "https://fiat-onramp-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/fiat-onramp-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

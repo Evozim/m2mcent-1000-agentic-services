@@ -2,7 +2,7 @@ version: "1.0"
 name: "mrr-churn-predictor-mcp"
 description: "M2MCent Node: mrr-churn-predictor-mcp. Monetized via x402 on Base."
 server:
-  url: "https://mrr-churn-predictor-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/mrr-churn-predictor-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

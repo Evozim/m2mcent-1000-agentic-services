@@ -2,7 +2,7 @@ version: "1.0"
 name: "oracle-data-feed-sla-verifier-mcp"
 description: "M2MCent Node: oracle-data-feed-sla-verifier-mcp. Monetized via x402 on Base."
 server:
-  url: "https://oracle-data-feed-sla-verifier-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/oracle-data-feed-sla-verifier-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

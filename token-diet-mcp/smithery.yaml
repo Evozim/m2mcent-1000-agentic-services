@@ -2,7 +2,7 @@ version: "1.0"
 name: "token-diet-mcp"
 description: "M2MCent Node: token-diet-mcp. Monetized via x402 on Base."
 server:
-  url: "https://token-diet-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/token-diet-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

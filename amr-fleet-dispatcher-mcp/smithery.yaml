@@ -2,7 +2,7 @@ version: "1.0"
 name: "amr-fleet-dispatcher-mcp"
 description: "M2MCent Node: amr-fleet-dispatcher-mcp. Monetized via x402 on Base."
 server:
-  url: "https://amr-fleet-dispatcher-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/amr-fleet-dispatcher-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

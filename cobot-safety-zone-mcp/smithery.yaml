@@ -2,7 +2,7 @@ version: "1.0"
 name: "cobot-safety-zone-mcp"
 description: "M2MCent Node: cobot-safety-zone-mcp. Monetized via x402 on Base."
 server:
-  url: "https://cobot-safety-zone-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/cobot-safety-zone-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

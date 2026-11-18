@@ -2,7 +2,7 @@ version: "1.0"
 name: "quota-overage-biller-mcp"
 description: "M2MCent Node: quota-overage-biller-mcp. Monetized via x402 on Base."
 server:
-  url: "https://quota-overage-biller-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/quota-overage-biller-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

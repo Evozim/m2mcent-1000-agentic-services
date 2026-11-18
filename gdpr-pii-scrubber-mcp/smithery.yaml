@@ -2,7 +2,7 @@ version: "1.0"
 name: "gdpr-pii-scrubber-mcp"
 description: "M2MCent Node: gdpr-pii-scrubber-mcp. Monetized via x402 on Base."
 server:
-  url: "https://gdpr-pii-scrubber-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/gdpr-pii-scrubber-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

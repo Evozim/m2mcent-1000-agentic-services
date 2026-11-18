@@ -2,7 +2,7 @@ version: "1.0"
 name: "front-running-simulator-mcp"
 description: "M2MCent Node: front-running-simulator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://front-running-simulator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/front-running-simulator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

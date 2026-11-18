@@ -2,7 +2,7 @@ version: "1.0"
 name: "prompt-efficiency-scorer-mcp"
 description: "M2MCent Node: prompt-efficiency-scorer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://prompt-efficiency-scorer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/prompt-efficiency-scorer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

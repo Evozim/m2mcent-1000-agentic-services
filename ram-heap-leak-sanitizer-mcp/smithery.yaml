@@ -2,7 +2,7 @@ version: "1.0"
 name: "ram-heap-leak-sanitizer-mcp"
 description: "M2MCent Node: ram-heap-leak-sanitizer-mcp. Monetized via x402 on Base."
 server:
-  url: "https://ram-heap-leak-sanitizer-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/ram-heap-leak-sanitizer-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

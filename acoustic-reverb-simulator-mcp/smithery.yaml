@@ -2,7 +2,7 @@ version: "1.0"
 name: "acoustic-reverb-simulator-mcp"
 description: "M2MCent Node: acoustic-reverb-simulator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://acoustic-reverb-simulator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/acoustic-reverb-simulator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

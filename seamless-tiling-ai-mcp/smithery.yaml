@@ -2,7 +2,7 @@ version: "1.0"
 name: "seamless-tiling-ai-mcp"
 description: "M2MCent Node: seamless-tiling-ai-mcp. Monetized via x402 on Base."
 server:
-  url: "https://seamless-tiling-ai-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/seamless-tiling-ai-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

@@ -2,7 +2,7 @@ version: "1.0"
 name: "matchmove-3d-camera-mcp"
 description: "M2MCent Node: matchmove-3d-camera-mcp. Monetized via x402 on Base."
 server:
-  url: "https://matchmove-3d-camera-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/matchmove-3d-camera-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

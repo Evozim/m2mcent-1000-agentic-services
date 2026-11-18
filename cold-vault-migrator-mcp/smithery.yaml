@@ -2,7 +2,7 @@ version: "1.0"
 name: "cold-vault-migrator-mcp"
 description: "M2MCent Node: cold-vault-migrator-mcp. Monetized via x402 on Base."
 server:
-  url: "https://cold-vault-migrator-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/cold-vault-migrator-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

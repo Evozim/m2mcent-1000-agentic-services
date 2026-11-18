@@ -2,7 +2,7 @@ version: "1.0"
 name: "autonomous-tractor-path-mcp"
 description: "M2MCent Node: autonomous-tractor-path-mcp. Monetized via x402 on Base."
 server:
-  url: "https://autonomous-tractor-path-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/autonomous-tractor-path-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

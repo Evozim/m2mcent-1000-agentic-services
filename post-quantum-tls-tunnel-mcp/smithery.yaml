@@ -2,7 +2,7 @@ version: "1.0"
 name: "post-quantum-tls-tunnel-mcp"
 description: "M2MCent Node: post-quantum-tls-tunnel-mcp. Monetized via x402 on Base."
 server:
-  url: "https://post-quantum-tls-tunnel-mcp.m2mcent.com/api/process`"
+  url: "https://api.m2mcent.com/post-quantum-tls-tunnel-mcp/sse"
   protocol: "sse"
 pricing:
   x402:

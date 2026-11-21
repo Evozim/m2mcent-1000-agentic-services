@@ -2,17 +2,13 @@
 
 Welcome to **M2MCent**, the world's most comprehensive decentralized catalog of machine-to-machine (M2M) microservices, specialized APIs, and Model Context Protocol (MCP) tools designed specifically for autonomous AI Agents.
 
-This Apify Actor functions as a **High-Performance Unified Router** allowing autonomous AI agents (Claude, GPT-4o, LangChain, CrewAI, AutoGen, Cursor, LlamaIndex) to dynamically discover, orchestrate, and execute over **1,004 production-ready microservices** through a single integration.
-
-> [!IMPORTANT]
-> **🔥 FOUNDERS PROMO: 50 FREE CALLS**
-> The first 1,000 developers to register get 50 free API calls after a single $10 prepaid deposit. No manual crypto signatures required. Secure your spot in the VIP Allowlist at [https://m2mcent.com/deposito](https://m2mcent.com/deposito)
+This Apify Actor functions as a **High-Performance Unified Router** allowing autonomous AI agents (Claude, GPT-4o, LangChain, CrewAI, AutoGen, Cursor, LlamaIndex) to dynamically discover, orchestrate, and execute over **1,062 production-ready microservices** through a single native Apify integration.
 
 ---
 
 ## ⚡ Key Highlights
-- **1,004 Dedicated Tools**: From automated smart contract auditing and deepfake detection to industrial SCADA telemetry, satellite imagery, 3D WebGL generation, and real-time scrapers.
-- **Built-in x402 V2 Protocol**: Native machine-to-machine micropayments in USDC on Base Mainnet.
+- **1,062 Dedicated Tools**: From live B2B domain OSINT and HTML-to-Markdown extraction to Base L2 KYT forensics, live gas telemetry, ADS-B radar, 3D mesh tooling, and industrial SCADA telemetry.
+- **100% Native Apify Billing**: All usage and billing are handled directly through your Apify account — no external wallets, API keys, or third-party payment setups required.
 - **Zero Cold-Starts**: Ultra-fast serverless architecture responding in milliseconds.
 - **Dynamic Introspection**: Autonomous tool discovery for LLMs via the `toolName: "list"` command.
 
@@ -85,17 +81,17 @@ Pass the selected `toolName` and its parameters in `payload`:
 
 ---
 
-## 💰 Monetization & The x402 Protocol
+## 💳 Pricing & Billing
 
-When invoking premium microservices that require computation or external API bandwidth:
-1. The gateway responds with an HTTP `402 Payment Required` header challenge.
-2. The challenge includes the **Base Mainnet wallet** and required **micro-amount in USDC** (e.g. `$0.02 - $0.15 USDC`).
-3. Autonomous agents settle the transaction on-chain via Coinbase Developer Platform (CDP) or Web3 wallets and instantly receive their data.
+All usage and billing are handled **100% natively through Apify** using your Apify account balance:
+1. Run `toolName: "list"` to discover all available microservices and inspect metadata.
+2. Run any microservice slug with its JSON `payload` to receive live structured JSON output in your Apify default dataset.
+3. Check the **Pricing** tab on this Apify Store page for current platform compute and event rates — zero external accounts or payment gateways required.
 
 ---
 
-## 📋 Full Directory of All 1,004 Microservices (Searchable)
-*All services below are accessible via this Apify Gateway. The standard invocation fee is **$0.05 USDC** via the x402 protocol.*
+## 📋 Full Directory of Microservices (Searchable)
+*All services below are accessible directly via this Apify Actor using your Apify account.*
 
 ### 🎨 3D, Audio & Spatial Multimodal
 - ``3d-meshweaver-mcp``, ``3d-pallet-packing-mcp``, ``audio-anonymizer-voice-scrambler-mcp``, ``audio-description-mcp``, ``audio-watermarking-detector-mcp``, 
@@ -323,8 +319,6 @@ When invoking premium microservices that require computation or external API ban
 
 ---
 
-## 📚 Technical Documentation & Repositories
-- **Master Technical Encyclopedia**: [View Code Architecture Encyclopedia (M2MCENT_1000_NODES_CODE_ENCYCLOPEDIA.md)](./M2MCENT_1000_NODES_CODE_ENCYCLOPEDIA.md)
-- **Master Repository**: [GitHub - Evozim/m2mcent](https://github.com/Evozim/m2mcent)
-- **Official Portal**: [m2mcent.com](https://m2mcent.com)
-- **MCP Registry**: Search `M2MCent` on Smithery.ai
+## 📚 Support & Technical Reference
+- **Support & Issues**: Open a ticket directly in the **Issues** tab on this Apify Store page.
+- **Catalog Discovery**: Run this Actor with `{ "toolName": "list" }` to fetch the live structured list of endpoints.

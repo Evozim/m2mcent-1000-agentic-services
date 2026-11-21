@@ -7,17 +7,22 @@
             "status": {
                 "type": "integer",
                 "title": "HTTP Status",
-                "description": "HTTP response status code returned by the microservice or gateway."
+                "description": "HTTP response status code returned by the microservice."
+            },
+            "toolName": {
+                "type": "string",
+                "title": "Tool Name",
+                "description": "Executed microservice slug or 'list'."
             },
             "message": {
                 "type": "string",
                 "title": "Status Message",
-                "description": "Descriptive status or error message."
+                "description": "Descriptive status message."
             },
-            "x402_challenge": {
-                "type": "string",
-                "title": "x402 Payment Challenge",
-                "description": "Base Mainnet x402 payment challenge string when payment is required."
+            "latencyMs": {
+                "type": "integer",
+                "title": "Latency (ms)",
+                "description": "Execution latency in milliseconds."
             },
             "data": {
                 "type": "object",
@@ -33,8 +38,9 @@
             "transformation": {
                 "fields": [
                     "status",
+                    "toolName",
                     "message",
-                    "x402_challenge",
+                    "latencyMs",
                     "data"
                 ]
             },
@@ -45,13 +51,17 @@
                         "type": "integer",
                         "title": "HTTP Status"
                     },
+                    "toolName": {
+                        "type": "string",
+                        "title": "Tool Name"
+                    },
                     "message": {
                         "type": "string",
                         "title": "Status Message"
                     },
-                    "x402_challenge": {
-                        "type": "string",
-                        "title": "x402 Payment Challenge"
+                    "latencyMs": {
+                        "type": "integer",
+                        "title": "Latency (ms)"
                     },
                     "data": {
                         "type": "object",
@@ -62,4 +72,3 @@
         }
     }
 }
-

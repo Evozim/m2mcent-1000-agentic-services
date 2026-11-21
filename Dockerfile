@@ -1,6 +1,6 @@
-FROM node:18-alpine
-WORKDIR /usr/src/app
+FROM apify/actor-node:20
 COPY package*.json ./
-RUN npm install --only=prod
+RUN npm --quiet set progress=false \
+ && npm install --only=prod --no-optional
 COPY . ./
-CMD ["npm", "start"]
+CMD npm start

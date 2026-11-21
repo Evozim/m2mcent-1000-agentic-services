@@ -2,8 +2,8 @@
   "actorSpecification": 1,
   "name": "m2mcent-1000-agentic-services",
   "title": "M2MCent: 1,062 AI Agent Microservices",
-  "description": "Execute 1,062 live deterministic AI agent APIs on Base Mainnet (x402 V2 USDC): B2B Domain OSINT, Base Gas Oracle, Web-to-Markdown Crawler, Web3 KYT Forensics, and Live ADS-B Telemetry.",
-  "version": "2.1",
+  "description": "Discover and execute 1,062 live deterministic AI agent microservices natively on Apify: B2B Domain OSINT, Base L2 Gas Oracle, Web-to-Markdown Crawler, Web3 KYT Forensics, and Live ADS-B Telemetry.",
+  "version": "2.2",
   "buildTag": "latest",
   "categories": [
     "AI",
@@ -11,10 +11,14 @@
     "LEAD_GENERATION"
   ],
   "seoTitle": "M2MCent 1,062 AI Agent APIs — B2B OSINT, Web3 KYT, Base Gas & Markdown Crawler",
-  "seoDescription": "Discover and execute 1,062 live AI agent microservices via Apify and x402 V2 Base Mainnet USDC. Real DNS/TLS OSINT, Markdown crawler, Base KYT, and gas oracle.",
+  "seoDescription": "Discover and execute 1,062 live deterministic AI agent microservices natively on Apify. Real DNS/TLS OSINT, HTML-to-Markdown crawler, Base L2 KYT forensics, gas oracle, and live ADS-B telemetry.",
   "readme": "./README.md",
   "input": "../input_schema.json",
   "output": "../output_schema.json",
+  "dockerfile": "../Dockerfile",
+  "environmentVariables": {
+    "M2MCENT_APIFY_SERVICE_KEY": "@M2MCENT_APIFY_SERVICE_KEY"
+  },
   "storages": {
     "dataset": "../dataset_schema.json"
   }

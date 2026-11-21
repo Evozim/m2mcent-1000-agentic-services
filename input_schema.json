@@ -1,30 +1,24 @@
 {
   "title": "M2MCent Universal Actor Input",
+  "description": "Discover and execute 1,062 live deterministic AI agent microservices natively on Apify. Pass toolName='list' to browse the catalog or specify a microservice slug with its JSON payload.",
   "type": "object",
   "schemaVersion": 1,
   "properties": {
-    "toolName": { 
-      "title": "Tool Name",
-      "type": "string", 
-      "description": "Name of the MCP tool to execute (e.g. zero-leak-mcp, 3d-meshweaver-mcp, or 'list')",
+    "toolName": {
+      "title": "Tool Name (or 'list')",
+      "type": "string",
+      "description": "Name of the microservice to execute (e.g. 'b2b-company-enrich-mcp', 'gas-pulse-mcp', 'serp-markdown-crawler-mcp', 'web3-wallet-kyt-mcp', 'adsb-flight-tracker-mcp', or 'list' to browse the catalog).",
       "default": "list",
       "prefill": "list",
       "editor": "textfield"
     },
-    "payload": { 
+    "payload": {
       "title": "JSON Payload",
-      "type": "object", 
-      "description": "JSON object with query parameters (optional when toolName is list)",
+      "type": "object",
+      "description": "JSON object with parameters for the selected tool (optional when toolName is 'list', e.g. { \"search\": \"web3\", \"limit\": 20 } or { \"domain\": \"coinbase.com\" } for b2b-company-enrich-mcp).",
       "default": {},
       "prefill": {},
       "editor": "json"
-    },
-    "paymentSignature": {
-      "title": "AgentCash / Web3 Payment Signature (Optional)",
-      "type": "string",
-      "description": "EIP-3009 Signature or AgentCash token to pass the 402 Paywall",
-      "isSecret": true,
-      "editor": "textfield"
     }
   },
   "required": ["toolName"]

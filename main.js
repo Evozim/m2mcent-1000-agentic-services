@@ -92,11 +92,23 @@ Actor.main(async () => {
         ? explicitToolName
         : (explicitNodeId || explicitToolName || 'list');
 
+    let payloadObj = {};
+    if (input.payload !== undefined && input.payload !== null && input.payload !== '') {
+        try {
+            payloadObj = typeof input.payload === 'string' ? JSON.parse(input.payload) : input.payload;
+        } catch (_) {
+            const msg = 'Payload must be a valid JSON object';
+            await Actor.setStatusMessage(msg);
+            await Actor.fail(msg);
+            return;
+        }
+    }
+    if (!payloadObj || typeof payloadObj !== 'object' || Array.isArray(payloadObj)) {
+        payloadObj = {};
+    }
+
     if (!cleanToolName || cleanToolName.toLowerCase() === 'list') {
-        const listOpts = (input.payload && typeof input.payload === 'object' && !Array.isArray(input.payload))
-            ? input.payload
-            : {};
-        const listOut = await fetchCatalogList(listOpts);
+        const listOut = await fetchCatalogList(payloadObj);
         await Actor.pushData(listOut);
         await Actor.setStatusMessage(
             `Returned ${listOut.data.returnedCount} of ${listOut.data.totalCatalogCount} microservices in ${listOut.latencyMs}ms.`
@@ -109,21 +121,6 @@ Actor.main(async () => {
         await Actor.setStatusMessage(msg);
         await Actor.fail(msg);
         return;
-    }
-
-    let payloadObj = {};
-    if (input.payload !== undefined && input.payload !== null) {
-        try {
-            payloadObj = typeof input.payload === 'string' ? JSON.parse(input.payload) : input.payload;
-        } catch (_) {
-            const msg = 'Payload must be a valid JSON object';
-            await Actor.setStatusMessage(msg);
-            await Actor.fail(msg);
-            return;
-        }
-    }
-    if (!payloadObj || typeof payloadObj !== 'object' || Array.isArray(payloadObj)) {
-        payloadObj = {};
     }
 
     const apifyServiceKey = String(process.env.M2MCENT_APIFY_SERVICE_KEY || '').trim();
